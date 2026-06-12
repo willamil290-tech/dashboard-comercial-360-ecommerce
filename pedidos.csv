@@ -1,0 +1,2501 @@
+﻿id_pedido,id_cliente,data_pedido,status_pedido,canal_venda,forma_pagamento
+1,9,2024-03-15,Concluído,Site,Cartão de crédito
+2,111,2024-09-25,Concluído,Site,Cartão de débito
+3,147,2025-06-02,Concluído,Loja física,Cartão de débito
+4,206,2025-12-19,Concluído,App,Boleto
+5,159,2024-03-26,Concluído,App,Pix
+6,168,2025-07-03,Concluído,Site,Boleto
+7,224,2025-12-16,Em andamento,App,Cartão de crédito
+8,45,2024-09-07,Concluído,Site,Cartão de débito
+9,312,2025-09-18,Concluído,Marketplace,Pix
+10,7,2024-05-02,Cancelado,App,Cartão de crédito
+11,255,2024-06-16,Concluído,Marketplace,Pix
+12,65,2025-01-15,Em andamento,Marketplace,Cartão de crédito
+13,172,2024-01-31,Concluído,Marketplace,Cartão de crédito
+14,365,2024-09-26,Concluído,Site,Cartão de débito
+15,262,2025-04-11,Concluído,Site,Cartão de débito
+16,86,2025-08-03,Concluído,App,Boleto
+17,458,2024-04-15,Concluído,Site,Pix
+18,2,2025-06-05,Concluído,Site,Pix
+19,242,2024-02-17,Concluído,Loja física,Pix
+20,477,2024-07-02,Concluído,Loja física,Pix
+21,128,2024-11-25,Concluído,Marketplace,Boleto
+22,293,2024-03-20,Concluído,Site,Cartão de crédito
+23,115,2024-07-02,Concluído,Site,Cartão de débito
+24,450,2024-03-11,Concluído,Marketplace,Boleto
+25,45,2024-12-01,Concluído,Loja física,Cartão de crédito
+26,103,2025-01-12,Concluído,Marketplace,Pix
+27,189,2025-04-20,Concluído,Loja física,Pix
+28,390,2025-07-13,Concluído,App,Cartão de crédito
+29,13,2025-02-23,Concluído,Marketplace,Cartão de crédito
+30,1,2024-12-09,Em andamento,Loja física,Boleto
+31,106,2024-04-16,Concluído,App,Cartão de débito
+32,493,2025-05-18,Concluído,App,Boleto
+33,23,2024-04-05,Concluído,Loja física,Boleto
+34,499,2025-04-14,Em andamento,Site,Cartão de crédito
+35,69,2025-06-01,Concluído,Loja física,Cartão de crédito
+36,291,2025-08-29,Concluído,Loja física,Pix
+37,150,2024-08-30,Concluído,Marketplace,Cartão de débito
+38,426,2025-12-18,Em andamento,Marketplace,Boleto
+39,140,2025-04-08,Concluído,Site,Pix
+40,400,2024-05-19,Em andamento,Site,Pix
+41,85,2024-04-18,Concluído,Loja física,Boleto
+42,62,2025-02-20,Concluído,Marketplace,Pix
+43,158,2025-04-07,Concluído,Marketplace,Cartão de crédito
+44,81,2024-04-02,Cancelado,Marketplace,Cartão de crédito
+45,428,2024-08-08,Concluído,App,Cartão de crédito
+46,128,2025-12-29,Concluído,Loja física,Cartão de crédito
+47,154,2025-11-24,Concluído,App,Cartão de crédito
+48,438,2025-02-18,Concluído,App,Cartão de crédito
+49,53,2025-04-18,Concluído,Site,Cartão de crédito
+50,426,2024-03-04,Em andamento,App,Pix
+51,422,2024-07-21,Concluído,Marketplace,Cartão de crédito
+52,301,2025-08-19,Concluído,Site,Cartão de crédito
+53,102,2024-03-07,Cancelado,Loja física,Pix
+54,464,2024-04-04,Concluído,Site,Cartão de crédito
+55,26,2025-04-17,Concluído,Loja física,Cartão de débito
+56,16,2025-05-23,Concluído,Loja física,Pix
+57,110,2024-12-28,Concluído,Marketplace,Boleto
+58,453,2025-04-01,Concluído,Site,Pix
+59,152,2025-10-24,Concluído,Loja física,Cartão de débito
+60,45,2024-03-03,Concluído,Loja física,Pix
+61,103,2025-03-05,Cancelado,App,Cartão de crédito
+62,401,2025-01-26,Cancelado,Marketplace,Cartão de débito
+63,401,2025-07-11,Concluído,Marketplace,Boleto
+64,139,2025-02-01,Concluído,Site,Boleto
+65,113,2025-09-03,Concluído,Marketplace,Cartão de crédito
+66,272,2025-04-28,Concluído,App,Pix
+67,127,2024-04-12,Cancelado,App,Boleto
+68,418,2025-06-30,Em andamento,Site,Pix
+69,434,2025-08-12,Concluído,Marketplace,Pix
+70,122,2024-06-29,Concluído,Marketplace,Boleto
+71,15,2025-08-28,Cancelado,Marketplace,Pix
+72,486,2025-07-30,Concluído,Loja física,Boleto
+73,252,2024-06-28,Concluído,Site,Cartão de crédito
+74,309,2024-08-26,Concluído,Site,Cartão de débito
+75,170,2024-01-01,Concluído,App,Pix
+76,368,2024-12-14,Concluído,Marketplace,Cartão de crédito
+77,76,2024-01-23,Concluído,App,Cartão de crédito
+78,441,2025-06-22,Concluído,Site,Boleto
+79,483,2025-12-22,Cancelado,Loja física,Cartão de crédito
+80,155,2024-12-10,Concluído,App,Pix
+81,406,2025-03-23,Concluído,Loja física,Boleto
+82,363,2024-06-27,Concluído,Marketplace,Pix
+83,302,2025-11-12,Concluído,Loja física,Boleto
+84,151,2025-12-06,Concluído,App,Cartão de crédito
+85,486,2025-12-19,Concluído,Loja física,Cartão de crédito
+86,309,2024-07-05,Concluído,App,Cartão de crédito
+87,73,2025-05-23,Concluído,Site,Pix
+88,164,2024-12-21,Concluído,Site,Boleto
+89,6,2025-04-02,Concluído,App,Pix
+90,35,2025-12-10,Concluído,Marketplace,Cartão de crédito
+91,25,2024-01-02,Concluído,Loja física,Cartão de débito
+92,453,2024-06-19,Concluído,Loja física,Cartão de débito
+93,280,2024-12-25,Concluído,Site,Cartão de débito
+94,334,2025-08-14,Em andamento,App,Pix
+95,38,2025-04-07,Concluído,Marketplace,Cartão de crédito
+96,134,2024-11-22,Concluído,Site,Boleto
+97,455,2024-06-23,Concluído,App,Cartão de crédito
+98,483,2025-07-14,Concluído,Marketplace,Cartão de débito
+99,16,2025-12-22,Concluído,App,Cartão de débito
+100,28,2024-06-09,Concluído,Marketplace,Pix
+101,210,2024-07-13,Cancelado,Marketplace,Boleto
+102,122,2024-10-31,Concluído,Site,Cartão de débito
+103,282,2025-08-08,Concluído,App,Cartão de crédito
+104,2,2025-01-04,Concluído,Site,Boleto
+105,321,2025-11-08,Concluído,Loja física,Pix
+106,14,2024-04-09,Concluído,App,Boleto
+107,243,2024-03-24,Concluído,Marketplace,Cartão de débito
+108,251,2025-04-27,Cancelado,Marketplace,Cartão de crédito
+109,279,2025-10-19,Concluído,App,Boleto
+110,190,2025-01-25,Concluído,Loja física,Cartão de crédito
+111,226,2024-09-26,Concluído,Marketplace,Pix
+112,289,2024-10-02,Concluído,App,Cartão de crédito
+113,343,2024-03-28,Concluído,Loja física,Pix
+114,32,2025-07-20,Concluído,Loja física,Cartão de débito
+115,452,2025-08-09,Concluído,Loja física,Boleto
+116,203,2024-03-21,Cancelado,Site,Pix
+117,487,2024-05-03,Em andamento,Loja física,Pix
+118,498,2024-06-20,Concluído,App,Pix
+119,217,2024-02-13,Concluído,Loja física,Pix
+120,76,2025-10-04,Concluído,Marketplace,Boleto
+121,45,2024-03-09,Concluído,Loja física,Boleto
+122,267,2024-10-09,Concluído,Site,Cartão de débito
+123,213,2024-04-25,Concluído,App,Cartão de crédito
+124,289,2024-04-18,Em andamento,Site,Boleto
+125,451,2025-07-02,Concluído,Loja física,Boleto
+126,336,2025-01-27,Concluído,Loja física,Cartão de crédito
+127,142,2024-06-25,Concluído,App,Cartão de débito
+128,203,2024-02-09,Concluído,App,Cartão de crédito
+129,472,2025-05-01,Concluído,Marketplace,Cartão de crédito
+130,419,2024-12-11,Concluído,Marketplace,Boleto
+131,440,2025-05-18,Cancelado,Site,Pix
+132,154,2024-05-17,Em andamento,Loja física,Boleto
+133,374,2024-10-02,Concluído,Site,Pix
+134,109,2025-03-28,Concluído,Loja física,Boleto
+135,264,2024-02-27,Concluído,Site,Boleto
+136,260,2025-12-27,Concluído,App,Cartão de crédito
+137,99,2024-06-26,Concluído,Site,Pix
+138,234,2024-02-03,Concluído,Marketplace,Pix
+139,189,2024-10-07,Concluído,Loja física,Cartão de crédito
+140,16,2025-11-28,Concluído,Marketplace,Cartão de débito
+141,229,2025-08-31,Concluído,Loja física,Boleto
+142,84,2024-12-18,Concluído,Site,Boleto
+143,198,2024-01-29,Concluído,App,Pix
+144,332,2024-08-14,Concluído,App,Boleto
+145,210,2025-10-29,Concluído,Site,Cartão de crédito
+146,467,2025-04-30,Concluído,App,Cartão de crédito
+147,130,2024-08-17,Concluído,Marketplace,Boleto
+148,459,2025-03-09,Concluído,Marketplace,Cartão de débito
+149,112,2024-09-15,Concluído,Marketplace,Cartão de débito
+150,53,2025-08-21,Concluído,Marketplace,Boleto
+151,351,2024-11-01,Concluído,Loja física,Cartão de crédito
+152,142,2024-12-10,Concluído,Marketplace,Boleto
+153,336,2024-09-24,Cancelado,Marketplace,Pix
+154,265,2024-06-02,Em andamento,App,Cartão de crédito
+155,207,2025-09-06,Cancelado,Marketplace,Pix
+156,336,2024-01-27,Concluído,Marketplace,Boleto
+157,208,2025-03-04,Concluído,Site,Pix
+158,372,2024-12-17,Cancelado,App,Cartão de débito
+159,184,2025-11-18,Concluído,Marketplace,Pix
+160,449,2025-11-04,Concluído,App,Boleto
+161,242,2024-04-09,Concluído,Marketplace,Pix
+162,461,2025-11-27,Concluído,Site,Pix
+163,115,2024-12-29,Em andamento,Marketplace,Cartão de débito
+164,191,2024-12-05,Concluído,Marketplace,Cartão de débito
+165,241,2024-04-30,Concluído,Site,Cartão de débito
+166,257,2024-07-18,Concluído,Loja física,Boleto
+167,28,2025-02-27,Concluído,App,Pix
+168,210,2024-12-16,Concluído,Loja física,Pix
+169,442,2024-11-19,Cancelado,App,Cartão de crédito
+170,171,2025-05-14,Concluído,App,Boleto
+171,30,2025-10-11,Concluído,Loja física,Boleto
+172,390,2024-08-02,Em andamento,App,Pix
+173,403,2025-05-16,Em andamento,Site,Pix
+174,223,2025-09-21,Concluído,Loja física,Cartão de débito
+175,495,2025-03-15,Concluído,Loja física,Cartão de crédito
+176,274,2024-02-08,Concluído,Marketplace,Cartão de crédito
+177,388,2024-11-25,Concluído,App,Cartão de crédito
+178,3,2025-11-23,Concluído,App,Pix
+179,450,2025-12-11,Concluído,Marketplace,Pix
+180,197,2024-04-15,Concluído,Marketplace,Pix
+181,422,2024-03-07,Concluído,Marketplace,Boleto
+182,373,2025-04-11,Concluído,Marketplace,Cartão de débito
+183,69,2025-12-04,Concluído,Loja física,Boleto
+184,85,2024-07-11,Concluído,Site,Pix
+185,373,2024-08-17,Concluído,App,Cartão de crédito
+186,259,2025-08-26,Concluído,Site,Boleto
+187,334,2025-12-29,Concluído,Loja física,Boleto
+188,320,2025-07-01,Concluído,Site,Cartão de crédito
+189,429,2025-10-31,Concluído,Site,Cartão de crédito
+190,228,2025-03-02,Concluído,Site,Boleto
+191,360,2025-04-30,Concluído,App,Cartão de crédito
+192,216,2024-11-04,Cancelado,Site,Boleto
+193,311,2025-09-29,Cancelado,App,Cartão de débito
+194,262,2024-04-17,Em andamento,Site,Boleto
+195,402,2024-04-26,Concluído,Loja física,Pix
+196,103,2025-09-15,Em andamento,Marketplace,Pix
+197,361,2025-01-01,Concluído,Marketplace,Pix
+198,281,2024-02-10,Concluído,App,Cartão de débito
+199,121,2024-12-04,Concluído,Site,Cartão de crédito
+200,428,2024-04-23,Concluído,Loja física,Pix
+201,400,2024-04-02,Concluído,Site,Cartão de crédito
+202,330,2024-09-19,Concluído,Loja física,Boleto
+203,238,2024-09-27,Concluído,Site,Pix
+204,437,2024-02-10,Concluído,Marketplace,Boleto
+205,379,2025-03-12,Concluído,Site,Cartão de crédito
+206,437,2024-01-10,Concluído,App,Boleto
+207,458,2025-01-01,Concluído,Marketplace,Cartão de crédito
+208,418,2025-01-16,Concluído,App,Cartão de crédito
+209,205,2025-02-14,Concluído,Marketplace,Cartão de débito
+210,436,2025-12-07,Concluído,Loja física,Pix
+211,68,2024-04-25,Cancelado,Site,Pix
+212,214,2024-04-16,Concluído,Loja física,Cartão de débito
+213,313,2024-07-04,Concluído,Marketplace,Cartão de crédito
+214,451,2025-12-01,Em andamento,App,Cartão de débito
+215,58,2025-05-14,Concluído,Loja física,Cartão de crédito
+216,134,2024-03-05,Cancelado,Marketplace,Cartão de crédito
+217,445,2025-12-22,Cancelado,App,Boleto
+218,268,2025-06-15,Cancelado,Site,Cartão de débito
+219,373,2025-11-08,Concluído,Loja física,Boleto
+220,347,2025-11-10,Cancelado,Loja física,Pix
+221,457,2025-07-25,Concluído,Site,Cartão de crédito
+222,479,2025-10-20,Concluído,Loja física,Cartão de débito
+223,39,2024-06-18,Em andamento,Loja física,Boleto
+224,170,2024-09-03,Concluído,Site,Pix
+225,330,2025-07-17,Concluído,Loja física,Pix
+226,236,2024-03-21,Concluído,Loja física,Cartão de crédito
+227,229,2025-05-25,Concluído,Site,Cartão de débito
+228,10,2025-10-31,Concluído,Loja física,Cartão de débito
+229,286,2024-02-06,Concluído,Site,Cartão de crédito
+230,494,2025-09-10,Concluído,Marketplace,Pix
+231,344,2025-11-01,Concluído,Marketplace,Boleto
+232,419,2024-02-25,Concluído,Loja física,Boleto
+233,393,2025-07-27,Concluído,Loja física,Boleto
+234,59,2025-04-08,Concluído,App,Cartão de crédito
+235,182,2024-12-15,Concluído,Marketplace,Boleto
+236,55,2025-12-19,Concluído,App,Cartão de débito
+237,421,2024-05-23,Cancelado,Loja física,Cartão de crédito
+238,313,2024-09-17,Concluído,App,Cartão de crédito
+239,111,2025-02-06,Concluído,App,Boleto
+240,388,2024-04-20,Concluído,Site,Cartão de crédito
+241,235,2025-04-06,Cancelado,App,Cartão de débito
+242,272,2024-01-05,Em andamento,Site,Cartão de débito
+243,248,2025-08-22,Concluído,App,Pix
+244,54,2024-05-11,Concluído,Marketplace,Cartão de débito
+245,312,2025-03-04,Cancelado,App,Boleto
+246,494,2025-02-11,Concluído,Marketplace,Cartão de débito
+247,71,2024-05-16,Concluído,Marketplace,Boleto
+248,378,2025-12-29,Concluído,App,Pix
+249,320,2024-08-02,Cancelado,Marketplace,Boleto
+250,68,2025-11-19,Cancelado,App,Boleto
+251,60,2025-12-28,Em andamento,Marketplace,Cartão de débito
+252,293,2025-08-19,Cancelado,Loja física,Boleto
+253,414,2025-03-08,Concluído,Site,Cartão de crédito
+254,75,2025-01-25,Concluído,Site,Pix
+255,385,2024-09-30,Concluído,Marketplace,Boleto
+256,430,2024-05-29,Concluído,Marketplace,Pix
+257,17,2025-07-08,Concluído,Loja física,Cartão de crédito
+258,445,2025-09-22,Cancelado,App,Cartão de débito
+259,262,2024-08-31,Cancelado,Marketplace,Cartão de crédito
+260,199,2025-01-25,Concluído,Marketplace,Cartão de crédito
+261,381,2024-01-14,Concluído,App,Cartão de débito
+262,467,2024-08-18,Concluído,Marketplace,Pix
+263,151,2024-07-17,Concluído,App,Cartão de crédito
+264,493,2024-07-10,Concluído,Site,Cartão de débito
+265,220,2024-02-11,Concluído,Marketplace,Pix
+266,300,2024-06-13,Concluído,Site,Boleto
+267,364,2025-04-22,Concluído,Site,Pix
+268,306,2024-11-26,Concluído,Marketplace,Cartão de débito
+269,282,2025-08-09,Concluído,Site,Boleto
+270,113,2025-06-22,Concluído,Site,Pix
+271,279,2025-03-01,Concluído,Loja física,Cartão de crédito
+272,114,2024-12-23,Concluído,Marketplace,Boleto
+273,151,2025-01-04,Concluído,Loja física,Cartão de crédito
+274,343,2024-04-27,Concluído,Loja física,Pix
+275,315,2025-10-19,Concluído,App,Cartão de crédito
+276,454,2025-11-29,Concluído,Loja física,Cartão de crédito
+277,132,2025-01-30,Concluído,Marketplace,Cartão de crédito
+278,421,2025-06-13,Em andamento,Marketplace,Cartão de débito
+279,23,2025-05-13,Concluído,App,Boleto
+280,43,2025-06-10,Concluído,App,Cartão de crédito
+281,34,2025-10-03,Concluído,App,Cartão de débito
+282,106,2024-04-16,Concluído,Loja física,Cartão de crédito
+283,79,2025-12-03,Concluído,Loja física,Boleto
+284,45,2024-02-08,Concluído,Site,Pix
+285,286,2024-09-14,Concluído,App,Boleto
+286,199,2025-02-21,Concluído,Loja física,Cartão de débito
+287,9,2024-11-19,Concluído,Site,Cartão de crédito
+288,369,2025-10-18,Concluído,Site,Cartão de crédito
+289,435,2025-12-18,Concluído,Marketplace,Cartão de crédito
+290,403,2024-10-23,Cancelado,Marketplace,Cartão de crédito
+291,392,2024-10-15,Concluído,Loja física,Cartão de débito
+292,16,2025-11-07,Concluído,App,Pix
+293,383,2024-05-19,Concluído,Marketplace,Pix
+294,347,2024-11-01,Em andamento,Marketplace,Cartão de crédito
+295,448,2025-07-20,Concluído,App,Cartão de crédito
+296,3,2024-02-12,Concluído,Loja física,Cartão de crédito
+297,108,2024-11-08,Em andamento,Marketplace,Pix
+298,464,2025-02-26,Cancelado,App,Pix
+299,114,2024-07-07,Concluído,Marketplace,Pix
+300,93,2024-04-27,Cancelado,Site,Cartão de débito
+301,282,2025-10-22,Concluído,Marketplace,Cartão de crédito
+302,51,2024-09-13,Concluído,Loja física,Boleto
+303,66,2024-12-31,Cancelado,App,Cartão de crédito
+304,318,2024-10-18,Concluído,App,Boleto
+305,231,2025-05-12,Concluído,Marketplace,Pix
+306,291,2025-08-02,Concluído,Marketplace,Cartão de débito
+307,3,2024-06-21,Concluído,App,Pix
+308,379,2025-12-30,Cancelado,Loja física,Boleto
+309,69,2025-01-03,Cancelado,Marketplace,Cartão de débito
+310,229,2025-04-18,Concluído,Marketplace,Cartão de débito
+311,56,2025-07-18,Concluído,Site,Boleto
+312,457,2024-05-23,Concluído,App,Boleto
+313,40,2025-10-03,Em andamento,Site,Cartão de crédito
+314,324,2025-06-03,Concluído,Loja física,Pix
+315,283,2024-02-07,Concluído,Loja física,Pix
+316,201,2025-01-09,Concluído,Marketplace,Pix
+317,257,2025-04-20,Concluído,Site,Cartão de débito
+318,258,2025-01-07,Concluído,App,Pix
+319,72,2025-06-10,Concluído,App,Pix
+320,486,2025-08-02,Concluído,App,Cartão de débito
+321,21,2025-01-02,Concluído,Loja física,Pix
+322,136,2024-03-05,Concluído,App,Cartão de crédito
+323,106,2025-11-15,Concluído,Marketplace,Cartão de débito
+324,470,2025-04-25,Concluído,Site,Cartão de crédito
+325,166,2025-10-26,Concluído,Marketplace,Boleto
+326,279,2025-08-15,Concluído,App,Cartão de débito
+327,194,2025-10-31,Concluído,Site,Boleto
+328,499,2025-01-20,Concluído,Loja física,Boleto
+329,250,2024-12-19,Concluído,Site,Pix
+330,85,2025-03-26,Concluído,Site,Boleto
+331,77,2024-08-04,Concluído,App,Boleto
+332,368,2025-09-08,Concluído,App,Cartão de débito
+333,369,2024-12-04,Concluído,Loja física,Cartão de débito
+334,108,2025-05-05,Concluído,App,Cartão de débito
+335,125,2024-01-23,Concluído,App,Pix
+336,323,2024-05-17,Concluído,Site,Pix
+337,86,2024-02-27,Concluído,App,Cartão de débito
+338,497,2025-09-05,Concluído,Site,Boleto
+339,111,2024-03-28,Concluído,Loja física,Cartão de débito
+340,113,2024-06-23,Concluído,App,Pix
+341,338,2025-09-30,Concluído,Marketplace,Pix
+342,176,2025-12-03,Concluído,Site,Pix
+343,198,2025-01-22,Concluído,Site,Cartão de crédito
+344,268,2024-07-26,Concluído,Loja física,Pix
+345,50,2025-09-12,Concluído,Loja física,Cartão de crédito
+346,258,2025-06-28,Em andamento,Site,Cartão de crédito
+347,338,2025-05-08,Concluído,Site,Cartão de débito
+348,216,2025-06-18,Concluído,Site,Cartão de débito
+349,481,2024-08-22,Concluído,Loja física,Boleto
+350,412,2025-08-26,Em andamento,Site,Cartão de débito
+351,131,2024-05-17,Concluído,App,Cartão de crédito
+352,307,2024-10-17,Concluído,Loja física,Boleto
+353,3,2024-07-12,Cancelado,Site,Cartão de crédito
+354,4,2025-06-16,Concluído,App,Boleto
+355,186,2025-02-22,Concluído,App,Cartão de débito
+356,300,2025-10-29,Concluído,Marketplace,Cartão de débito
+357,188,2025-08-01,Concluído,Marketplace,Cartão de débito
+358,212,2024-07-27,Concluído,Loja física,Pix
+359,287,2025-01-14,Concluído,Loja física,Boleto
+360,296,2024-11-10,Concluído,Loja física,Pix
+361,61,2025-11-06,Em andamento,App,Cartão de débito
+362,487,2025-12-17,Concluído,Site,Pix
+363,206,2025-06-04,Concluído,Site,Pix
+364,494,2025-02-02,Concluído,Site,Cartão de crédito
+365,242,2024-05-28,Concluído,Loja física,Cartão de crédito
+366,135,2024-03-06,Concluído,Marketplace,Cartão de crédito
+367,20,2025-09-15,Em andamento,Loja física,Cartão de débito
+368,336,2025-09-20,Concluído,Marketplace,Cartão de crédito
+369,328,2024-06-28,Concluído,Loja física,Cartão de crédito
+370,436,2024-07-25,Cancelado,Marketplace,Pix
+371,402,2024-02-04,Concluído,App,Pix
+372,19,2025-11-21,Concluído,App,Cartão de crédito
+373,45,2024-06-10,Concluído,Loja física,Boleto
+374,203,2025-11-16,Concluído,App,Cartão de crédito
+375,36,2025-12-21,Concluído,Marketplace,Boleto
+376,494,2024-12-21,Concluído,App,Pix
+377,477,2025-04-10,Concluído,Site,Boleto
+378,209,2024-06-28,Concluído,Site,Cartão de crédito
+379,151,2025-05-30,Concluído,Site,Boleto
+380,417,2025-07-04,Concluído,Marketplace,Cartão de débito
+381,289,2025-01-21,Concluído,App,Boleto
+382,349,2025-04-14,Concluído,Site,Cartão de débito
+383,133,2024-04-29,Concluído,Loja física,Pix
+384,360,2025-11-24,Concluído,Marketplace,Cartão de débito
+385,265,2024-12-27,Concluído,Site,Boleto
+386,148,2024-09-11,Concluído,Loja física,Boleto
+387,284,2024-03-18,Concluído,Loja física,Boleto
+388,112,2024-12-28,Concluído,Marketplace,Pix
+389,477,2025-11-30,Concluído,Loja física,Pix
+390,377,2024-08-28,Concluído,Marketplace,Pix
+391,104,2024-08-22,Concluído,Marketplace,Pix
+392,62,2024-04-19,Concluído,Loja física,Cartão de crédito
+393,491,2025-07-08,Concluído,Loja física,Boleto
+394,162,2025-09-27,Concluído,Marketplace,Cartão de débito
+395,392,2024-07-06,Concluído,Marketplace,Cartão de débito
+396,385,2024-08-15,Concluído,App,Cartão de crédito
+397,410,2025-06-22,Concluído,Loja física,Cartão de crédito
+398,178,2025-05-29,Concluído,App,Cartão de débito
+399,358,2024-05-03,Concluído,Loja física,Boleto
+400,5,2025-12-06,Concluído,App,Cartão de débito
+401,52,2025-08-17,Concluído,Marketplace,Boleto
+402,281,2024-07-10,Concluído,App,Boleto
+403,491,2025-04-27,Concluído,Marketplace,Boleto
+404,256,2024-07-07,Concluído,App,Cartão de débito
+405,386,2025-12-18,Concluído,Marketplace,Cartão de débito
+406,231,2024-10-13,Concluído,App,Pix
+407,370,2024-04-12,Concluído,App,Cartão de débito
+408,101,2025-01-25,Concluído,App,Cartão de débito
+409,91,2024-01-10,Concluído,Loja física,Pix
+410,265,2025-10-07,Concluído,Marketplace,Cartão de débito
+411,129,2024-11-03,Concluído,Site,Cartão de débito
+412,354,2024-04-11,Concluído,Site,Pix
+413,244,2024-09-17,Concluído,Site,Cartão de débito
+414,134,2024-12-08,Concluído,Marketplace,Boleto
+415,11,2024-12-18,Concluído,Site,Boleto
+416,494,2025-11-26,Concluído,App,Pix
+417,182,2024-10-18,Concluído,Loja física,Cartão de débito
+418,196,2024-03-21,Concluído,Marketplace,Cartão de débito
+419,490,2025-10-08,Concluído,App,Boleto
+420,324,2025-03-07,Concluído,Loja física,Cartão de crédito
+421,83,2024-03-22,Concluído,App,Boleto
+422,335,2024-11-20,Concluído,Marketplace,Cartão de débito
+423,455,2024-10-04,Concluído,Marketplace,Cartão de débito
+424,86,2025-02-27,Concluído,Site,Pix
+425,339,2024-08-28,Concluído,Site,Pix
+426,204,2024-06-19,Concluído,Site,Cartão de crédito
+427,281,2025-04-29,Concluído,Site,Cartão de débito
+428,392,2025-06-20,Concluído,Site,Boleto
+429,80,2025-09-24,Concluído,Loja física,Boleto
+430,127,2024-08-22,Em andamento,Marketplace,Cartão de débito
+431,65,2025-10-03,Concluído,App,Cartão de crédito
+432,340,2024-02-05,Concluído,Marketplace,Cartão de débito
+433,500,2025-04-23,Concluído,Marketplace,Cartão de débito
+434,497,2024-05-18,Cancelado,App,Cartão de débito
+435,384,2025-10-08,Concluído,Loja física,Boleto
+436,247,2024-12-21,Concluído,App,Cartão de crédito
+437,158,2025-03-28,Concluído,Loja física,Boleto
+438,156,2024-06-08,Concluído,Site,Pix
+439,147,2024-12-18,Concluído,Site,Cartão de débito
+440,154,2025-05-03,Concluído,Loja física,Boleto
+441,119,2025-09-03,Concluído,Marketplace,Pix
+442,452,2025-02-25,Concluído,Loja física,Cartão de débito
+443,84,2024-09-12,Cancelado,Loja física,Cartão de débito
+444,135,2024-08-13,Concluído,Loja física,Pix
+445,392,2025-06-13,Concluído,Marketplace,Boleto
+446,381,2025-10-26,Concluído,Marketplace,Cartão de débito
+447,437,2024-07-11,Concluído,App,Pix
+448,57,2024-10-23,Concluído,Loja física,Cartão de débito
+449,359,2024-10-05,Concluído,Loja física,Pix
+450,10,2024-11-24,Concluído,Site,Cartão de crédito
+451,498,2024-07-09,Concluído,Marketplace,Boleto
+452,367,2024-05-08,Concluído,Site,Pix
+453,78,2024-04-02,Concluído,Loja física,Pix
+454,216,2024-12-16,Concluído,Loja física,Boleto
+455,357,2025-04-19,Concluído,Marketplace,Cartão de crédito
+456,29,2024-05-29,Concluído,Loja física,Cartão de crédito
+457,241,2025-07-10,Concluído,App,Boleto
+458,425,2025-01-25,Concluído,Site,Pix
+459,395,2025-01-29,Concluído,App,Cartão de crédito
+460,236,2024-07-22,Em andamento,Site,Pix
+461,200,2025-04-29,Cancelado,Marketplace,Boleto
+462,323,2024-06-11,Em andamento,Site,Cartão de crédito
+463,247,2024-09-16,Concluído,Marketplace,Pix
+464,455,2025-01-04,Concluído,App,Cartão de crédito
+465,325,2024-08-29,Concluído,Marketplace,Cartão de crédito
+466,407,2024-06-20,Concluído,Site,Cartão de débito
+467,5,2024-09-05,Concluído,Loja física,Pix
+468,395,2025-01-15,Concluído,App,Pix
+469,47,2025-05-26,Cancelado,Marketplace,Cartão de crédito
+470,183,2024-03-02,Cancelado,App,Cartão de crédito
+471,250,2024-05-08,Concluído,Marketplace,Boleto
+472,376,2025-03-25,Concluído,Site,Cartão de débito
+473,371,2025-01-01,Concluído,Marketplace,Cartão de crédito
+474,362,2025-05-11,Concluído,Marketplace,Cartão de débito
+475,291,2024-07-13,Concluído,Marketplace,Boleto
+476,141,2025-04-24,Concluído,App,Cartão de crédito
+477,80,2025-06-27,Concluído,Marketplace,Boleto
+478,188,2025-07-08,Concluído,Site,Cartão de débito
+479,453,2024-07-08,Concluído,Marketplace,Pix
+480,370,2024-11-24,Concluído,Loja física,Pix
+481,350,2025-06-20,Concluído,App,Boleto
+482,210,2024-11-26,Cancelado,Marketplace,Cartão de crédito
+483,268,2024-04-08,Cancelado,Site,Cartão de crédito
+484,92,2024-05-12,Concluído,App,Cartão de crédito
+485,99,2025-05-12,Concluído,Site,Cartão de débito
+486,251,2025-11-04,Concluído,Marketplace,Cartão de crédito
+487,114,2025-01-10,Concluído,Site,Cartão de crédito
+488,336,2024-08-01,Concluído,Site,Cartão de débito
+489,32,2025-10-16,Concluído,Loja física,Boleto
+490,30,2025-12-26,Concluído,Marketplace,Cartão de crédito
+491,428,2024-03-13,Concluído,Site,Pix
+492,50,2025-06-15,Concluído,App,Cartão de débito
+493,99,2024-07-13,Concluído,App,Pix
+494,384,2025-07-25,Concluído,Loja física,Cartão de crédito
+495,296,2025-10-15,Concluído,Loja física,Cartão de débito
+496,86,2024-04-16,Concluído,Loja física,Boleto
+497,81,2025-11-04,Concluído,Loja física,Boleto
+498,282,2024-11-18,Concluído,Marketplace,Cartão de débito
+499,221,2025-10-10,Em andamento,Marketplace,Pix
+500,280,2025-07-30,Concluído,Loja física,Boleto
+501,493,2025-01-03,Concluído,Loja física,Cartão de débito
+502,372,2024-01-01,Concluído,Marketplace,Cartão de crédito
+503,70,2025-06-14,Concluído,Site,Boleto
+504,110,2024-08-15,Concluído,Site,Boleto
+505,262,2025-07-20,Concluído,App,Cartão de crédito
+506,236,2024-02-08,Concluído,App,Pix
+507,188,2024-09-28,Concluído,App,Pix
+508,416,2024-09-19,Concluído,Site,Cartão de débito
+509,470,2025-08-05,Concluído,Site,Boleto
+510,89,2025-05-09,Concluído,Site,Boleto
+511,375,2024-02-08,Concluído,Loja física,Cartão de crédito
+512,472,2024-02-27,Em andamento,Marketplace,Boleto
+513,214,2025-03-20,Concluído,App,Cartão de crédito
+514,399,2025-10-11,Concluído,Loja física,Cartão de crédito
+515,269,2024-11-08,Concluído,Marketplace,Pix
+516,258,2024-11-30,Cancelado,App,Pix
+517,345,2024-02-21,Em andamento,Loja física,Cartão de débito
+518,295,2025-09-01,Concluído,Site,Pix
+519,149,2025-03-18,Concluído,App,Pix
+520,43,2024-12-10,Concluído,Site,Cartão de débito
+521,44,2024-09-25,Concluído,Loja física,Pix
+522,247,2024-05-18,Concluído,App,Cartão de débito
+523,334,2025-02-08,Concluído,App,Pix
+524,37,2024-09-05,Concluído,Loja física,Boleto
+525,474,2025-12-02,Concluído,Site,Cartão de crédito
+526,212,2025-11-18,Concluído,Marketplace,Boleto
+527,165,2024-07-14,Concluído,Site,Boleto
+528,180,2024-06-22,Concluído,Loja física,Pix
+529,23,2025-03-27,Concluído,App,Boleto
+530,388,2024-06-08,Em andamento,Site,Cartão de crédito
+531,125,2024-02-25,Concluído,App,Boleto
+532,176,2024-01-15,Cancelado,Site,Boleto
+533,242,2025-04-05,Concluído,Marketplace,Pix
+534,109,2025-07-04,Concluído,Marketplace,Cartão de débito
+535,374,2025-09-29,Concluído,Site,Cartão de débito
+536,464,2025-08-19,Cancelado,Site,Boleto
+537,31,2024-06-23,Concluído,App,Boleto
+538,239,2024-02-24,Cancelado,Site,Cartão de crédito
+539,339,2025-02-01,Concluído,Marketplace,Cartão de crédito
+540,150,2024-01-20,Cancelado,Loja física,Pix
+541,261,2025-01-24,Cancelado,Site,Boleto
+542,444,2025-05-11,Concluído,Site,Pix
+543,257,2024-07-22,Concluído,Site,Cartão de crédito
+544,473,2024-09-10,Concluído,Marketplace,Boleto
+545,202,2025-05-16,Em andamento,App,Cartão de crédito
+546,351,2024-12-21,Concluído,Marketplace,Boleto
+547,257,2024-08-29,Concluído,Site,Boleto
+548,456,2025-01-31,Concluído,Marketplace,Pix
+549,175,2024-06-04,Concluído,App,Cartão de crédito
+550,267,2025-01-26,Cancelado,App,Cartão de débito
+551,294,2024-09-03,Concluído,Loja física,Boleto
+552,169,2025-09-11,Concluído,App,Pix
+553,71,2025-10-30,Concluído,App,Pix
+554,353,2024-11-12,Cancelado,App,Cartão de débito
+555,336,2024-05-28,Concluído,App,Boleto
+556,286,2024-03-10,Concluído,Site,Pix
+557,430,2024-11-21,Concluído,Site,Boleto
+558,493,2025-02-27,Concluído,Marketplace,Cartão de débito
+559,478,2025-10-14,Em andamento,Marketplace,Pix
+560,55,2024-07-11,Concluído,App,Cartão de crédito
+561,316,2025-09-18,Concluído,App,Pix
+562,352,2024-08-24,Concluído,Marketplace,Cartão de crédito
+563,400,2025-12-05,Concluído,App,Cartão de débito
+564,333,2025-12-30,Concluído,App,Cartão de débito
+565,243,2025-05-18,Concluído,App,Pix
+566,17,2024-08-19,Concluído,Site,Boleto
+567,114,2025-02-26,Em andamento,App,Pix
+568,91,2024-03-08,Concluído,Loja física,Boleto
+569,455,2025-04-13,Concluído,Loja física,Cartão de débito
+570,312,2024-02-12,Em andamento,Loja física,Boleto
+571,314,2025-02-07,Em andamento,Site,Cartão de crédito
+572,234,2025-04-07,Concluído,App,Cartão de débito
+573,286,2024-02-10,Concluído,Site,Pix
+574,226,2024-10-25,Concluído,Marketplace,Boleto
+575,86,2025-04-17,Concluído,Marketplace,Cartão de crédito
+576,265,2025-12-07,Concluído,Loja física,Cartão de débito
+577,370,2024-04-02,Concluído,Site,Pix
+578,481,2025-08-22,Cancelado,App,Cartão de débito
+579,166,2025-02-27,Concluído,Site,Pix
+580,303,2025-04-09,Cancelado,App,Cartão de débito
+581,129,2024-04-02,Concluído,App,Cartão de crédito
+582,59,2024-04-03,Cancelado,Loja física,Boleto
+583,269,2024-03-28,Cancelado,Loja física,Pix
+584,282,2025-01-22,Concluído,Site,Pix
+585,290,2024-12-09,Cancelado,App,Pix
+586,92,2024-05-28,Em andamento,Site,Cartão de débito
+587,159,2024-11-11,Em andamento,Loja física,Boleto
+588,93,2025-10-03,Concluído,App,Pix
+589,319,2024-01-04,Em andamento,Marketplace,Cartão de crédito
+590,255,2025-04-14,Concluído,Site,Cartão de débito
+591,112,2024-08-31,Concluído,Loja física,Cartão de débito
+592,227,2025-02-23,Concluído,Site,Pix
+593,143,2025-07-14,Concluído,App,Cartão de crédito
+594,76,2024-07-08,Concluído,Marketplace,Cartão de crédito
+595,438,2024-05-28,Concluído,Marketplace,Boleto
+596,26,2024-03-30,Concluído,Loja física,Pix
+597,345,2024-06-14,Concluído,App,Cartão de débito
+598,185,2025-08-15,Concluído,Site,Boleto
+599,189,2024-11-26,Concluído,Site,Cartão de débito
+600,34,2025-07-17,Concluído,Loja física,Pix
+601,356,2024-05-04,Concluído,Marketplace,Cartão de débito
+602,108,2025-06-21,Cancelado,App,Cartão de crédito
+603,293,2024-04-21,Em andamento,Site,Cartão de débito
+604,310,2025-12-06,Cancelado,Marketplace,Cartão de débito
+605,435,2025-09-15,Concluído,Marketplace,Boleto
+606,315,2024-05-12,Concluído,Loja física,Cartão de débito
+607,414,2025-05-19,Concluído,App,Boleto
+608,1,2024-07-17,Concluído,Site,Cartão de débito
+609,408,2025-10-02,Concluído,App,Cartão de débito
+610,24,2025-02-27,Concluído,Marketplace,Pix
+611,328,2024-01-12,Concluído,Marketplace,Boleto
+612,158,2024-03-10,Concluído,Marketplace,Cartão de crédito
+613,352,2024-04-26,Concluído,Marketplace,Cartão de débito
+614,316,2025-08-05,Concluído,App,Pix
+615,427,2024-12-04,Concluído,Loja física,Cartão de débito
+616,331,2024-02-06,Concluído,Loja física,Pix
+617,236,2025-10-04,Concluído,Marketplace,Cartão de débito
+618,476,2025-02-27,Em andamento,Site,Boleto
+619,372,2025-08-01,Cancelado,Marketplace,Cartão de crédito
+620,296,2024-08-01,Cancelado,Marketplace,Boleto
+621,497,2024-03-08,Concluído,Marketplace,Cartão de crédito
+622,193,2024-12-13,Concluído,App,Cartão de débito
+623,305,2024-07-10,Concluído,Marketplace,Boleto
+624,17,2025-12-27,Concluído,Loja física,Cartão de crédito
+625,450,2025-05-23,Concluído,Marketplace,Cartão de débito
+626,111,2024-11-05,Concluído,Marketplace,Pix
+627,192,2024-04-24,Concluído,App,Cartão de crédito
+628,260,2025-03-30,Concluído,Loja física,Pix
+629,175,2024-07-13,Concluído,Marketplace,Boleto
+630,394,2024-05-26,Concluído,App,Pix
+631,236,2024-02-07,Concluído,Site,Cartão de crédito
+632,478,2024-11-14,Concluído,Site,Boleto
+633,456,2025-04-23,Concluído,Site,Boleto
+634,296,2024-01-24,Em andamento,Marketplace,Pix
+635,103,2024-11-24,Concluído,Marketplace,Boleto
+636,164,2025-06-29,Em andamento,Loja física,Cartão de crédito
+637,77,2024-10-06,Concluído,Marketplace,Cartão de crédito
+638,491,2024-01-16,Concluído,Site,Pix
+639,180,2025-07-09,Concluído,Marketplace,Boleto
+640,483,2024-05-24,Cancelado,Marketplace,Pix
+641,37,2024-06-24,Concluído,Marketplace,Cartão de débito
+642,67,2024-02-21,Concluído,Loja física,Cartão de crédito
+643,197,2024-04-18,Concluído,Site,Cartão de débito
+644,92,2025-02-05,Cancelado,Loja física,Boleto
+645,171,2024-11-15,Concluído,Site,Cartão de débito
+646,68,2025-08-04,Concluído,Loja física,Cartão de crédito
+647,159,2025-04-11,Cancelado,Loja física,Cartão de débito
+648,486,2024-08-25,Concluído,App,Boleto
+649,201,2025-01-07,Concluído,Marketplace,Boleto
+650,250,2025-04-09,Concluído,Site,Cartão de débito
+651,180,2024-04-25,Concluído,Loja física,Pix
+652,394,2024-10-16,Concluído,App,Cartão de crédito
+653,419,2025-02-19,Cancelado,Site,Boleto
+654,333,2025-07-23,Concluído,Marketplace,Cartão de débito
+655,303,2025-02-14,Concluído,App,Pix
+656,82,2025-07-15,Concluído,Loja física,Cartão de crédito
+657,107,2024-12-14,Cancelado,Loja física,Cartão de débito
+658,404,2025-08-03,Concluído,App,Pix
+659,343,2025-11-09,Concluído,Loja física,Cartão de crédito
+660,306,2025-08-29,Concluído,Marketplace,Cartão de crédito
+661,91,2025-03-31,Concluído,Loja física,Cartão de crédito
+662,56,2025-09-04,Cancelado,Loja física,Boleto
+663,331,2025-05-21,Cancelado,Site,Cartão de crédito
+664,419,2024-08-10,Concluído,Site,Pix
+665,77,2025-11-07,Concluído,Marketplace,Cartão de débito
+666,296,2025-09-22,Concluído,App,Pix
+667,450,2025-11-28,Concluído,Marketplace,Boleto
+668,368,2025-03-21,Concluído,Site,Cartão de crédito
+669,262,2025-09-18,Concluído,App,Boleto
+670,190,2024-03-04,Concluído,Site,Cartão de crédito
+671,287,2025-12-21,Concluído,Site,Boleto
+672,121,2024-02-01,Concluído,Loja física,Boleto
+673,196,2025-12-29,Concluído,Loja física,Cartão de débito
+674,109,2025-07-12,Cancelado,App,Cartão de débito
+675,97,2024-05-22,Concluído,Loja física,Boleto
+676,79,2025-03-03,Concluído,App,Pix
+677,37,2024-01-12,Cancelado,Site,Pix
+678,337,2025-05-13,Concluído,App,Cartão de crédito
+679,329,2024-05-20,Concluído,Loja física,Cartão de débito
+680,93,2025-09-30,Concluído,Loja física,Cartão de débito
+681,182,2025-01-28,Concluído,App,Cartão de débito
+682,4,2025-09-11,Concluído,Loja física,Pix
+683,257,2025-12-30,Concluído,Loja física,Boleto
+684,20,2024-02-04,Concluído,Loja física,Boleto
+685,298,2024-04-25,Concluído,Site,Pix
+686,440,2025-06-23,Em andamento,Marketplace,Cartão de débito
+687,41,2025-06-13,Concluído,Site,Pix
+688,323,2025-04-28,Em andamento,Site,Boleto
+689,28,2025-09-19,Concluído,Site,Cartão de débito
+690,263,2025-04-09,Concluído,Marketplace,Cartão de débito
+691,492,2024-12-27,Concluído,Marketplace,Pix
+692,356,2024-02-06,Concluído,Marketplace,Boleto
+693,323,2024-03-03,Concluído,App,Cartão de crédito
+694,150,2025-11-03,Em andamento,Site,Boleto
+695,43,2025-05-11,Concluído,Site,Boleto
+696,68,2024-09-15,Concluído,Marketplace,Boleto
+697,8,2024-09-20,Em andamento,Site,Pix
+698,379,2025-08-28,Concluído,Loja física,Boleto
+699,134,2024-06-28,Cancelado,App,Cartão de débito
+700,410,2024-07-04,Concluído,Site,Boleto
+701,496,2024-03-27,Concluído,App,Cartão de débito
+702,395,2025-02-26,Concluído,App,Cartão de débito
+703,86,2025-10-14,Concluído,Marketplace,Cartão de crédito
+704,136,2025-10-19,Em andamento,Site,Cartão de crédito
+705,238,2024-06-20,Concluído,Loja física,Boleto
+706,383,2025-05-02,Em andamento,App,Cartão de débito
+707,362,2025-11-30,Concluído,Loja física,Boleto
+708,272,2024-05-28,Concluído,Site,Boleto
+709,196,2025-04-04,Cancelado,Marketplace,Cartão de crédito
+710,470,2024-04-09,Concluído,Marketplace,Cartão de débito
+711,471,2025-09-17,Cancelado,Marketplace,Boleto
+712,137,2024-10-03,Concluído,Marketplace,Cartão de débito
+713,396,2025-04-17,Cancelado,App,Pix
+714,173,2025-06-16,Cancelado,App,Boleto
+715,6,2025-07-14,Cancelado,Site,Cartão de crédito
+716,211,2024-01-13,Concluído,Site,Cartão de débito
+717,113,2024-12-25,Em andamento,Marketplace,Boleto
+718,18,2024-07-16,Concluído,Site,Cartão de crédito
+719,337,2025-08-31,Concluído,Site,Cartão de crédito
+720,439,2024-03-29,Concluído,App,Cartão de débito
+721,392,2025-11-03,Cancelado,App,Cartão de crédito
+722,95,2025-12-13,Concluído,Marketplace,Cartão de débito
+723,480,2025-11-07,Concluído,Loja física,Boleto
+724,355,2025-03-13,Cancelado,Marketplace,Boleto
+725,400,2024-06-14,Concluído,Marketplace,Cartão de crédito
+726,199,2025-01-26,Concluído,Site,Boleto
+727,92,2024-09-28,Concluído,Site,Cartão de débito
+728,313,2024-07-24,Concluído,App,Cartão de débito
+729,74,2024-04-21,Concluído,Loja física,Pix
+730,330,2025-09-20,Concluído,Loja física,Boleto
+731,18,2024-04-15,Concluído,Site,Boleto
+732,10,2025-04-01,Concluído,App,Cartão de crédito
+733,341,2024-02-08,Concluído,Marketplace,Pix
+734,169,2025-12-17,Concluído,Site,Cartão de débito
+735,224,2025-05-04,Concluído,Site,Pix
+736,197,2024-01-04,Cancelado,Loja física,Cartão de crédito
+737,275,2025-08-03,Concluído,Marketplace,Boleto
+738,29,2025-02-14,Concluído,Site,Boleto
+739,437,2025-07-01,Concluído,Site,Cartão de débito
+740,332,2024-10-23,Concluído,App,Cartão de crédito
+741,339,2025-01-28,Concluído,Marketplace,Cartão de débito
+742,323,2024-04-19,Cancelado,Marketplace,Cartão de débito
+743,454,2024-03-27,Concluído,Loja física,Pix
+744,19,2024-05-23,Concluído,Site,Pix
+745,200,2025-05-15,Concluído,Marketplace,Cartão de débito
+746,495,2025-06-30,Concluído,Site,Cartão de crédito
+747,29,2024-12-13,Concluído,Site,Cartão de débito
+748,109,2024-05-01,Cancelado,Loja física,Pix
+749,120,2025-08-16,Concluído,Site,Pix
+750,335,2025-05-15,Concluído,Loja física,Cartão de crédito
+751,360,2024-09-05,Cancelado,App,Cartão de crédito
+752,324,2024-06-25,Concluído,Marketplace,Cartão de crédito
+753,313,2025-04-12,Concluído,Site,Cartão de crédito
+754,255,2024-04-26,Concluído,App,Cartão de crédito
+755,219,2024-07-26,Concluído,Loja física,Boleto
+756,500,2024-05-03,Cancelado,App,Boleto
+757,392,2024-08-06,Concluído,App,Boleto
+758,62,2024-03-05,Concluído,App,Cartão de débito
+759,357,2024-06-21,Concluído,App,Cartão de débito
+760,474,2024-09-06,Concluído,Site,Pix
+761,406,2024-04-12,Concluído,Loja física,Pix
+762,451,2024-01-17,Concluído,Site,Cartão de crédito
+763,92,2024-01-08,Concluído,Marketplace,Cartão de débito
+764,414,2025-12-11,Em andamento,Loja física,Pix
+765,74,2024-07-30,Concluído,Marketplace,Cartão de débito
+766,123,2025-02-25,Concluído,Site,Pix
+767,314,2025-05-26,Concluído,Marketplace,Boleto
+768,3,2025-03-04,Concluído,App,Pix
+769,272,2024-04-30,Concluído,Marketplace,Pix
+770,395,2025-04-20,Concluído,App,Boleto
+771,100,2024-02-24,Concluído,App,Cartão de débito
+772,91,2025-05-24,Concluído,Site,Cartão de crédito
+773,187,2025-10-22,Concluído,App,Cartão de débito
+774,172,2024-09-14,Concluído,Loja física,Cartão de crédito
+775,380,2024-04-16,Concluído,App,Pix
+776,249,2024-01-30,Concluído,Site,Cartão de crédito
+777,370,2024-08-28,Concluído,Marketplace,Cartão de débito
+778,383,2024-07-22,Cancelado,Marketplace,Pix
+779,167,2024-04-22,Concluído,Site,Pix
+780,446,2025-02-26,Concluído,Loja física,Pix
+781,242,2024-03-16,Concluído,Loja física,Cartão de crédito
+782,75,2025-03-22,Concluído,Loja física,Pix
+783,192,2025-01-31,Concluído,Loja física,Pix
+784,184,2025-10-09,Concluído,App,Boleto
+785,17,2024-05-10,Cancelado,Site,Boleto
+786,57,2024-05-19,Concluído,Loja física,Cartão de débito
+787,390,2024-06-24,Concluído,App,Boleto
+788,81,2025-09-10,Concluído,App,Pix
+789,211,2024-03-29,Concluído,Loja física,Pix
+790,243,2025-08-28,Concluído,Marketplace,Cartão de crédito
+791,377,2025-03-14,Concluído,App,Boleto
+792,297,2025-03-20,Concluído,App,Cartão de crédito
+793,23,2025-03-03,Concluído,Loja física,Cartão de crédito
+794,272,2025-03-11,Concluído,Loja física,Cartão de crédito
+795,254,2025-04-08,Concluído,Site,Cartão de crédito
+796,375,2025-12-10,Concluído,App,Pix
+797,152,2025-01-02,Concluído,Site,Cartão de crédito
+798,343,2025-05-06,Concluído,App,Cartão de débito
+799,383,2025-08-07,Concluído,Site,Cartão de débito
+800,396,2025-04-19,Concluído,Loja física,Pix
+801,321,2025-01-14,Concluído,Site,Cartão de crédito
+802,458,2025-01-29,Cancelado,Marketplace,Cartão de crédito
+803,219,2024-10-30,Em andamento,Marketplace,Pix
+804,42,2025-12-02,Concluído,Marketplace,Cartão de crédito
+805,485,2025-06-11,Cancelado,Marketplace,Cartão de crédito
+806,197,2024-04-23,Concluído,Loja física,Cartão de crédito
+807,188,2025-01-09,Concluído,Site,Pix
+808,172,2024-05-21,Concluído,Site,Cartão de débito
+809,447,2025-08-17,Cancelado,App,Pix
+810,181,2024-11-24,Concluído,Loja física,Boleto
+811,33,2024-02-25,Concluído,Marketplace,Cartão de débito
+812,257,2025-05-12,Concluído,Site,Cartão de débito
+813,273,2025-12-27,Cancelado,Marketplace,Cartão de débito
+814,189,2025-09-27,Cancelado,Site,Pix
+815,45,2025-04-13,Concluído,Loja física,Pix
+816,491,2024-10-22,Concluído,Site,Pix
+817,58,2024-10-09,Cancelado,App,Cartão de débito
+818,448,2024-06-03,Concluído,Site,Boleto
+819,497,2025-03-02,Cancelado,App,Cartão de débito
+820,216,2024-12-21,Concluído,Site,Boleto
+821,33,2024-07-12,Concluído,App,Boleto
+822,297,2025-02-25,Concluído,Marketplace,Cartão de débito
+823,341,2025-08-30,Cancelado,Loja física,Cartão de débito
+824,291,2024-11-07,Concluído,Marketplace,Pix
+825,117,2024-09-23,Concluído,Marketplace,Boleto
+826,76,2024-02-18,Concluído,Marketplace,Cartão de débito
+827,317,2024-06-19,Concluído,Marketplace,Pix
+828,430,2024-06-28,Cancelado,App,Pix
+829,60,2024-08-31,Concluído,Marketplace,Pix
+830,134,2025-03-27,Concluído,App,Pix
+831,363,2025-07-29,Concluído,Marketplace,Boleto
+832,191,2024-05-31,Concluído,App,Boleto
+833,472,2024-05-04,Concluído,Loja física,Cartão de débito
+834,486,2024-05-28,Concluído,Marketplace,Pix
+835,497,2024-01-05,Em andamento,Marketplace,Boleto
+836,459,2025-04-30,Concluído,App,Cartão de débito
+837,353,2024-12-12,Concluído,Loja física,Cartão de crédito
+838,348,2024-05-22,Concluído,Site,Boleto
+839,206,2024-01-26,Concluído,App,Cartão de débito
+840,48,2024-12-31,Concluído,Site,Pix
+841,270,2025-08-20,Concluído,Marketplace,Pix
+842,43,2024-01-24,Concluído,Loja física,Cartão de crédito
+843,202,2025-06-08,Concluído,Loja física,Boleto
+844,310,2025-09-09,Concluído,Site,Boleto
+845,76,2025-02-11,Cancelado,Loja física,Boleto
+846,191,2025-01-30,Concluído,Marketplace,Boleto
+847,158,2024-12-25,Concluído,Site,Pix
+848,380,2025-03-30,Concluído,Loja física,Boleto
+849,413,2024-06-16,Em andamento,Loja física,Cartão de débito
+850,428,2024-05-22,Concluído,Site,Pix
+851,156,2024-07-31,Concluído,Marketplace,Cartão de crédito
+852,388,2025-08-27,Concluído,Site,Cartão de crédito
+853,328,2025-02-23,Concluído,Loja física,Pix
+854,237,2025-07-23,Cancelado,App,Pix
+855,427,2024-07-09,Concluído,Marketplace,Cartão de débito
+856,422,2024-02-13,Concluído,Marketplace,Cartão de débito
+857,379,2025-07-26,Concluído,App,Cartão de crédito
+858,79,2024-01-03,Concluído,Marketplace,Cartão de débito
+859,335,2024-05-07,Cancelado,Marketplace,Cartão de débito
+860,252,2024-07-02,Cancelado,App,Cartão de crédito
+861,392,2024-05-02,Concluído,Loja física,Cartão de crédito
+862,382,2025-09-05,Concluído,Loja física,Cartão de débito
+863,322,2024-09-21,Cancelado,Loja física,Cartão de crédito
+864,263,2025-01-17,Em andamento,Site,Boleto
+865,298,2024-06-15,Concluído,App,Boleto
+866,450,2025-04-17,Cancelado,App,Boleto
+867,28,2024-06-16,Concluído,Marketplace,Cartão de débito
+868,467,2025-10-13,Concluído,Site,Boleto
+869,272,2024-10-25,Concluído,Site,Pix
+870,94,2025-10-05,Em andamento,Site,Pix
+871,166,2025-07-10,Concluído,Marketplace,Boleto
+872,358,2025-12-02,Cancelado,Marketplace,Cartão de crédito
+873,297,2025-07-01,Concluído,App,Cartão de crédito
+874,266,2024-05-20,Concluído,Marketplace,Cartão de débito
+875,175,2025-02-25,Concluído,Site,Pix
+876,258,2024-06-07,Concluído,App,Cartão de crédito
+877,236,2025-03-03,Concluído,Site,Pix
+878,246,2024-01-18,Concluído,Marketplace,Boleto
+879,419,2024-05-22,Concluído,Marketplace,Pix
+880,156,2025-12-27,Concluído,Site,Pix
+881,439,2024-05-11,Cancelado,App,Pix
+882,65,2024-11-10,Concluído,App,Cartão de crédito
+883,354,2025-03-11,Em andamento,Site,Cartão de crédito
+884,397,2024-01-20,Concluído,Loja física,Cartão de crédito
+885,56,2024-07-20,Concluído,Site,Cartão de débito
+886,466,2024-05-01,Concluído,Site,Cartão de crédito
+887,342,2024-11-04,Concluído,Site,Cartão de crédito
+888,106,2025-09-08,Concluído,App,Pix
+889,180,2025-11-17,Concluído,Site,Pix
+890,486,2024-10-11,Concluído,Marketplace,Boleto
+891,438,2024-06-13,Concluído,App,Cartão de crédito
+892,420,2024-04-11,Concluído,Site,Pix
+893,494,2024-07-15,Concluído,App,Cartão de crédito
+894,474,2024-04-11,Concluído,Loja física,Boleto
+895,302,2025-12-15,Concluído,Loja física,Cartão de crédito
+896,428,2024-07-04,Concluído,Loja física,Cartão de débito
+897,264,2024-08-07,Concluído,Loja física,Cartão de crédito
+898,64,2024-11-17,Concluído,Site,Pix
+899,391,2025-05-22,Concluído,Marketplace,Cartão de crédito
+900,168,2024-03-25,Concluído,Site,Cartão de débito
+901,234,2024-10-17,Concluído,Marketplace,Cartão de débito
+902,284,2024-08-19,Concluído,Marketplace,Cartão de débito
+903,439,2024-07-12,Concluído,Loja física,Boleto
+904,7,2024-07-02,Cancelado,Loja física,Cartão de crédito
+905,225,2025-02-09,Concluído,Site,Cartão de crédito
+906,203,2024-05-26,Concluído,Site,Pix
+907,187,2024-03-07,Concluído,Marketplace,Pix
+908,433,2025-09-01,Concluído,Site,Pix
+909,372,2025-03-10,Concluído,Marketplace,Boleto
+910,483,2025-10-21,Concluído,Marketplace,Cartão de débito
+911,309,2025-11-13,Concluído,Loja física,Boleto
+912,394,2024-05-30,Concluído,Site,Cartão de crédito
+913,251,2024-09-13,Concluído,App,Pix
+914,51,2024-01-31,Em andamento,Site,Cartão de crédito
+915,348,2025-05-25,Concluído,App,Cartão de débito
+916,348,2025-09-11,Concluído,App,Boleto
+917,320,2025-09-28,Concluído,Site,Cartão de débito
+918,104,2025-04-22,Concluído,Loja física,Cartão de débito
+919,134,2025-05-31,Concluído,Marketplace,Cartão de crédito
+920,221,2024-02-02,Concluído,Loja física,Cartão de débito
+921,437,2024-11-18,Concluído,Loja física,Cartão de débito
+922,17,2024-02-06,Concluído,Marketplace,Pix
+923,221,2025-05-18,Concluído,Marketplace,Cartão de débito
+924,392,2025-05-14,Concluído,Loja física,Cartão de débito
+925,288,2025-05-02,Concluído,Site,Cartão de débito
+926,254,2024-09-26,Concluído,Loja física,Boleto
+927,165,2024-10-18,Concluído,Site,Cartão de crédito
+928,429,2024-05-11,Concluído,Marketplace,Cartão de crédito
+929,175,2025-10-02,Concluído,Site,Cartão de débito
+930,183,2024-12-19,Concluído,Marketplace,Cartão de crédito
+931,126,2025-11-08,Concluído,App,Boleto
+932,44,2025-08-29,Cancelado,Site,Boleto
+933,173,2024-04-27,Concluído,Site,Boleto
+934,236,2024-02-08,Cancelado,Loja física,Cartão de débito
+935,11,2024-09-30,Cancelado,Loja física,Cartão de crédito
+936,194,2024-11-20,Concluído,Loja física,Boleto
+937,51,2025-08-09,Concluído,Site,Pix
+938,255,2024-12-10,Concluído,Marketplace,Pix
+939,154,2025-09-21,Concluído,Loja física,Pix
+940,326,2025-05-23,Concluído,App,Boleto
+941,25,2024-09-28,Concluído,Loja física,Pix
+942,381,2025-10-01,Concluído,Site,Boleto
+943,35,2024-10-06,Concluído,Loja física,Cartão de débito
+944,178,2024-08-02,Concluído,Marketplace,Boleto
+945,340,2025-03-19,Concluído,Marketplace,Pix
+946,206,2025-02-28,Concluído,Loja física,Pix
+947,322,2024-01-20,Cancelado,App,Cartão de débito
+948,339,2024-08-06,Em andamento,Loja física,Boleto
+949,273,2025-10-15,Concluído,Loja física,Cartão de crédito
+950,103,2025-06-18,Concluído,Loja física,Pix
+951,78,2024-09-03,Em andamento,Marketplace,Cartão de débito
+952,164,2025-02-24,Concluído,App,Cartão de débito
+953,422,2024-09-30,Concluído,App,Boleto
+954,308,2025-12-04,Concluído,Loja física,Pix
+955,77,2024-04-26,Concluído,Site,Pix
+956,238,2024-11-13,Concluído,Loja física,Cartão de débito
+957,464,2025-10-24,Concluído,App,Pix
+958,70,2024-10-06,Concluído,Marketplace,Boleto
+959,282,2025-11-05,Concluído,Site,Cartão de débito
+960,29,2024-01-21,Concluído,Marketplace,Boleto
+961,462,2024-03-06,Concluído,Marketplace,Cartão de crédito
+962,483,2025-02-10,Em andamento,App,Pix
+963,293,2024-04-24,Em andamento,Site,Boleto
+964,453,2025-05-23,Concluído,App,Cartão de crédito
+965,169,2024-11-16,Concluído,Loja física,Pix
+966,112,2025-03-09,Concluído,Site,Pix
+967,497,2024-08-07,Concluído,Loja física,Cartão de débito
+968,442,2024-09-17,Concluído,Site,Cartão de débito
+969,192,2025-06-30,Cancelado,Site,Boleto
+970,217,2025-07-12,Concluído,App,Boleto
+971,186,2024-05-28,Concluído,Marketplace,Boleto
+972,331,2024-01-22,Concluído,Site,Cartão de crédito
+973,470,2025-12-08,Cancelado,App,Boleto
+974,197,2025-07-19,Concluído,Marketplace,Cartão de crédito
+975,444,2025-07-01,Concluído,Loja física,Cartão de débito
+976,466,2024-01-09,Concluído,Marketplace,Boleto
+977,480,2024-04-02,Em andamento,App,Boleto
+978,441,2024-08-03,Concluído,Loja física,Boleto
+979,209,2025-10-21,Concluído,Marketplace,Cartão de crédito
+980,242,2025-05-18,Em andamento,Loja física,Boleto
+981,449,2025-03-08,Concluído,App,Boleto
+982,34,2025-06-02,Concluído,Loja física,Boleto
+983,356,2025-04-09,Concluído,Site,Pix
+984,228,2025-10-07,Cancelado,App,Cartão de crédito
+985,103,2025-02-14,Concluído,Marketplace,Boleto
+986,43,2025-08-12,Concluído,App,Pix
+987,366,2025-06-12,Em andamento,App,Cartão de débito
+988,232,2024-11-23,Concluído,App,Boleto
+989,352,2024-06-26,Concluído,Marketplace,Boleto
+990,44,2024-07-22,Concluído,Marketplace,Pix
+991,449,2025-02-06,Concluído,App,Cartão de crédito
+992,473,2024-01-24,Concluído,App,Cartão de crédito
+993,102,2025-04-18,Concluído,App,Cartão de crédito
+994,317,2025-02-14,Concluído,Marketplace,Pix
+995,491,2024-04-01,Concluído,App,Cartão de crédito
+996,368,2024-01-15,Concluído,Loja física,Cartão de débito
+997,254,2025-11-20,Concluído,App,Pix
+998,485,2024-07-14,Concluído,Marketplace,Cartão de débito
+999,67,2025-01-26,Concluído,App,Pix
+1000,373,2024-10-16,Cancelado,App,Cartão de débito
+1001,210,2024-07-03,Concluído,Site,Boleto
+1002,121,2024-09-25,Concluído,Loja física,Pix
+1003,299,2025-01-13,Cancelado,Loja física,Cartão de crédito
+1004,241,2024-01-11,Concluído,Marketplace,Cartão de débito
+1005,109,2025-12-04,Cancelado,Loja física,Cartão de débito
+1006,132,2025-09-03,Concluído,Site,Cartão de crédito
+1007,171,2024-02-23,Concluído,Loja física,Boleto
+1008,481,2025-09-12,Cancelado,Site,Cartão de crédito
+1009,259,2024-09-16,Concluído,Loja física,Boleto
+1010,344,2025-02-08,Concluído,App,Cartão de crédito
+1011,92,2025-08-17,Concluído,App,Cartão de débito
+1012,450,2024-12-13,Concluído,App,Cartão de crédito
+1013,364,2024-11-20,Concluído,Loja física,Pix
+1014,60,2024-09-23,Concluído,Site,Pix
+1015,447,2025-05-26,Concluído,Marketplace,Cartão de débito
+1016,463,2024-10-16,Concluído,Marketplace,Boleto
+1017,458,2025-03-22,Concluído,Marketplace,Cartão de débito
+1018,285,2024-06-03,Cancelado,Loja física,Cartão de crédito
+1019,77,2024-07-12,Concluído,App,Pix
+1020,241,2024-02-06,Concluído,App,Cartão de débito
+1021,60,2025-03-22,Concluído,Site,Cartão de débito
+1022,364,2024-12-31,Concluído,Loja física,Cartão de débito
+1023,58,2025-05-19,Em andamento,App,Cartão de crédito
+1024,48,2024-12-23,Concluído,Marketplace,Pix
+1025,384,2024-06-21,Concluído,Marketplace,Pix
+1026,498,2025-08-20,Concluído,App,Cartão de débito
+1027,127,2024-03-19,Em andamento,Loja física,Cartão de crédito
+1028,14,2024-12-02,Concluído,Site,Cartão de débito
+1029,303,2025-01-17,Concluído,Marketplace,Pix
+1030,42,2024-01-30,Concluído,Loja física,Cartão de débito
+1031,490,2025-10-05,Concluído,Site,Boleto
+1032,336,2024-02-14,Concluído,Loja física,Boleto
+1033,67,2025-08-05,Concluído,Site,Boleto
+1034,409,2024-11-26,Concluído,Site,Cartão de débito
+1035,205,2024-04-04,Concluído,App,Pix
+1036,46,2025-02-12,Concluído,App,Pix
+1037,400,2025-02-01,Concluído,Marketplace,Pix
+1038,153,2024-05-03,Concluído,Loja física,Boleto
+1039,309,2025-12-02,Concluído,Marketplace,Cartão de crédito
+1040,263,2025-01-11,Concluído,Loja física,Cartão de débito
+1041,244,2025-02-01,Concluído,Loja física,Cartão de crédito
+1042,416,2025-03-08,Concluído,App,Cartão de débito
+1043,219,2025-10-07,Concluído,Site,Boleto
+1044,347,2025-04-19,Concluído,App,Cartão de débito
+1045,323,2025-06-23,Cancelado,Site,Boleto
+1046,224,2025-04-24,Concluído,Loja física,Boleto
+1047,66,2024-06-01,Cancelado,Marketplace,Pix
+1048,219,2025-06-19,Concluído,Site,Cartão de crédito
+1049,263,2024-02-16,Concluído,Loja física,Cartão de débito
+1050,238,2024-04-06,Cancelado,Marketplace,Boleto
+1051,300,2024-09-17,Concluído,Site,Cartão de crédito
+1052,237,2025-11-08,Concluído,App,Cartão de débito
+1053,43,2024-02-16,Concluído,Marketplace,Boleto
+1054,371,2025-08-24,Concluído,Loja física,Boleto
+1055,495,2024-12-15,Concluído,App,Pix
+1056,383,2024-03-21,Concluído,Marketplace,Cartão de crédito
+1057,274,2025-03-20,Concluído,Site,Cartão de débito
+1058,7,2024-04-29,Concluído,Loja física,Cartão de débito
+1059,208,2025-12-09,Cancelado,Loja física,Boleto
+1060,417,2025-09-25,Concluído,Marketplace,Cartão de débito
+1061,45,2024-11-05,Concluído,App,Cartão de crédito
+1062,58,2024-07-14,Concluído,App,Cartão de crédito
+1063,247,2024-08-02,Cancelado,App,Pix
+1064,432,2025-03-22,Concluído,App,Cartão de crédito
+1065,395,2024-11-04,Concluído,App,Cartão de débito
+1066,12,2025-03-08,Concluído,App,Pix
+1067,228,2025-12-20,Concluído,Loja física,Cartão de crédito
+1068,300,2025-04-05,Concluído,App,Boleto
+1069,425,2025-08-06,Concluído,Site,Boleto
+1070,53,2024-01-09,Concluído,Loja física,Cartão de débito
+1071,378,2025-05-22,Concluído,Marketplace,Cartão de crédito
+1072,205,2025-05-14,Concluído,Loja física,Pix
+1073,271,2024-03-03,Concluído,Loja física,Boleto
+1074,33,2025-07-20,Concluído,Loja física,Cartão de débito
+1075,254,2024-04-29,Concluído,Marketplace,Cartão de débito
+1076,224,2025-12-15,Concluído,App,Boleto
+1077,241,2024-07-15,Concluído,Loja física,Pix
+1078,113,2025-06-03,Concluído,Marketplace,Cartão de débito
+1079,453,2024-05-14,Concluído,Loja física,Cartão de débito
+1080,335,2025-11-20,Em andamento,Marketplace,Cartão de débito
+1081,319,2024-06-14,Concluído,Marketplace,Cartão de crédito
+1082,248,2025-11-14,Concluído,App,Pix
+1083,311,2024-06-09,Concluído,Site,Cartão de débito
+1084,156,2025-05-20,Concluído,App,Cartão de crédito
+1085,184,2024-01-19,Concluído,Marketplace,Pix
+1086,424,2024-06-27,Concluído,Site,Cartão de crédito
+1087,221,2024-12-11,Concluído,App,Cartão de crédito
+1088,115,2025-07-29,Concluído,Marketplace,Boleto
+1089,394,2024-12-29,Concluído,Marketplace,Pix
+1090,448,2025-12-07,Concluído,Site,Cartão de crédito
+1091,410,2025-03-24,Concluído,Site,Cartão de crédito
+1092,313,2025-09-17,Concluído,Site,Cartão de crédito
+1093,323,2024-06-20,Concluído,App,Boleto
+1094,373,2024-06-09,Concluído,Loja física,Cartão de débito
+1095,79,2024-04-11,Cancelado,Marketplace,Boleto
+1096,63,2024-05-21,Concluído,Loja física,Cartão de débito
+1097,126,2024-01-07,Concluído,Marketplace,Boleto
+1098,88,2025-06-01,Concluído,Marketplace,Boleto
+1099,185,2025-02-28,Concluído,App,Pix
+1100,216,2025-06-26,Concluído,App,Cartão de débito
+1101,471,2025-02-27,Concluído,Loja física,Boleto
+1102,227,2024-01-31,Concluído,Site,Cartão de crédito
+1103,174,2024-03-27,Concluído,Loja física,Pix
+1104,32,2025-03-20,Concluído,Site,Pix
+1105,30,2025-08-11,Concluído,Marketplace,Cartão de débito
+1106,454,2025-02-15,Cancelado,Marketplace,Boleto
+1107,5,2024-12-18,Concluído,App,Cartão de débito
+1108,330,2025-04-01,Concluído,Loja física,Boleto
+1109,208,2025-10-26,Em andamento,App,Boleto
+1110,19,2024-03-27,Concluído,Marketplace,Cartão de débito
+1111,267,2024-05-09,Concluído,Marketplace,Pix
+1112,262,2024-04-05,Concluído,Marketplace,Boleto
+1113,82,2025-10-12,Concluído,Site,Boleto
+1114,427,2024-09-04,Em andamento,Marketplace,Cartão de débito
+1115,57,2025-06-01,Em andamento,Site,Boleto
+1116,322,2024-09-22,Concluído,Marketplace,Cartão de crédito
+1117,388,2024-02-18,Cancelado,Site,Cartão de débito
+1118,294,2024-11-01,Em andamento,Site,Cartão de débito
+1119,121,2024-12-13,Em andamento,App,Boleto
+1120,146,2024-11-02,Cancelado,App,Cartão de débito
+1121,378,2025-06-16,Concluído,Site,Boleto
+1122,299,2025-06-12,Concluído,Marketplace,Cartão de débito
+1123,76,2024-04-10,Cancelado,Loja física,Cartão de débito
+1124,48,2024-03-24,Concluído,Loja física,Pix
+1125,110,2025-05-02,Concluído,Site,Boleto
+1126,270,2025-11-24,Concluído,Loja física,Boleto
+1127,256,2025-08-21,Concluído,Loja física,Cartão de débito
+1128,477,2025-12-06,Concluído,Loja física,Pix
+1129,259,2024-05-27,Concluído,Loja física,Cartão de débito
+1130,496,2024-05-12,Cancelado,Site,Pix
+1131,243,2025-04-11,Concluído,App,Boleto
+1132,309,2024-05-01,Concluído,Site,Cartão de crédito
+1133,293,2025-01-13,Concluído,Site,Pix
+1134,191,2024-04-30,Concluído,Marketplace,Boleto
+1135,249,2024-10-28,Concluído,App,Pix
+1136,216,2025-08-26,Concluído,Marketplace,Boleto
+1137,94,2024-08-08,Em andamento,Loja física,Cartão de crédito
+1138,281,2024-05-05,Concluído,Site,Cartão de crédito
+1139,247,2025-03-03,Concluído,Marketplace,Cartão de débito
+1140,401,2024-12-11,Concluído,Loja física,Pix
+1141,259,2024-05-21,Concluído,Loja física,Cartão de débito
+1142,230,2025-11-14,Concluído,Marketplace,Cartão de crédito
+1143,341,2025-10-01,Concluído,Loja física,Cartão de débito
+1144,461,2024-08-26,Concluído,Marketplace,Cartão de crédito
+1145,456,2025-11-17,Concluído,Marketplace,Cartão de crédito
+1146,363,2024-06-18,Concluído,Marketplace,Cartão de crédito
+1147,287,2025-10-21,Concluído,App,Cartão de crédito
+1148,268,2025-08-06,Concluído,Loja física,Cartão de crédito
+1149,338,2024-05-03,Concluído,App,Cartão de crédito
+1150,403,2024-10-08,Concluído,App,Cartão de débito
+1151,414,2024-03-27,Concluído,Marketplace,Cartão de débito
+1152,24,2025-08-26,Concluído,Site,Boleto
+1153,93,2025-03-23,Concluído,Site,Boleto
+1154,132,2025-01-26,Concluído,Site,Cartão de crédito
+1155,87,2025-07-08,Concluído,App,Pix
+1156,394,2024-09-18,Concluído,App,Boleto
+1157,348,2025-02-21,Concluído,Site,Boleto
+1158,14,2024-07-04,Cancelado,Site,Boleto
+1159,51,2025-02-03,Concluído,App,Cartão de débito
+1160,133,2024-11-27,Concluído,Site,Cartão de crédito
+1161,123,2024-07-26,Em andamento,App,Cartão de débito
+1162,386,2025-06-04,Concluído,Loja física,Cartão de crédito
+1163,32,2024-10-02,Concluído,Loja física,Cartão de débito
+1164,248,2024-03-08,Concluído,Loja física,Pix
+1165,138,2024-01-20,Concluído,Site,Pix
+1166,334,2025-07-22,Concluído,Marketplace,Cartão de débito
+1167,43,2025-04-01,Concluído,App,Pix
+1168,277,2025-01-17,Concluído,App,Cartão de débito
+1169,232,2025-07-22,Concluído,Site,Cartão de débito
+1170,149,2025-09-27,Cancelado,App,Cartão de crédito
+1171,478,2024-03-02,Concluído,Marketplace,Boleto
+1172,195,2025-11-27,Concluído,App,Boleto
+1173,83,2024-02-16,Em andamento,Site,Boleto
+1174,203,2024-04-01,Cancelado,Site,Pix
+1175,144,2025-07-23,Concluído,App,Boleto
+1176,485,2025-11-29,Concluído,Marketplace,Cartão de débito
+1177,126,2024-10-06,Cancelado,Marketplace,Boleto
+1178,236,2024-08-03,Concluído,Marketplace,Cartão de crédito
+1179,69,2025-12-09,Cancelado,Site,Cartão de débito
+1180,462,2024-01-05,Concluído,App,Cartão de débito
+1181,459,2025-07-23,Cancelado,Loja física,Cartão de débito
+1182,42,2025-07-05,Cancelado,Site,Cartão de crédito
+1183,228,2025-11-18,Cancelado,Site,Boleto
+1184,424,2025-01-20,Concluído,Marketplace,Cartão de débito
+1185,430,2024-06-30,Em andamento,Site,Cartão de crédito
+1186,190,2025-04-18,Concluído,Loja física,Cartão de crédito
+1187,381,2024-08-14,Concluído,Marketplace,Boleto
+1188,47,2024-07-15,Concluído,Marketplace,Pix
+1189,253,2024-08-27,Concluído,Site,Boleto
+1190,464,2025-05-19,Cancelado,App,Cartão de crédito
+1191,421,2024-07-19,Concluído,Loja física,Cartão de crédito
+1192,292,2024-10-11,Concluído,Loja física,Pix
+1193,100,2025-07-19,Cancelado,App,Cartão de crédito
+1194,66,2025-08-25,Em andamento,Site,Pix
+1195,478,2024-09-22,Concluído,App,Boleto
+1196,435,2024-07-15,Cancelado,Site,Boleto
+1197,287,2025-11-28,Concluído,Site,Cartão de débito
+1198,345,2025-10-18,Cancelado,Site,Boleto
+1199,433,2025-03-18,Concluído,Marketplace,Cartão de crédito
+1200,266,2025-11-27,Concluído,Loja física,Boleto
+1201,389,2025-06-13,Concluído,App,Cartão de crédito
+1202,471,2024-10-11,Concluído,Loja física,Boleto
+1203,201,2024-01-06,Concluído,Marketplace,Cartão de crédito
+1204,414,2025-08-08,Concluído,App,Cartão de débito
+1205,470,2024-03-17,Concluído,App,Pix
+1206,160,2024-12-03,Concluído,Site,Cartão de crédito
+1207,222,2025-05-06,Concluído,Marketplace,Boleto
+1208,56,2024-09-10,Concluído,App,Boleto
+1209,421,2024-02-25,Concluído,App,Cartão de crédito
+1210,318,2025-09-06,Concluído,Site,Cartão de débito
+1211,64,2025-08-15,Concluído,Site,Cartão de crédito
+1212,161,2025-01-21,Cancelado,Site,Pix
+1213,471,2024-03-04,Concluído,Site,Boleto
+1214,321,2025-09-17,Concluído,Site,Cartão de crédito
+1215,29,2025-11-24,Concluído,Site,Boleto
+1216,206,2025-01-25,Concluído,Loja física,Pix
+1217,404,2025-09-05,Cancelado,Site,Cartão de débito
+1218,238,2025-01-28,Concluído,Site,Boleto
+1219,481,2025-10-28,Cancelado,Site,Cartão de débito
+1220,169,2025-06-13,Concluído,App,Cartão de crédito
+1221,7,2024-04-15,Concluído,Site,Pix
+1222,65,2025-08-09,Concluído,Marketplace,Boleto
+1223,247,2025-03-07,Em andamento,Loja física,Pix
+1224,71,2024-09-05,Concluído,Site,Pix
+1225,300,2024-11-15,Concluído,Marketplace,Boleto
+1226,454,2025-08-20,Concluído,App,Pix
+1227,159,2025-04-25,Concluído,Marketplace,Boleto
+1228,497,2025-01-12,Concluído,App,Cartão de crédito
+1229,260,2024-08-31,Concluído,Site,Cartão de débito
+1230,101,2024-12-18,Concluído,App,Cartão de crédito
+1231,97,2024-12-15,Cancelado,Loja física,Cartão de débito
+1232,355,2025-09-06,Concluído,Marketplace,Boleto
+1233,169,2025-03-04,Concluído,Site,Cartão de débito
+1234,254,2024-02-13,Concluído,Site,Pix
+1235,118,2025-12-10,Concluído,App,Pix
+1236,377,2025-05-07,Em andamento,Marketplace,Cartão de débito
+1237,205,2024-07-29,Concluído,Site,Boleto
+1238,38,2024-01-11,Concluído,Site,Cartão de crédito
+1239,149,2024-05-25,Concluído,App,Boleto
+1240,500,2024-02-14,Concluído,App,Pix
+1241,90,2024-10-17,Concluído,Marketplace,Pix
+1242,434,2024-12-13,Concluído,App,Pix
+1243,12,2024-07-19,Concluído,Marketplace,Cartão de crédito
+1244,426,2024-01-22,Cancelado,App,Cartão de débito
+1245,404,2025-11-01,Concluído,Marketplace,Pix
+1246,234,2024-11-08,Concluído,Marketplace,Boleto
+1247,88,2025-11-07,Concluído,Loja física,Cartão de crédito
+1248,74,2024-05-01,Concluído,App,Pix
+1249,194,2025-06-29,Cancelado,Marketplace,Boleto
+1250,220,2025-09-05,Concluído,App,Cartão de crédito
+1251,301,2025-09-22,Concluído,Marketplace,Pix
+1252,127,2024-12-01,Concluído,Marketplace,Pix
+1253,496,2025-06-04,Concluído,Loja física,Pix
+1254,402,2024-03-24,Concluído,Site,Pix
+1255,199,2025-06-04,Em andamento,Marketplace,Cartão de débito
+1256,238,2025-06-15,Concluído,Marketplace,Boleto
+1257,356,2025-06-22,Concluído,Loja física,Cartão de débito
+1258,298,2024-10-01,Concluído,Site,Pix
+1259,459,2024-08-12,Concluído,Loja física,Pix
+1260,112,2025-02-09,Concluído,Loja física,Cartão de débito
+1261,81,2025-08-08,Concluído,Marketplace,Cartão de crédito
+1262,385,2024-05-17,Concluído,Marketplace,Cartão de débito
+1263,181,2025-06-15,Concluído,Site,Cartão de débito
+1264,319,2025-06-08,Concluído,Loja física,Cartão de débito
+1265,222,2025-04-23,Concluído,Marketplace,Cartão de débito
+1266,140,2024-11-20,Concluído,Site,Pix
+1267,120,2025-03-28,Concluído,Site,Boleto
+1268,151,2024-03-25,Concluído,Site,Boleto
+1269,51,2024-08-21,Concluído,Site,Boleto
+1270,280,2024-02-09,Concluído,Marketplace,Pix
+1271,169,2025-11-22,Concluído,Marketplace,Boleto
+1272,362,2024-07-14,Concluído,App,Boleto
+1273,395,2024-01-09,Concluído,Marketplace,Boleto
+1274,485,2025-02-17,Concluído,Site,Cartão de débito
+1275,263,2025-10-31,Em andamento,App,Cartão de débito
+1276,117,2024-08-21,Em andamento,App,Cartão de débito
+1277,265,2024-08-27,Concluído,Loja física,Cartão de débito
+1278,406,2024-12-14,Concluído,Marketplace,Pix
+1279,395,2025-03-15,Cancelado,Loja física,Pix
+1280,231,2025-03-25,Concluído,Site,Boleto
+1281,296,2024-05-22,Concluído,Marketplace,Cartão de crédito
+1282,415,2025-05-26,Cancelado,Marketplace,Boleto
+1283,215,2024-08-18,Concluído,Loja física,Boleto
+1284,301,2024-11-29,Concluído,Site,Pix
+1285,488,2024-06-06,Concluído,Loja física,Cartão de débito
+1286,486,2024-07-28,Concluído,Site,Cartão de débito
+1287,244,2024-07-11,Concluído,Marketplace,Cartão de débito
+1288,459,2025-10-16,Concluído,Site,Pix
+1289,346,2024-04-16,Concluído,App,Cartão de crédito
+1290,309,2025-12-06,Concluído,Site,Pix
+1291,36,2024-07-22,Concluído,Marketplace,Pix
+1292,150,2024-08-26,Cancelado,Site,Cartão de débito
+1293,189,2024-02-28,Concluído,Site,Pix
+1294,441,2024-11-30,Concluído,Loja física,Pix
+1295,67,2024-04-23,Concluído,Loja física,Cartão de débito
+1296,200,2024-03-11,Concluído,App,Pix
+1297,222,2024-11-13,Cancelado,Loja física,Pix
+1298,295,2025-09-10,Concluído,App,Cartão de débito
+1299,104,2024-10-09,Concluído,App,Cartão de débito
+1300,423,2024-03-06,Concluído,App,Boleto
+1301,451,2025-08-05,Concluído,Loja física,Cartão de débito
+1302,21,2025-08-12,Em andamento,Site,Boleto
+1303,452,2025-10-23,Concluído,Marketplace,Boleto
+1304,314,2025-02-04,Concluído,Loja física,Pix
+1305,461,2024-07-02,Concluído,Loja física,Cartão de débito
+1306,467,2025-01-28,Cancelado,App,Cartão de crédito
+1307,358,2025-02-06,Concluído,App,Pix
+1308,452,2024-10-07,Concluído,Marketplace,Cartão de crédito
+1309,372,2025-12-15,Em andamento,App,Cartão de débito
+1310,391,2025-02-25,Concluído,Site,Boleto
+1311,387,2024-03-19,Concluído,Marketplace,Cartão de débito
+1312,85,2025-04-06,Concluído,App,Cartão de crédito
+1313,14,2025-04-18,Concluído,Loja física,Cartão de débito
+1314,382,2024-12-17,Concluído,App,Cartão de débito
+1315,6,2024-02-08,Concluído,Site,Pix
+1316,344,2024-11-30,Em andamento,Loja física,Cartão de débito
+1317,35,2025-04-17,Concluído,App,Cartão de débito
+1318,242,2024-05-23,Concluído,App,Pix
+1319,311,2024-01-19,Concluído,App,Boleto
+1320,274,2024-05-07,Em andamento,Loja física,Pix
+1321,344,2024-03-20,Em andamento,Site,Boleto
+1322,226,2024-06-06,Concluído,App,Pix
+1323,458,2024-02-05,Cancelado,App,Cartão de débito
+1324,25,2025-12-14,Concluído,Site,Cartão de débito
+1325,158,2025-12-07,Concluído,Site,Cartão de crédito
+1326,396,2024-02-19,Concluído,App,Pix
+1327,466,2025-01-18,Concluído,App,Cartão de crédito
+1328,216,2024-01-17,Concluído,Site,Boleto
+1329,349,2024-07-15,Cancelado,Site,Pix
+1330,409,2024-04-08,Cancelado,App,Pix
+1331,213,2024-02-15,Concluído,Site,Boleto
+1332,288,2024-11-26,Concluído,App,Pix
+1333,203,2025-07-08,Concluído,Site,Pix
+1334,55,2024-08-06,Concluído,Marketplace,Pix
+1335,206,2024-01-16,Cancelado,Marketplace,Cartão de crédito
+1336,109,2025-02-02,Concluído,App,Cartão de crédito
+1337,418,2025-11-04,Concluído,Marketplace,Cartão de crédito
+1338,454,2024-03-09,Concluído,Loja física,Boleto
+1339,256,2025-09-05,Concluído,App,Boleto
+1340,308,2024-04-07,Concluído,Loja física,Pix
+1341,90,2024-12-06,Concluído,Marketplace,Cartão de débito
+1342,172,2024-03-10,Concluído,Loja física,Cartão de débito
+1343,328,2025-06-07,Em andamento,App,Cartão de crédito
+1344,11,2024-08-26,Concluído,Site,Boleto
+1345,378,2024-08-30,Concluído,App,Cartão de crédito
+1346,71,2024-03-02,Concluído,Loja física,Boleto
+1347,78,2024-07-25,Concluído,App,Cartão de crédito
+1348,473,2024-08-31,Em andamento,Loja física,Boleto
+1349,143,2024-05-17,Concluído,Site,Cartão de débito
+1350,417,2025-10-25,Concluído,Site,Pix
+1351,176,2024-12-05,Concluído,App,Cartão de crédito
+1352,128,2025-11-11,Cancelado,App,Cartão de débito
+1353,165,2025-06-17,Concluído,Loja física,Cartão de crédito
+1354,446,2024-03-07,Concluído,Site,Pix
+1355,325,2024-02-23,Concluído,App,Pix
+1356,89,2024-04-03,Concluído,App,Pix
+1357,41,2025-06-03,Concluído,Loja física,Boleto
+1358,370,2024-06-17,Concluído,App,Cartão de débito
+1359,311,2024-06-29,Concluído,Marketplace,Boleto
+1360,230,2025-08-13,Concluído,App,Boleto
+1361,41,2025-05-07,Concluído,Loja física,Cartão de débito
+1362,242,2024-06-20,Concluído,Loja física,Cartão de débito
+1363,420,2024-06-08,Concluído,Site,Cartão de débito
+1364,438,2025-03-13,Concluído,Marketplace,Pix
+1365,373,2025-07-20,Concluído,Marketplace,Cartão de débito
+1366,157,2025-04-19,Concluído,Marketplace,Cartão de débito
+1367,311,2025-07-29,Concluído,Site,Boleto
+1368,367,2024-05-19,Concluído,App,Pix
+1369,3,2024-07-13,Concluído,Marketplace,Cartão de débito
+1370,474,2025-02-18,Concluído,Loja física,Boleto
+1371,251,2025-01-28,Concluído,Site,Cartão de débito
+1372,472,2024-02-09,Concluído,Loja física,Pix
+1373,391,2024-07-17,Concluído,Marketplace,Boleto
+1374,364,2025-06-05,Concluído,Marketplace,Cartão de crédito
+1375,198,2025-10-28,Concluído,App,Pix
+1376,18,2025-05-04,Concluído,Site,Pix
+1377,310,2024-09-24,Concluído,App,Boleto
+1378,309,2024-09-10,Concluído,App,Cartão de crédito
+1379,395,2024-04-29,Concluído,Loja física,Cartão de débito
+1380,301,2025-12-24,Concluído,App,Cartão de débito
+1381,425,2024-06-18,Concluído,Marketplace,Boleto
+1382,496,2025-05-27,Concluído,Loja física,Boleto
+1383,386,2025-02-25,Em andamento,Site,Cartão de crédito
+1384,294,2025-10-13,Em andamento,Marketplace,Pix
+1385,384,2024-10-02,Concluído,Loja física,Boleto
+1386,87,2024-01-07,Concluído,Site,Cartão de crédito
+1387,397,2024-03-12,Cancelado,Loja física,Cartão de débito
+1388,148,2025-11-01,Em andamento,Loja física,Pix
+1389,192,2024-06-29,Concluído,App,Pix
+1390,94,2025-05-13,Concluído,Site,Cartão de débito
+1391,417,2025-08-03,Concluído,App,Pix
+1392,384,2024-03-01,Concluído,App,Boleto
+1393,226,2025-02-22,Concluído,Site,Pix
+1394,151,2024-03-22,Concluído,Loja física,Cartão de crédito
+1395,33,2024-10-10,Concluído,Site,Pix
+1396,249,2025-05-04,Cancelado,Site,Cartão de crédito
+1397,137,2024-03-03,Em andamento,Site,Cartão de crédito
+1398,109,2024-04-09,Concluído,Site,Cartão de débito
+1399,267,2025-09-09,Em andamento,Marketplace,Cartão de débito
+1400,388,2025-04-29,Concluído,Loja física,Boleto
+1401,350,2025-01-14,Concluído,Marketplace,Pix
+1402,341,2025-01-04,Concluído,Loja física,Cartão de crédito
+1403,448,2024-12-30,Concluído,Site,Cartão de crédito
+1404,446,2025-04-12,Cancelado,Loja física,Pix
+1405,309,2024-01-27,Concluído,Marketplace,Pix
+1406,232,2025-01-12,Concluído,Loja física,Cartão de débito
+1407,97,2025-11-07,Concluído,Marketplace,Cartão de crédito
+1408,185,2025-10-10,Concluído,Marketplace,Cartão de débito
+1409,311,2024-08-27,Concluído,Loja física,Cartão de crédito
+1410,220,2024-12-22,Concluído,Site,Cartão de débito
+1411,311,2024-10-27,Concluído,App,Cartão de crédito
+1412,255,2024-05-10,Concluído,Marketplace,Cartão de débito
+1413,459,2024-06-21,Concluído,Site,Cartão de débito
+1414,277,2025-11-09,Concluído,App,Pix
+1415,386,2024-06-23,Cancelado,Site,Cartão de crédito
+1416,367,2025-03-21,Concluído,App,Boleto
+1417,393,2025-01-27,Concluído,App,Boleto
+1418,244,2025-11-12,Cancelado,Site,Pix
+1419,325,2025-07-01,Em andamento,Loja física,Cartão de crédito
+1420,171,2025-12-09,Concluído,Site,Boleto
+1421,467,2025-01-21,Cancelado,Loja física,Cartão de débito
+1422,115,2024-08-26,Concluído,Site,Boleto
+1423,58,2024-03-30,Concluído,Marketplace,Pix
+1424,294,2024-04-28,Concluído,App,Boleto
+1425,296,2025-01-24,Em andamento,Site,Boleto
+1426,303,2024-03-04,Concluído,App,Cartão de débito
+1427,164,2025-03-09,Em andamento,Marketplace,Pix
+1428,340,2025-06-16,Concluído,App,Cartão de crédito
+1429,5,2025-02-08,Concluído,Loja física,Boleto
+1430,418,2024-05-28,Concluído,App,Cartão de débito
+1431,234,2025-11-27,Concluído,Marketplace,Pix
+1432,435,2025-11-12,Cancelado,Site,Boleto
+1433,258,2024-11-12,Cancelado,Site,Boleto
+1434,294,2025-12-24,Concluído,App,Cartão de débito
+1435,361,2024-10-25,Concluído,Site,Boleto
+1436,424,2024-06-05,Cancelado,App,Pix
+1437,377,2025-12-18,Concluído,App,Cartão de débito
+1438,154,2025-02-05,Cancelado,App,Cartão de crédito
+1439,201,2025-07-15,Concluído,Loja física,Cartão de débito
+1440,388,2024-12-22,Concluído,Loja física,Cartão de crédito
+1441,373,2025-06-24,Concluído,Marketplace,Pix
+1442,439,2025-12-18,Concluído,Loja física,Cartão de crédito
+1443,166,2024-05-14,Em andamento,Site,Boleto
+1444,336,2025-04-13,Concluído,App,Cartão de débito
+1445,248,2025-12-13,Concluído,App,Pix
+1446,412,2024-08-11,Em andamento,App,Cartão de crédito
+1447,372,2025-01-05,Concluído,Site,Pix
+1448,487,2025-01-20,Concluído,App,Cartão de crédito
+1449,183,2024-04-08,Concluído,App,Cartão de crédito
+1450,264,2024-04-30,Cancelado,Marketplace,Cartão de débito
+1451,322,2024-06-01,Em andamento,Loja física,Pix
+1452,61,2024-02-04,Concluído,Loja física,Cartão de débito
+1453,353,2024-11-05,Concluído,App,Cartão de débito
+1454,408,2025-12-09,Cancelado,Site,Cartão de débito
+1455,196,2025-10-27,Concluído,Loja física,Boleto
+1456,62,2024-01-12,Concluído,Site,Cartão de crédito
+1457,329,2025-05-15,Cancelado,App,Cartão de crédito
+1458,294,2025-08-23,Concluído,Loja física,Boleto
+1459,382,2025-12-11,Concluído,App,Cartão de débito
+1460,331,2025-05-10,Cancelado,Loja física,Boleto
+1461,65,2025-08-08,Concluído,Marketplace,Cartão de crédito
+1462,466,2025-12-31,Concluído,App,Cartão de débito
+1463,11,2025-12-18,Concluído,Loja física,Cartão de crédito
+1464,429,2025-06-15,Concluído,Site,Pix
+1465,460,2025-11-05,Concluído,App,Pix
+1466,285,2024-01-06,Concluído,Marketplace,Cartão de crédito
+1467,66,2024-02-10,Concluído,App,Pix
+1468,288,2024-03-30,Concluído,Site,Cartão de crédito
+1469,260,2024-05-07,Concluído,Marketplace,Pix
+1470,484,2025-03-09,Cancelado,Site,Pix
+1471,24,2024-11-03,Concluído,Marketplace,Cartão de débito
+1472,296,2024-05-23,Concluído,Marketplace,Boleto
+1473,276,2025-09-12,Concluído,App,Cartão de crédito
+1474,420,2025-11-09,Concluído,App,Cartão de crédito
+1475,73,2024-07-11,Concluído,App,Pix
+1476,283,2025-09-08,Concluído,Marketplace,Boleto
+1477,374,2024-05-11,Concluído,Loja física,Cartão de crédito
+1478,131,2025-07-17,Concluído,Loja física,Pix
+1479,234,2025-02-13,Concluído,Marketplace,Cartão de débito
+1480,74,2025-12-12,Concluído,App,Cartão de crédito
+1481,376,2025-10-06,Concluído,App,Boleto
+1482,337,2025-07-31,Cancelado,App,Cartão de débito
+1483,162,2024-06-06,Concluído,Loja física,Cartão de crédito
+1484,127,2025-09-10,Concluído,Marketplace,Cartão de crédito
+1485,57,2025-06-28,Cancelado,Loja física,Cartão de crédito
+1486,328,2024-12-03,Concluído,Marketplace,Boleto
+1487,75,2024-10-06,Concluído,Marketplace,Cartão de crédito
+1488,194,2024-04-10,Concluído,Loja física,Cartão de crédito
+1489,90,2024-05-06,Concluído,Marketplace,Cartão de débito
+1490,271,2024-04-07,Concluído,Marketplace,Boleto
+1491,51,2025-09-14,Concluído,App,Boleto
+1492,93,2025-02-02,Concluído,Loja física,Cartão de débito
+1493,66,2025-08-29,Concluído,Site,Pix
+1494,65,2025-11-04,Concluído,Loja física,Boleto
+1495,471,2024-02-24,Em andamento,Marketplace,Pix
+1496,312,2025-11-25,Concluído,Loja física,Pix
+1497,182,2025-03-25,Concluído,Marketplace,Boleto
+1498,267,2025-03-14,Cancelado,App,Boleto
+1499,440,2025-10-12,Concluído,Marketplace,Cartão de débito
+1500,433,2024-11-16,Concluído,Site,Cartão de crédito
+1501,484,2024-09-02,Concluído,App,Cartão de crédito
+1502,381,2024-03-27,Concluído,Loja física,Cartão de crédito
+1503,347,2025-03-10,Concluído,App,Cartão de débito
+1504,264,2025-05-24,Cancelado,Site,Cartão de débito
+1505,316,2024-01-15,Concluído,Site,Cartão de débito
+1506,274,2025-12-20,Em andamento,Marketplace,Pix
+1507,487,2025-11-08,Concluído,Site,Cartão de débito
+1508,346,2024-06-21,Em andamento,App,Pix
+1509,188,2024-03-17,Concluído,Marketplace,Cartão de crédito
+1510,254,2025-03-08,Concluído,App,Boleto
+1511,174,2024-04-25,Cancelado,App,Cartão de crédito
+1512,154,2024-10-24,Concluído,Marketplace,Boleto
+1513,2,2024-08-06,Em andamento,Loja física,Pix
+1514,476,2024-11-08,Cancelado,Site,Cartão de débito
+1515,435,2025-09-24,Concluído,Site,Boleto
+1516,316,2024-01-07,Concluído,Marketplace,Boleto
+1517,55,2024-12-28,Concluído,Marketplace,Pix
+1518,182,2025-02-15,Concluído,Site,Cartão de débito
+1519,102,2025-05-18,Concluído,App,Cartão de débito
+1520,468,2024-05-06,Concluído,Site,Pix
+1521,129,2025-11-03,Concluído,Loja física,Cartão de débito
+1522,154,2025-01-18,Concluído,Loja física,Pix
+1523,416,2025-07-03,Concluído,Site,Cartão de débito
+1524,430,2025-11-03,Concluído,App,Pix
+1525,383,2024-12-28,Concluído,Site,Boleto
+1526,102,2025-12-27,Concluído,App,Boleto
+1527,69,2024-02-11,Concluído,Loja física,Boleto
+1528,83,2024-02-02,Cancelado,App,Cartão de débito
+1529,137,2025-11-12,Concluído,Loja física,Cartão de débito
+1530,254,2025-07-17,Cancelado,App,Boleto
+1531,257,2025-02-13,Em andamento,Loja física,Pix
+1532,491,2024-04-22,Concluído,Site,Pix
+1533,177,2024-06-08,Concluído,Site,Pix
+1534,348,2024-02-23,Concluído,Loja física,Cartão de crédito
+1535,246,2025-03-20,Concluído,Marketplace,Cartão de débito
+1536,390,2024-03-25,Concluído,App,Pix
+1537,96,2025-06-07,Concluído,Marketplace,Cartão de crédito
+1538,359,2024-09-26,Concluído,Loja física,Pix
+1539,362,2025-04-30,Concluído,App,Pix
+1540,323,2025-08-28,Concluído,App,Pix
+1541,68,2024-05-03,Concluído,Site,Boleto
+1542,476,2024-07-15,Concluído,Loja física,Cartão de crédito
+1543,103,2025-09-23,Concluído,Site,Cartão de débito
+1544,269,2025-02-21,Concluído,App,Pix
+1545,219,2024-12-10,Concluído,Site,Cartão de débito
+1546,27,2025-10-21,Concluído,Site,Boleto
+1547,144,2025-01-07,Concluído,Loja física,Pix
+1548,459,2024-11-23,Concluído,App,Cartão de crédito
+1549,27,2024-01-01,Cancelado,Marketplace,Pix
+1550,242,2024-10-19,Concluído,Site,Cartão de débito
+1551,130,2024-07-08,Concluído,Marketplace,Boleto
+1552,58,2024-11-07,Concluído,Site,Pix
+1553,185,2024-12-05,Em andamento,Marketplace,Boleto
+1554,333,2024-08-31,Concluído,App,Cartão de débito
+1555,455,2024-03-30,Concluído,App,Cartão de crédito
+1556,301,2024-02-12,Cancelado,App,Pix
+1557,229,2025-12-22,Concluído,Site,Boleto
+1558,372,2024-11-04,Concluído,App,Pix
+1559,66,2024-02-14,Concluído,Loja física,Boleto
+1560,500,2025-07-27,Concluído,Marketplace,Cartão de débito
+1561,368,2025-10-06,Concluído,Loja física,Cartão de crédito
+1562,215,2025-05-09,Concluído,Site,Pix
+1563,141,2025-09-05,Cancelado,App,Boleto
+1564,490,2024-02-16,Concluído,Site,Pix
+1565,254,2025-02-11,Cancelado,Site,Pix
+1566,385,2025-03-24,Concluído,Loja física,Cartão de débito
+1567,311,2025-02-14,Concluído,App,Pix
+1568,82,2024-01-04,Concluído,App,Cartão de crédito
+1569,234,2025-06-09,Concluído,Marketplace,Boleto
+1570,152,2024-08-13,Cancelado,Marketplace,Cartão de crédito
+1571,115,2024-06-24,Concluído,App,Boleto
+1572,328,2024-02-10,Concluído,Marketplace,Pix
+1573,448,2024-10-03,Concluído,App,Pix
+1574,60,2025-07-01,Concluído,Marketplace,Boleto
+1575,43,2024-11-28,Cancelado,Marketplace,Pix
+1576,460,2025-02-22,Concluído,Marketplace,Boleto
+1577,321,2024-02-28,Concluído,Marketplace,Pix
+1578,91,2024-10-13,Concluído,Site,Cartão de crédito
+1579,196,2025-12-05,Cancelado,Marketplace,Pix
+1580,113,2025-03-28,Concluído,Marketplace,Pix
+1581,323,2025-08-18,Em andamento,Loja física,Pix
+1582,119,2025-04-01,Em andamento,Loja física,Boleto
+1583,462,2024-05-31,Concluído,Site,Cartão de débito
+1584,236,2024-07-04,Concluído,App,Pix
+1585,252,2025-08-06,Em andamento,App,Boleto
+1586,159,2024-01-22,Concluído,App,Cartão de débito
+1587,312,2025-12-04,Concluído,Site,Pix
+1588,219,2024-03-14,Concluído,Loja física,Cartão de débito
+1589,371,2024-04-12,Concluído,App,Cartão de crédito
+1590,52,2025-09-09,Concluído,Loja física,Cartão de crédito
+1591,424,2024-04-22,Concluído,Site,Pix
+1592,395,2024-09-11,Concluído,Marketplace,Pix
+1593,308,2025-10-04,Concluído,Site,Cartão de crédito
+1594,377,2025-07-09,Concluído,Site,Pix
+1595,246,2024-05-22,Em andamento,Loja física,Pix
+1596,170,2024-11-10,Concluído,App,Pix
+1597,279,2024-02-27,Cancelado,Marketplace,Cartão de crédito
+1598,423,2024-01-22,Concluído,Site,Boleto
+1599,262,2024-04-15,Concluído,App,Cartão de crédito
+1600,13,2024-08-17,Concluído,Loja física,Cartão de débito
+1601,181,2024-05-30,Cancelado,Marketplace,Pix
+1602,197,2025-12-01,Cancelado,Site,Cartão de débito
+1603,57,2024-06-22,Concluído,Site,Boleto
+1604,40,2024-12-31,Concluído,Marketplace,Cartão de crédito
+1605,473,2025-01-04,Concluído,Site,Pix
+1606,220,2024-07-01,Concluído,Marketplace,Pix
+1607,218,2025-11-26,Concluído,Marketplace,Boleto
+1608,449,2024-12-22,Concluído,Marketplace,Cartão de débito
+1609,189,2025-11-08,Concluído,Site,Cartão de crédito
+1610,399,2024-06-01,Cancelado,App,Boleto
+1611,200,2024-05-31,Concluído,Loja física,Cartão de crédito
+1612,296,2024-04-25,Concluído,Marketplace,Pix
+1613,166,2024-04-02,Concluído,App,Cartão de débito
+1614,164,2024-12-27,Concluído,Loja física,Cartão de débito
+1615,499,2025-12-11,Concluído,Marketplace,Pix
+1616,472,2025-10-31,Concluído,Loja física,Cartão de débito
+1617,255,2025-07-16,Concluído,Loja física,Pix
+1618,43,2025-01-28,Concluído,Loja física,Pix
+1619,45,2025-12-20,Concluído,Marketplace,Cartão de crédito
+1620,436,2024-07-27,Concluído,Marketplace,Cartão de débito
+1621,472,2024-05-16,Concluído,Site,Boleto
+1622,435,2025-01-04,Em andamento,App,Boleto
+1623,74,2025-04-16,Concluído,Loja física,Pix
+1624,424,2024-08-03,Concluído,Site,Pix
+1625,493,2024-04-30,Cancelado,App,Cartão de débito
+1626,357,2024-01-27,Concluído,Marketplace,Cartão de crédito
+1627,55,2025-12-19,Cancelado,Site,Cartão de débito
+1628,446,2025-08-31,Concluído,Site,Pix
+1629,73,2025-01-09,Concluído,App,Cartão de crédito
+1630,292,2024-01-13,Concluído,App,Pix
+1631,381,2025-04-26,Concluído,Marketplace,Cartão de débito
+1632,370,2025-02-25,Concluído,Loja física,Cartão de crédito
+1633,57,2024-10-20,Concluído,Site,Cartão de crédito
+1634,385,2025-09-10,Concluído,App,Cartão de crédito
+1635,427,2025-02-09,Concluído,Loja física,Boleto
+1636,257,2025-08-08,Concluído,App,Cartão de débito
+1637,140,2024-06-09,Concluído,Loja física,Pix
+1638,206,2024-08-04,Concluído,Site,Pix
+1639,95,2025-02-05,Em andamento,Site,Cartão de débito
+1640,161,2025-05-03,Cancelado,Loja física,Cartão de débito
+1641,28,2024-06-17,Concluído,Loja física,Pix
+1642,56,2024-10-03,Concluído,Site,Boleto
+1643,399,2025-09-09,Concluído,Site,Pix
+1644,84,2024-10-15,Concluído,Site,Cartão de crédito
+1645,306,2024-08-04,Concluído,Marketplace,Pix
+1646,104,2025-07-18,Concluído,Site,Pix
+1647,44,2024-10-02,Concluído,Site,Cartão de débito
+1648,25,2024-02-16,Concluído,Site,Boleto
+1649,183,2024-01-09,Em andamento,Marketplace,Cartão de débito
+1650,100,2025-05-27,Concluído,Loja física,Boleto
+1651,360,2024-05-12,Cancelado,Site,Boleto
+1652,460,2025-02-21,Em andamento,Site,Pix
+1653,301,2024-01-25,Concluído,Loja física,Cartão de crédito
+1654,83,2024-10-24,Concluído,Loja física,Cartão de crédito
+1655,48,2025-10-02,Cancelado,App,Pix
+1656,335,2025-11-28,Concluído,App,Boleto
+1657,403,2025-04-03,Concluído,Marketplace,Boleto
+1658,320,2025-01-03,Concluído,Site,Cartão de débito
+1659,107,2024-09-01,Concluído,Site,Pix
+1660,322,2025-08-03,Concluído,Site,Cartão de crédito
+1661,393,2024-05-26,Concluído,Site,Cartão de débito
+1662,233,2024-04-06,Concluído,App,Boleto
+1663,35,2024-06-14,Concluído,Marketplace,Boleto
+1664,37,2024-04-01,Concluído,Loja física,Boleto
+1665,132,2025-04-29,Em andamento,Loja física,Pix
+1666,498,2024-05-06,Concluído,Loja física,Cartão de crédito
+1667,440,2025-01-07,Concluído,Loja física,Cartão de débito
+1668,470,2025-09-26,Cancelado,App,Cartão de débito
+1669,263,2025-01-10,Concluído,Marketplace,Boleto
+1670,350,2024-03-26,Concluído,Loja física,Boleto
+1671,22,2025-11-29,Concluído,Site,Pix
+1672,421,2025-12-17,Concluído,Site,Pix
+1673,149,2024-04-17,Concluído,App,Cartão de débito
+1674,115,2024-03-15,Concluído,Loja física,Cartão de crédito
+1675,239,2024-12-23,Concluído,Loja física,Cartão de crédito
+1676,93,2024-03-28,Em andamento,Site,Cartão de débito
+1677,103,2025-03-19,Concluído,Marketplace,Cartão de crédito
+1678,176,2024-11-20,Concluído,Loja física,Pix
+1679,380,2025-12-20,Concluído,Site,Boleto
+1680,20,2025-04-10,Concluído,App,Cartão de débito
+1681,328,2024-05-29,Concluído,Marketplace,Cartão de crédito
+1682,397,2025-09-07,Concluído,Site,Boleto
+1683,243,2025-03-16,Concluído,Site,Pix
+1684,488,2024-01-24,Em andamento,Loja física,Boleto
+1685,326,2024-09-15,Concluído,Site,Pix
+1686,141,2024-03-11,Concluído,Site,Boleto
+1687,232,2025-12-30,Concluído,App,Boleto
+1688,426,2024-07-07,Concluído,Site,Cartão de débito
+1689,494,2024-12-16,Em andamento,Marketplace,Pix
+1690,179,2024-07-22,Concluído,Loja física,Cartão de débito
+1691,353,2025-07-02,Concluído,Loja física,Boleto
+1692,293,2025-12-10,Concluído,Site,Pix
+1693,371,2024-03-20,Cancelado,App,Boleto
+1694,422,2025-11-11,Em andamento,Marketplace,Cartão de crédito
+1695,460,2024-06-03,Concluído,App,Cartão de débito
+1696,59,2024-11-20,Cancelado,Loja física,Boleto
+1697,370,2025-06-17,Concluído,Loja física,Pix
+1698,231,2025-10-11,Concluído,Site,Cartão de crédito
+1699,382,2024-08-11,Concluído,Loja física,Pix
+1700,194,2025-09-07,Concluído,Marketplace,Pix
+1701,498,2024-07-14,Cancelado,Site,Boleto
+1702,9,2025-01-07,Concluído,Marketplace,Cartão de crédito
+1703,256,2025-12-17,Cancelado,Loja física,Cartão de débito
+1704,181,2025-02-24,Concluído,Loja física,Boleto
+1705,475,2024-04-26,Concluído,Loja física,Cartão de débito
+1706,91,2025-01-17,Concluído,App,Cartão de débito
+1707,146,2025-01-25,Cancelado,Loja física,Boleto
+1708,318,2025-12-19,Concluído,Site,Cartão de crédito
+1709,333,2024-04-01,Concluído,Loja física,Cartão de crédito
+1710,384,2025-05-23,Em andamento,Site,Cartão de débito
+1711,298,2025-05-30,Concluído,Marketplace,Cartão de débito
+1712,115,2024-08-04,Em andamento,Loja física,Cartão de débito
+1713,101,2024-04-27,Concluído,Site,Boleto
+1714,212,2025-04-20,Cancelado,Loja física,Cartão de crédito
+1715,401,2025-01-18,Concluído,Marketplace,Boleto
+1716,136,2025-11-05,Concluído,Loja física,Pix
+1717,461,2024-01-05,Concluído,Site,Cartão de crédito
+1718,79,2024-01-27,Concluído,Marketplace,Boleto
+1719,492,2024-06-23,Concluído,Loja física,Pix
+1720,499,2025-07-23,Concluído,App,Cartão de débito
+1721,411,2024-02-22,Concluído,Loja física,Pix
+1722,200,2025-10-13,Em andamento,App,Cartão de débito
+1723,265,2024-11-21,Concluído,Loja física,Pix
+1724,364,2024-04-11,Concluído,Site,Cartão de débito
+1725,470,2025-10-04,Concluído,App,Boleto
+1726,48,2024-07-27,Concluído,Site,Cartão de débito
+1727,322,2024-01-12,Em andamento,App,Cartão de crédito
+1728,363,2025-09-24,Concluído,Site,Cartão de débito
+1729,381,2024-01-26,Em andamento,App,Cartão de débito
+1730,324,2025-10-11,Em andamento,Marketplace,Pix
+1731,335,2024-09-02,Concluído,Marketplace,Pix
+1732,431,2025-07-02,Concluído,Loja física,Boleto
+1733,27,2025-11-06,Concluído,Site,Pix
+1734,12,2025-10-04,Concluído,Site,Cartão de crédito
+1735,475,2025-04-15,Concluído,Site,Cartão de crédito
+1736,145,2024-05-25,Concluído,App,Cartão de crédito
+1737,254,2024-03-20,Concluído,App,Cartão de débito
+1738,252,2024-04-13,Concluído,Loja física,Cartão de crédito
+1739,492,2025-05-13,Concluído,Site,Pix
+1740,215,2025-12-04,Concluído,Marketplace,Cartão de débito
+1741,93,2024-06-13,Concluído,Site,Pix
+1742,291,2025-11-06,Concluído,Site,Cartão de crédito
+1743,178,2024-12-17,Concluído,Site,Pix
+1744,380,2025-06-18,Concluído,Site,Pix
+1745,16,2025-09-12,Concluído,Site,Pix
+1746,444,2024-08-09,Concluído,Site,Pix
+1747,168,2024-01-31,Concluído,App,Cartão de crédito
+1748,482,2025-12-09,Concluído,Marketplace,Boleto
+1749,103,2025-05-08,Concluído,Marketplace,Boleto
+1750,382,2025-04-23,Concluído,Loja física,Cartão de débito
+1751,129,2024-07-16,Concluído,App,Boleto
+1752,53,2025-02-06,Concluído,Marketplace,Pix
+1753,489,2024-07-29,Em andamento,Loja física,Cartão de débito
+1754,217,2025-04-01,Concluído,Marketplace,Boleto
+1755,56,2025-09-29,Concluído,Loja física,Cartão de débito
+1756,291,2024-07-23,Concluído,Marketplace,Cartão de crédito
+1757,86,2025-04-05,Concluído,Marketplace,Cartão de débito
+1758,310,2024-10-27,Cancelado,Marketplace,Cartão de débito
+1759,59,2024-01-31,Concluído,Marketplace,Cartão de débito
+1760,184,2024-07-09,Concluído,Site,Pix
+1761,191,2025-11-03,Concluído,App,Boleto
+1762,5,2024-05-05,Concluído,Site,Boleto
+1763,239,2024-08-06,Concluído,Marketplace,Pix
+1764,34,2025-07-29,Concluído,Marketplace,Pix
+1765,112,2025-06-23,Concluído,Marketplace,Cartão de crédito
+1766,458,2025-08-10,Cancelado,Loja física,Cartão de débito
+1767,417,2024-11-21,Concluído,App,Pix
+1768,411,2024-02-20,Concluído,Loja física,Cartão de crédito
+1769,216,2024-10-08,Concluído,Site,Cartão de débito
+1770,308,2024-06-24,Concluído,Loja física,Pix
+1771,11,2025-08-13,Concluído,Site,Cartão de crédito
+1772,146,2025-04-17,Concluído,Loja física,Cartão de crédito
+1773,471,2025-06-30,Concluído,Site,Boleto
+1774,9,2025-10-22,Concluído,Loja física,Cartão de crédito
+1775,371,2025-03-01,Concluído,Marketplace,Boleto
+1776,205,2024-12-20,Concluído,Marketplace,Cartão de débito
+1777,25,2025-09-19,Concluído,Marketplace,Cartão de débito
+1778,435,2025-05-20,Cancelado,Site,Boleto
+1779,53,2025-09-24,Concluído,App,Cartão de crédito
+1780,72,2024-01-11,Concluído,Marketplace,Cartão de débito
+1781,88,2024-08-19,Concluído,App,Boleto
+1782,3,2025-07-04,Cancelado,Site,Boleto
+1783,57,2024-02-14,Concluído,Marketplace,Cartão de crédito
+1784,169,2024-09-27,Cancelado,Loja física,Boleto
+1785,88,2025-12-16,Concluído,Loja física,Cartão de crédito
+1786,164,2024-05-09,Concluído,Loja física,Cartão de débito
+1787,63,2025-11-15,Concluído,App,Cartão de débito
+1788,251,2025-11-08,Concluído,Marketplace,Cartão de débito
+1789,48,2024-08-19,Concluído,Marketplace,Cartão de crédito
+1790,286,2024-12-27,Concluído,App,Cartão de crédito
+1791,498,2024-03-17,Concluído,Site,Pix
+1792,344,2024-01-14,Concluído,Loja física,Cartão de débito
+1793,250,2024-07-11,Concluído,Marketplace,Pix
+1794,390,2025-08-27,Concluído,Marketplace,Boleto
+1795,233,2025-12-26,Cancelado,App,Cartão de crédito
+1796,113,2024-05-13,Concluído,Loja física,Cartão de débito
+1797,263,2025-09-27,Concluído,Loja física,Pix
+1798,143,2024-03-11,Concluído,App,Boleto
+1799,332,2025-08-14,Concluído,App,Cartão de débito
+1800,382,2024-04-19,Concluído,App,Cartão de crédito
+1801,96,2025-04-16,Concluído,Site,Cartão de débito
+1802,272,2025-11-08,Concluído,Marketplace,Boleto
+1803,475,2024-05-01,Concluído,Site,Boleto
+1804,109,2025-03-17,Concluído,Loja física,Cartão de débito
+1805,171,2025-06-04,Concluído,Loja física,Boleto
+1806,51,2025-01-13,Concluído,Loja física,Cartão de débito
+1807,151,2024-07-17,Concluído,Loja física,Pix
+1808,142,2025-08-31,Concluído,Loja física,Cartão de débito
+1809,349,2024-04-21,Concluído,App,Cartão de crédito
+1810,59,2024-08-12,Concluído,Site,Boleto
+1811,34,2024-09-01,Concluído,Site,Boleto
+1812,452,2024-08-19,Concluído,Loja física,Cartão de débito
+1813,52,2025-02-06,Concluído,Marketplace,Cartão de débito
+1814,88,2024-07-29,Concluído,Marketplace,Boleto
+1815,306,2025-12-23,Concluído,Site,Cartão de crédito
+1816,258,2024-07-08,Cancelado,Loja física,Boleto
+1817,123,2025-12-05,Concluído,Marketplace,Cartão de crédito
+1818,96,2024-06-19,Concluído,Loja física,Pix
+1819,342,2024-01-14,Concluído,Loja física,Boleto
+1820,91,2024-01-22,Concluído,Site,Pix
+1821,390,2025-11-26,Concluído,Marketplace,Cartão de débito
+1822,1,2025-08-20,Concluído,App,Cartão de débito
+1823,24,2024-04-22,Concluído,Marketplace,Pix
+1824,258,2025-06-21,Concluído,App,Cartão de crédito
+1825,156,2024-04-12,Em andamento,Marketplace,Cartão de débito
+1826,377,2025-05-17,Concluído,Marketplace,Cartão de débito
+1827,187,2024-09-16,Concluído,Site,Boleto
+1828,364,2024-11-04,Concluído,Loja física,Cartão de crédito
+1829,352,2024-10-03,Concluído,Site,Pix
+1830,439,2025-02-24,Concluído,App,Boleto
+1831,16,2025-05-24,Concluído,Loja física,Boleto
+1832,382,2024-07-30,Concluído,App,Cartão de débito
+1833,56,2025-10-16,Concluído,Loja física,Pix
+1834,467,2024-09-28,Cancelado,Marketplace,Boleto
+1835,302,2025-02-04,Concluído,Marketplace,Boleto
+1836,22,2024-07-14,Concluído,Marketplace,Cartão de crédito
+1837,408,2025-03-19,Concluído,Marketplace,Boleto
+1838,497,2024-04-22,Concluído,Loja física,Pix
+1839,349,2025-04-22,Concluído,Marketplace,Pix
+1840,250,2024-11-06,Concluído,Site,Boleto
+1841,233,2024-01-16,Concluído,App,Boleto
+1842,64,2025-08-30,Concluído,Loja física,Boleto
+1843,221,2024-01-06,Concluído,Site,Cartão de crédito
+1844,71,2024-09-14,Concluído,Marketplace,Pix
+1845,366,2024-03-29,Concluído,App,Pix
+1846,300,2025-03-18,Concluído,Marketplace,Pix
+1847,243,2024-02-02,Concluído,App,Cartão de débito
+1848,205,2025-03-08,Concluído,Marketplace,Boleto
+1849,160,2025-09-03,Concluído,Loja física,Boleto
+1850,72,2025-08-15,Cancelado,App,Boleto
+1851,214,2024-05-18,Concluído,App,Boleto
+1852,44,2024-11-08,Concluído,Loja física,Pix
+1853,401,2025-01-19,Concluído,Site,Pix
+1854,227,2025-06-23,Cancelado,Marketplace,Boleto
+1855,182,2025-04-24,Concluído,Loja física,Cartão de débito
+1856,237,2025-02-24,Concluído,Site,Cartão de débito
+1857,387,2024-03-31,Concluído,Marketplace,Pix
+1858,263,2025-08-17,Concluído,App,Boleto
+1859,387,2024-02-24,Concluído,App,Cartão de débito
+1860,4,2025-11-17,Concluído,Loja física,Cartão de crédito
+1861,29,2024-03-27,Concluído,Site,Boleto
+1862,50,2025-08-31,Concluído,Loja física,Boleto
+1863,63,2024-03-03,Em andamento,Site,Pix
+1864,74,2025-06-12,Concluído,Loja física,Pix
+1865,459,2024-08-16,Cancelado,App,Boleto
+1866,160,2025-10-05,Em andamento,Site,Cartão de débito
+1867,353,2025-09-30,Concluído,Site,Cartão de crédito
+1868,79,2024-01-01,Concluído,Site,Cartão de crédito
+1869,105,2024-09-10,Concluído,Loja física,Cartão de crédito
+1870,228,2025-06-01,Concluído,Site,Cartão de crédito
+1871,208,2024-11-03,Concluído,App,Pix
+1872,134,2025-07-13,Concluído,Loja física,Cartão de crédito
+1873,75,2025-03-18,Concluído,Site,Pix
+1874,420,2024-05-25,Em andamento,App,Pix
+1875,380,2025-06-07,Cancelado,App,Cartão de débito
+1876,149,2025-05-06,Concluído,Site,Cartão de débito
+1877,342,2025-01-11,Concluído,Loja física,Cartão de débito
+1878,410,2025-12-15,Concluído,Loja física,Cartão de débito
+1879,76,2025-03-11,Concluído,Marketplace,Cartão de débito
+1880,289,2024-05-03,Concluído,Site,Boleto
+1881,331,2024-02-04,Cancelado,Loja física,Cartão de crédito
+1882,493,2024-12-29,Concluído,Loja física,Cartão de débito
+1883,5,2024-10-10,Concluído,Marketplace,Pix
+1884,463,2024-12-23,Cancelado,Loja física,Cartão de crédito
+1885,336,2024-06-27,Concluído,Marketplace,Boleto
+1886,367,2025-04-15,Concluído,Marketplace,Boleto
+1887,35,2025-02-07,Cancelado,Loja física,Cartão de débito
+1888,311,2025-04-28,Cancelado,App,Boleto
+1889,358,2024-05-12,Concluído,Marketplace,Cartão de débito
+1890,24,2024-03-10,Concluído,App,Pix
+1891,341,2024-04-08,Concluído,Loja física,Cartão de débito
+1892,390,2024-11-27,Concluído,App,Cartão de crédito
+1893,373,2024-06-27,Concluído,Loja física,Cartão de crédito
+1894,314,2024-03-04,Concluído,Site,Cartão de crédito
+1895,227,2024-03-15,Em andamento,Marketplace,Cartão de crédito
+1896,165,2024-06-27,Concluído,Loja física,Cartão de débito
+1897,327,2024-05-16,Concluído,App,Pix
+1898,252,2024-09-15,Concluído,Marketplace,Pix
+1899,380,2024-07-25,Concluído,Loja física,Pix
+1900,299,2024-03-29,Concluído,Site,Pix
+1901,415,2024-02-04,Concluído,Site,Boleto
+1902,291,2025-02-21,Concluído,Site,Boleto
+1903,350,2024-07-08,Em andamento,Loja física,Pix
+1904,293,2024-07-31,Concluído,Marketplace,Boleto
+1905,461,2025-09-25,Concluído,App,Cartão de crédito
+1906,219,2025-03-25,Concluído,Loja física,Cartão de crédito
+1907,41,2025-08-05,Concluído,Marketplace,Cartão de crédito
+1908,256,2024-04-30,Concluído,Site,Boleto
+1909,115,2024-01-24,Concluído,Marketplace,Cartão de débito
+1910,184,2025-12-21,Concluído,App,Boleto
+1911,274,2024-03-17,Concluído,App,Boleto
+1912,317,2025-02-12,Concluído,Site,Cartão de débito
+1913,335,2024-09-26,Concluído,Site,Boleto
+1914,134,2025-03-07,Concluído,Marketplace,Cartão de crédito
+1915,105,2024-05-22,Concluído,Marketplace,Cartão de crédito
+1916,253,2024-08-29,Concluído,Site,Boleto
+1917,487,2024-03-13,Concluído,Site,Cartão de débito
+1918,139,2024-05-12,Em andamento,Site,Cartão de crédito
+1919,255,2024-02-06,Concluído,App,Boleto
+1920,245,2025-03-17,Concluído,App,Cartão de crédito
+1921,14,2024-02-26,Em andamento,App,Cartão de débito
+1922,351,2025-11-29,Em andamento,Site,Cartão de débito
+1923,199,2024-02-23,Em andamento,Loja física,Pix
+1924,360,2025-03-16,Concluído,App,Cartão de crédito
+1925,61,2025-03-24,Concluído,Marketplace,Boleto
+1926,176,2024-07-17,Concluído,Site,Pix
+1927,48,2024-08-25,Concluído,Site,Pix
+1928,383,2025-02-26,Em andamento,Site,Cartão de crédito
+1929,417,2024-09-12,Concluído,Site,Cartão de crédito
+1930,225,2024-05-09,Concluído,Marketplace,Cartão de crédito
+1931,180,2024-11-17,Concluído,App,Boleto
+1932,311,2024-05-12,Concluído,Loja física,Cartão de crédito
+1933,40,2025-11-03,Concluído,Marketplace,Pix
+1934,362,2025-05-21,Em andamento,Marketplace,Pix
+1935,366,2025-03-30,Concluído,Marketplace,Boleto
+1936,126,2025-10-31,Concluído,Marketplace,Boleto
+1937,278,2025-12-15,Concluído,Site,Cartão de crédito
+1938,462,2024-12-20,Concluído,Loja física,Boleto
+1939,105,2024-03-21,Concluído,App,Boleto
+1940,108,2025-07-20,Concluído,Marketplace,Pix
+1941,121,2024-02-06,Cancelado,Loja física,Cartão de débito
+1942,11,2024-04-26,Concluído,Site,Boleto
+1943,302,2024-10-11,Concluído,Marketplace,Cartão de crédito
+1944,143,2024-03-02,Concluído,Loja física,Cartão de débito
+1945,442,2024-01-20,Concluído,Loja física,Cartão de débito
+1946,115,2024-02-15,Concluído,Loja física,Pix
+1947,221,2025-11-06,Concluído,Site,Boleto
+1948,278,2024-02-02,Em andamento,Marketplace,Cartão de crédito
+1949,387,2025-09-15,Concluído,Marketplace,Pix
+1950,175,2024-01-29,Em andamento,Loja física,Cartão de débito
+1951,414,2024-02-28,Concluído,Loja física,Boleto
+1952,238,2025-07-01,Concluído,Marketplace,Pix
+1953,240,2025-01-25,Em andamento,App,Pix
+1954,144,2024-01-16,Cancelado,Marketplace,Cartão de crédito
+1955,395,2024-09-12,Concluído,Marketplace,Boleto
+1956,203,2025-08-07,Concluído,Marketplace,Boleto
+1957,338,2024-10-02,Concluído,Site,Cartão de crédito
+1958,292,2024-11-10,Cancelado,Marketplace,Boleto
+1959,228,2024-07-02,Concluído,Site,Cartão de débito
+1960,239,2024-01-10,Concluído,Marketplace,Cartão de débito
+1961,433,2025-10-15,Concluído,App,Cartão de débito
+1962,297,2024-02-29,Concluído,Marketplace,Boleto
+1963,226,2024-03-06,Concluído,Marketplace,Boleto
+1964,445,2024-09-22,Concluído,App,Pix
+1965,90,2025-10-07,Concluído,Site,Pix
+1966,336,2024-04-27,Concluído,App,Cartão de débito
+1967,163,2025-08-16,Concluído,App,Cartão de crédito
+1968,500,2024-09-22,Concluído,Site,Boleto
+1969,368,2025-07-07,Concluído,App,Boleto
+1970,40,2024-04-21,Concluído,Loja física,Cartão de crédito
+1971,40,2025-06-07,Concluído,App,Boleto
+1972,191,2025-08-07,Cancelado,Loja física,Cartão de crédito
+1973,219,2025-10-19,Concluído,App,Cartão de crédito
+1974,311,2024-11-30,Concluído,Marketplace,Cartão de débito
+1975,192,2025-10-29,Concluído,Marketplace,Cartão de crédito
+1976,189,2024-06-13,Concluído,Marketplace,Pix
+1977,14,2025-08-28,Concluído,App,Boleto
+1978,367,2025-06-07,Em andamento,Marketplace,Pix
+1979,426,2025-01-22,Concluído,Site,Pix
+1980,391,2025-01-25,Cancelado,Site,Cartão de crédito
+1981,290,2024-08-17,Concluído,Loja física,Cartão de crédito
+1982,409,2025-06-24,Concluído,Loja física,Cartão de débito
+1983,138,2024-11-20,Concluído,Marketplace,Pix
+1984,125,2024-12-02,Em andamento,Marketplace,Pix
+1985,162,2025-04-11,Em andamento,Site,Pix
+1986,376,2025-03-31,Concluído,Marketplace,Cartão de crédito
+1987,287,2024-12-26,Concluído,Site,Boleto
+1988,248,2025-10-31,Concluído,App,Cartão de débito
+1989,118,2025-03-04,Concluído,App,Pix
+1990,346,2025-02-21,Concluído,App,Boleto
+1991,175,2024-10-20,Concluído,Site,Cartão de crédito
+1992,216,2025-02-22,Concluído,App,Cartão de débito
+1993,452,2025-10-09,Em andamento,App,Pix
+1994,8,2025-04-09,Concluído,Site,Cartão de débito
+1995,392,2024-09-26,Concluído,Loja física,Cartão de crédito
+1996,446,2024-05-09,Concluído,Loja física,Cartão de crédito
+1997,86,2025-12-07,Concluído,App,Cartão de débito
+1998,182,2025-03-08,Concluído,Loja física,Pix
+1999,151,2025-12-30,Concluído,Marketplace,Boleto
+2000,312,2025-08-28,Concluído,Site,Cartão de crédito
+2001,379,2024-03-16,Concluído,Loja física,Cartão de débito
+2002,231,2025-10-07,Em andamento,Loja física,Boleto
+2003,359,2025-05-03,Concluído,App,Cartão de crédito
+2004,459,2024-06-04,Concluído,Marketplace,Cartão de débito
+2005,165,2025-01-23,Concluído,App,Boleto
+2006,119,2024-04-09,Concluído,Loja física,Boleto
+2007,289,2024-02-19,Concluído,Loja física,Boleto
+2008,197,2024-11-26,Concluído,App,Pix
+2009,417,2024-02-12,Em andamento,App,Cartão de débito
+2010,143,2025-06-15,Concluído,Marketplace,Cartão de crédito
+2011,146,2024-12-21,Concluído,Site,Boleto
+2012,250,2024-10-07,Concluído,App,Pix
+2013,481,2024-10-22,Concluído,Site,Pix
+2014,143,2025-11-13,Concluído,Site,Pix
+2015,430,2025-07-19,Concluído,App,Cartão de crédito
+2016,463,2025-09-04,Concluído,App,Cartão de crédito
+2017,427,2025-05-15,Concluído,Marketplace,Pix
+2018,483,2024-10-15,Concluído,Loja física,Cartão de débito
+2019,65,2025-06-17,Concluído,Marketplace,Cartão de crédito
+2020,471,2025-12-24,Concluído,Loja física,Cartão de débito
+2021,135,2025-05-20,Concluído,App,Boleto
+2022,60,2025-11-15,Concluído,Site,Pix
+2023,168,2024-03-17,Concluído,Marketplace,Boleto
+2024,323,2025-04-09,Em andamento,Site,Boleto
+2025,222,2024-02-09,Concluído,Marketplace,Pix
+2026,339,2025-07-25,Concluído,Site,Cartão de crédito
+2027,71,2024-09-08,Concluído,Loja física,Pix
+2028,101,2025-11-20,Concluído,Loja física,Pix
+2029,417,2025-05-11,Concluído,Loja física,Boleto
+2030,102,2024-05-14,Concluído,Site,Pix
+2031,223,2024-01-04,Concluído,Loja física,Pix
+2032,92,2025-12-28,Concluído,Loja física,Boleto
+2033,195,2025-09-20,Concluído,App,Boleto
+2034,272,2025-05-10,Cancelado,App,Boleto
+2035,449,2024-08-25,Concluído,Loja física,Cartão de débito
+2036,201,2025-10-07,Concluído,Marketplace,Cartão de débito
+2037,50,2024-10-29,Concluído,Site,Boleto
+2038,497,2025-03-05,Concluído,Marketplace,Pix
+2039,218,2025-11-09,Concluído,App,Cartão de débito
+2040,339,2024-11-22,Concluído,Marketplace,Cartão de débito
+2041,66,2025-12-22,Em andamento,Loja física,Cartão de débito
+2042,211,2025-09-07,Cancelado,App,Cartão de crédito
+2043,138,2024-10-24,Concluído,App,Cartão de débito
+2044,288,2024-03-03,Em andamento,Marketplace,Boleto
+2045,163,2025-11-22,Concluído,Loja física,Cartão de débito
+2046,205,2025-03-11,Concluído,Site,Boleto
+2047,373,2025-05-12,Concluído,Marketplace,Cartão de crédito
+2048,230,2024-11-11,Concluído,App,Pix
+2049,106,2025-07-02,Em andamento,Site,Boleto
+2050,310,2024-05-12,Concluído,Site,Cartão de crédito
+2051,47,2025-01-23,Em andamento,Marketplace,Boleto
+2052,33,2025-07-20,Cancelado,Site,Pix
+2053,275,2025-01-05,Concluído,App,Cartão de débito
+2054,149,2024-08-22,Concluído,Marketplace,Boleto
+2055,111,2025-02-27,Concluído,App,Cartão de crédito
+2056,433,2024-02-06,Concluído,Site,Cartão de débito
+2057,22,2025-05-11,Concluído,Marketplace,Boleto
+2058,118,2024-01-25,Concluído,App,Cartão de crédito
+2059,384,2024-10-05,Concluído,Loja física,Cartão de débito
+2060,419,2024-05-14,Em andamento,Marketplace,Cartão de crédito
+2061,38,2024-03-19,Concluído,Loja física,Cartão de crédito
+2062,381,2024-01-16,Concluído,App,Cartão de crédito
+2063,406,2025-08-25,Concluído,App,Boleto
+2064,218,2024-11-27,Concluído,Site,Boleto
+2065,235,2024-10-07,Concluído,Site,Boleto
+2066,296,2025-11-02,Concluído,Loja física,Boleto
+2067,48,2025-03-15,Concluído,Loja física,Boleto
+2068,146,2025-05-09,Cancelado,App,Cartão de débito
+2069,255,2024-01-18,Em andamento,Loja física,Boleto
+2070,366,2025-07-13,Concluído,Loja física,Pix
+2071,500,2025-08-14,Concluído,Loja física,Pix
+2072,190,2025-04-02,Concluído,Site,Boleto
+2073,74,2024-12-06,Concluído,Site,Cartão de crédito
+2074,87,2025-07-28,Concluído,Loja física,Pix
+2075,73,2024-03-26,Concluído,Loja física,Pix
+2076,393,2024-03-01,Concluído,Marketplace,Cartão de débito
+2077,380,2024-11-14,Concluído,App,Cartão de crédito
+2078,353,2024-11-25,Concluído,Loja física,Cartão de crédito
+2079,354,2024-10-01,Concluído,Loja física,Cartão de débito
+2080,492,2024-11-16,Cancelado,App,Boleto
+2081,363,2025-04-17,Concluído,Site,Cartão de crédito
+2082,359,2025-03-11,Concluído,Loja física,Pix
+2083,83,2024-01-14,Concluído,Site,Pix
+2084,225,2024-07-21,Concluído,Site,Cartão de débito
+2085,88,2025-05-22,Concluído,Loja física,Pix
+2086,215,2025-07-14,Concluído,Site,Boleto
+2087,223,2024-04-30,Concluído,Marketplace,Boleto
+2088,456,2025-09-21,Concluído,App,Pix
+2089,268,2024-10-24,Cancelado,App,Boleto
+2090,310,2025-06-15,Concluído,Loja física,Cartão de débito
+2091,480,2024-08-03,Concluído,App,Pix
+2092,367,2025-06-20,Concluído,Site,Boleto
+2093,92,2025-03-02,Concluído,Loja física,Cartão de crédito
+2094,160,2024-01-06,Cancelado,App,Pix
+2095,49,2025-12-11,Concluído,Loja física,Boleto
+2096,32,2024-04-06,Concluído,Loja física,Pix
+2097,180,2024-03-09,Concluído,App,Boleto
+2098,8,2025-10-05,Concluído,Marketplace,Boleto
+2099,300,2025-03-12,Em andamento,Marketplace,Boleto
+2100,393,2025-10-01,Concluído,Marketplace,Pix
+2101,304,2024-03-20,Concluído,Site,Pix
+2102,92,2024-10-13,Concluído,Site,Pix
+2103,301,2025-06-18,Cancelado,Loja física,Boleto
+2104,396,2025-08-12,Concluído,Marketplace,Cartão de débito
+2105,87,2024-08-02,Concluído,App,Pix
+2106,476,2024-04-03,Concluído,App,Pix
+2107,244,2024-06-17,Concluído,Marketplace,Cartão de crédito
+2108,71,2024-02-23,Concluído,Loja física,Cartão de débito
+2109,242,2025-11-11,Concluído,Marketplace,Cartão de crédito
+2110,287,2024-09-03,Concluído,Loja física,Cartão de débito
+2111,243,2025-12-24,Concluído,Marketplace,Boleto
+2112,41,2025-06-27,Concluído,App,Pix
+2113,427,2025-10-10,Concluído,App,Cartão de débito
+2114,227,2025-07-27,Concluído,Marketplace,Cartão de crédito
+2115,461,2025-07-25,Concluído,Marketplace,Pix
+2116,444,2024-01-26,Concluído,Loja física,Boleto
+2117,110,2025-03-10,Concluído,App,Cartão de débito
+2118,92,2025-01-18,Em andamento,Site,Pix
+2119,185,2025-03-28,Concluído,App,Cartão de crédito
+2120,159,2025-08-23,Concluído,Site,Boleto
+2121,258,2024-09-16,Concluído,Marketplace,Cartão de crédito
+2122,141,2025-10-24,Cancelado,Loja física,Cartão de débito
+2123,357,2024-02-14,Cancelado,Marketplace,Boleto
+2124,30,2025-10-02,Concluído,Site,Cartão de débito
+2125,324,2025-09-14,Concluído,Loja física,Pix
+2126,384,2025-04-29,Cancelado,Site,Cartão de crédito
+2127,15,2025-01-13,Concluído,App,Pix
+2128,43,2024-05-14,Concluído,Site,Cartão de crédito
+2129,327,2025-03-30,Cancelado,Site,Boleto
+2130,440,2024-04-09,Concluído,Marketplace,Pix
+2131,315,2025-11-01,Em andamento,Site,Boleto
+2132,435,2025-11-19,Concluído,App,Boleto
+2133,8,2025-06-12,Cancelado,Loja física,Cartão de débito
+2134,343,2025-11-14,Concluído,Site,Pix
+2135,76,2025-05-28,Em andamento,Marketplace,Cartão de crédito
+2136,228,2024-06-25,Concluído,Marketplace,Pix
+2137,259,2025-12-06,Concluído,App,Cartão de crédito
+2138,141,2024-11-14,Concluído,Marketplace,Cartão de crédito
+2139,239,2024-12-15,Concluído,Site,Cartão de débito
+2140,60,2024-03-31,Concluído,App,Cartão de crédito
+2141,163,2024-07-09,Concluído,Site,Pix
+2142,112,2024-01-11,Concluído,Marketplace,Cartão de débito
+2143,450,2024-03-24,Em andamento,App,Boleto
+2144,329,2025-11-28,Concluído,App,Boleto
+2145,195,2024-02-24,Cancelado,Marketplace,Pix
+2146,72,2024-10-12,Concluído,Marketplace,Cartão de débito
+2147,428,2024-08-19,Concluído,Marketplace,Pix
+2148,152,2024-06-30,Concluído,Loja física,Boleto
+2149,251,2024-04-04,Concluído,Marketplace,Boleto
+2150,268,2025-10-19,Concluído,App,Cartão de crédito
+2151,198,2025-08-22,Concluído,App,Cartão de débito
+2152,331,2024-12-21,Cancelado,Marketplace,Pix
+2153,359,2024-12-16,Concluído,Marketplace,Cartão de crédito
+2154,396,2025-06-09,Concluído,Marketplace,Pix
+2155,134,2025-04-23,Concluído,Site,Pix
+2156,72,2025-05-01,Concluído,Marketplace,Boleto
+2157,194,2025-07-31,Cancelado,Site,Boleto
+2158,54,2025-12-19,Concluído,Marketplace,Cartão de crédito
+2159,216,2024-06-11,Concluído,Marketplace,Boleto
+2160,463,2025-10-25,Concluído,App,Boleto
+2161,84,2024-11-09,Concluído,App,Cartão de crédito
+2162,415,2025-03-25,Concluído,Loja física,Cartão de débito
+2163,243,2025-02-12,Concluído,Marketplace,Boleto
+2164,173,2025-09-07,Concluído,Loja física,Boleto
+2165,498,2024-02-11,Concluído,Site,Cartão de débito
+2166,397,2025-03-12,Concluído,Loja física,Cartão de crédito
+2167,263,2024-06-16,Concluído,Marketplace,Pix
+2168,385,2025-08-04,Concluído,App,Boleto
+2169,497,2024-02-25,Concluído,Marketplace,Pix
+2170,235,2024-12-20,Concluído,App,Cartão de débito
+2171,338,2024-01-01,Concluído,App,Pix
+2172,158,2024-11-04,Concluído,App,Pix
+2173,224,2024-07-27,Concluído,App,Pix
+2174,285,2025-12-02,Em andamento,Marketplace,Cartão de crédito
+2175,82,2025-05-03,Concluído,Site,Cartão de débito
+2176,352,2025-07-17,Concluído,App,Cartão de débito
+2177,193,2025-11-15,Concluído,App,Cartão de crédito
+2178,66,2025-01-31,Concluído,App,Cartão de débito
+2179,460,2024-11-30,Concluído,Loja física,Cartão de débito
+2180,37,2025-06-30,Concluído,Loja física,Cartão de crédito
+2181,454,2024-08-15,Concluído,App,Pix
+2182,186,2025-01-12,Concluído,Site,Cartão de débito
+2183,331,2024-03-20,Concluído,App,Cartão de débito
+2184,23,2024-07-11,Concluído,Marketplace,Cartão de débito
+2185,174,2024-04-05,Concluído,App,Cartão de débito
+2186,146,2024-06-03,Concluído,Loja física,Cartão de débito
+2187,134,2024-02-05,Concluído,App,Pix
+2188,350,2025-02-11,Concluído,Site,Cartão de débito
+2189,178,2024-03-25,Cancelado,Site,Cartão de débito
+2190,83,2024-01-13,Concluído,App,Cartão de débito
+2191,233,2025-12-03,Concluído,Loja física,Cartão de débito
+2192,395,2025-03-08,Concluído,Marketplace,Cartão de débito
+2193,380,2024-09-21,Concluído,Site,Cartão de débito
+2194,191,2025-05-29,Em andamento,Loja física,Boleto
+2195,498,2025-07-01,Concluído,Site,Pix
+2196,273,2025-03-10,Em andamento,Loja física,Cartão de crédito
+2197,4,2024-06-02,Concluído,Marketplace,Pix
+2198,417,2025-06-11,Concluído,Loja física,Cartão de débito
+2199,238,2024-02-19,Concluído,Site,Cartão de crédito
+2200,236,2025-05-16,Concluído,Site,Boleto
+2201,218,2024-09-15,Concluído,Marketplace,Cartão de crédito
+2202,137,2025-07-09,Concluído,Marketplace,Boleto
+2203,9,2025-03-03,Concluído,Marketplace,Boleto
+2204,19,2025-10-13,Concluído,Site,Boleto
+2205,273,2024-02-07,Em andamento,Loja física,Pix
+2206,44,2024-06-28,Concluído,Site,Pix
+2207,325,2024-05-28,Concluído,Loja física,Boleto
+2208,498,2024-12-19,Concluído,App,Cartão de débito
+2209,40,2024-02-11,Concluído,Marketplace,Cartão de crédito
+2210,312,2024-05-30,Em andamento,Site,Cartão de débito
+2211,372,2025-06-08,Concluído,Marketplace,Boleto
+2212,206,2025-03-08,Concluído,App,Boleto
+2213,381,2025-10-30,Concluído,Loja física,Cartão de crédito
+2214,293,2024-07-15,Concluído,Marketplace,Pix
+2215,410,2025-12-11,Concluído,Marketplace,Cartão de débito
+2216,390,2024-08-08,Concluído,Marketplace,Pix
+2217,257,2024-10-10,Cancelado,Site,Cartão de débito
+2218,348,2024-07-04,Concluído,Marketplace,Cartão de crédito
+2219,107,2025-02-20,Concluído,Loja física,Pix
+2220,137,2024-10-08,Concluído,Marketplace,Cartão de crédito
+2221,116,2024-08-14,Concluído,Marketplace,Pix
+2222,314,2024-03-06,Concluído,Loja física,Cartão de débito
+2223,305,2025-10-12,Concluído,Loja física,Cartão de débito
+2224,7,2025-07-25,Concluído,Marketplace,Boleto
+2225,422,2024-12-20,Concluído,App,Cartão de débito
+2226,108,2025-05-25,Concluído,App,Cartão de débito
+2227,207,2024-09-18,Concluído,Site,Cartão de débito
+2228,177,2025-07-28,Concluído,App,Boleto
+2229,150,2024-11-07,Em andamento,Marketplace,Cartão de débito
+2230,240,2025-11-21,Concluído,App,Pix
+2231,181,2025-10-01,Concluído,Loja física,Cartão de débito
+2232,385,2024-01-24,Concluído,Loja física,Pix
+2233,472,2025-01-19,Concluído,App,Cartão de débito
+2234,486,2025-09-13,Concluído,Site,Cartão de débito
+2235,109,2024-08-11,Concluído,Marketplace,Pix
+2236,393,2024-06-11,Em andamento,Loja física,Cartão de débito
+2237,385,2024-12-26,Concluído,Loja física,Boleto
+2238,395,2024-11-23,Concluído,Site,Boleto
+2239,275,2025-05-29,Concluído,Loja física,Pix
+2240,254,2025-02-17,Em andamento,Loja física,Boleto
+2241,81,2025-04-05,Concluído,Loja física,Boleto
+2242,273,2024-01-04,Concluído,Loja física,Pix
+2243,465,2025-11-30,Concluído,Loja física,Cartão de débito
+2244,211,2025-03-04,Concluído,Site,Pix
+2245,313,2024-05-21,Concluído,Site,Cartão de débito
+2246,167,2024-01-24,Concluído,App,Pix
+2247,321,2025-08-05,Concluído,Site,Boleto
+2248,381,2024-01-24,Concluído,Loja física,Pix
+2249,235,2024-06-14,Concluído,App,Pix
+2250,480,2025-04-28,Cancelado,App,Boleto
+2251,151,2024-05-15,Concluído,Site,Pix
+2252,237,2025-08-14,Concluído,App,Cartão de débito
+2253,408,2024-09-04,Concluído,Loja física,Cartão de crédito
+2254,429,2025-09-10,Concluído,App,Pix
+2255,370,2025-04-18,Concluído,Site,Cartão de crédito
+2256,347,2025-11-29,Concluído,Loja física,Cartão de débito
+2257,401,2024-03-13,Concluído,Marketplace,Cartão de crédito
+2258,332,2025-09-13,Concluído,Site,Cartão de débito
+2259,424,2025-05-07,Em andamento,Site,Boleto
+2260,425,2025-02-11,Em andamento,Site,Boleto
+2261,367,2025-02-13,Concluído,Loja física,Cartão de débito
+2262,54,2024-05-07,Concluído,Marketplace,Cartão de crédito
+2263,188,2024-06-22,Concluído,Marketplace,Pix
+2264,408,2024-09-05,Concluído,App,Boleto
+2265,169,2024-04-09,Cancelado,Site,Cartão de débito
+2266,252,2025-12-27,Em andamento,App,Boleto
+2267,152,2024-12-16,Cancelado,Loja física,Boleto
+2268,359,2025-04-06,Concluído,Marketplace,Cartão de crédito
+2269,76,2024-05-23,Concluído,Marketplace,Cartão de crédito
+2270,451,2024-08-14,Concluído,Marketplace,Boleto
+2271,484,2024-11-10,Cancelado,App,Boleto
+2272,366,2025-05-01,Concluído,Marketplace,Pix
+2273,66,2025-12-12,Concluído,Marketplace,Cartão de débito
+2274,327,2024-09-20,Concluído,Site,Pix
+2275,156,2025-08-20,Concluído,Site,Boleto
+2276,370,2025-01-07,Concluído,Loja física,Cartão de débito
+2277,461,2025-09-25,Concluído,Marketplace,Pix
+2278,437,2025-08-24,Concluído,Marketplace,Boleto
+2279,444,2025-01-22,Concluído,App,Cartão de débito
+2280,248,2024-06-28,Concluído,Site,Cartão de crédito
+2281,116,2024-12-16,Concluído,App,Pix
+2282,143,2024-06-02,Concluído,Site,Pix
+2283,256,2024-12-31,Concluído,Site,Pix
+2284,187,2024-07-26,Cancelado,Site,Cartão de débito
+2285,51,2025-10-03,Concluído,Site,Boleto
+2286,493,2025-07-20,Concluído,Site,Cartão de crédito
+2287,291,2025-04-02,Concluído,App,Pix
+2288,409,2024-09-19,Em andamento,App,Pix
+2289,354,2024-08-21,Cancelado,Loja física,Pix
+2290,312,2024-02-11,Concluído,Marketplace,Cartão de crédito
+2291,376,2024-07-13,Concluído,App,Boleto
+2292,107,2024-03-03,Concluído,App,Cartão de débito
+2293,51,2025-04-20,Concluído,Site,Boleto
+2294,38,2025-10-11,Concluído,Loja física,Cartão de crédito
+2295,43,2025-03-28,Concluído,App,Cartão de crédito
+2296,302,2025-07-09,Concluído,Loja física,Boleto
+2297,5,2025-08-05,Concluído,Loja física,Cartão de crédito
+2298,399,2025-03-29,Cancelado,App,Cartão de débito
+2299,129,2024-01-01,Em andamento,Loja física,Boleto
+2300,324,2025-05-19,Concluído,Marketplace,Cartão de débito
+2301,146,2025-06-10,Cancelado,Marketplace,Boleto
+2302,128,2025-06-28,Concluído,Marketplace,Boleto
+2303,226,2025-10-02,Concluído,App,Cartão de débito
+2304,164,2024-01-07,Concluído,Loja física,Cartão de débito
+2305,92,2024-06-16,Concluído,Loja física,Boleto
+2306,474,2024-04-06,Concluído,Marketplace,Pix
+2307,399,2024-07-17,Concluído,App,Pix
+2308,257,2024-11-10,Concluído,Marketplace,Cartão de débito
+2309,351,2024-04-15,Concluído,App,Pix
+2310,81,2024-11-27,Concluído,Loja física,Pix
+2311,313,2024-06-10,Cancelado,App,Boleto
+2312,243,2025-06-12,Cancelado,Loja física,Boleto
+2313,478,2024-08-22,Concluído,Loja física,Boleto
+2314,75,2025-01-14,Concluído,Marketplace,Boleto
+2315,231,2024-11-18,Concluído,Loja física,Cartão de débito
+2316,3,2025-03-03,Em andamento,Loja física,Cartão de crédito
+2317,182,2025-02-22,Cancelado,App,Cartão de débito
+2318,10,2024-10-07,Cancelado,App,Pix
+2319,367,2025-11-08,Concluído,Marketplace,Boleto
+2320,165,2024-01-25,Concluído,Loja física,Boleto
+2321,287,2025-07-25,Em andamento,App,Pix
+2322,258,2025-09-24,Concluído,Marketplace,Cartão de crédito
+2323,125,2024-03-17,Concluído,Marketplace,Cartão de débito
+2324,241,2025-08-30,Concluído,Loja física,Cartão de débito
+2325,144,2024-09-12,Concluído,Loja física,Cartão de crédito
+2326,29,2024-04-13,Concluído,Marketplace,Boleto
+2327,190,2025-07-04,Concluído,Marketplace,Cartão de crédito
+2328,69,2025-04-28,Em andamento,Site,Boleto
+2329,423,2025-02-27,Concluído,App,Boleto
+2330,103,2025-08-10,Concluído,Site,Cartão de débito
+2331,168,2024-09-08,Concluído,Marketplace,Boleto
+2332,12,2025-12-07,Concluído,Site,Boleto
+2333,464,2025-01-04,Em andamento,Loja física,Pix
+2334,165,2024-07-07,Concluído,App,Cartão de débito
+2335,171,2025-01-05,Concluído,Marketplace,Boleto
+2336,383,2025-09-10,Concluído,App,Cartão de crédito
+2337,211,2025-10-19,Concluído,Loja física,Cartão de débito
+2338,426,2024-02-19,Concluído,Site,Boleto
+2339,290,2024-01-17,Concluído,Site,Boleto
+2340,252,2025-07-05,Concluído,Marketplace,Cartão de crédito
+2341,290,2024-03-18,Concluído,Site,Pix
+2342,434,2025-06-09,Concluído,Loja física,Pix
+2343,393,2024-03-15,Cancelado,Loja física,Boleto
+2344,232,2025-04-21,Em andamento,App,Boleto
+2345,94,2024-03-15,Cancelado,Marketplace,Cartão de débito
+2346,400,2025-06-24,Cancelado,Loja física,Cartão de crédito
+2347,295,2025-02-15,Concluído,Site,Cartão de débito
+2348,5,2024-01-20,Concluído,Marketplace,Cartão de débito
+2349,133,2024-06-03,Concluído,Marketplace,Cartão de débito
+2350,341,2025-10-31,Concluído,Marketplace,Pix
+2351,396,2024-07-12,Concluído,App,Boleto
+2352,52,2024-07-04,Concluído,Site,Pix
+2353,179,2025-07-07,Concluído,Marketplace,Boleto
+2354,337,2024-08-23,Concluído,App,Boleto
+2355,218,2024-06-16,Concluído,App,Pix
+2356,14,2024-12-29,Concluído,Loja física,Cartão de crédito
+2357,14,2025-01-19,Concluído,App,Cartão de débito
+2358,229,2024-02-20,Concluído,Loja física,Pix
+2359,395,2024-07-29,Concluído,Site,Cartão de crédito
+2360,260,2024-06-28,Concluído,Site,Pix
+2361,62,2024-08-02,Concluído,Marketplace,Boleto
+2362,98,2025-03-01,Concluído,Site,Boleto
+2363,131,2025-05-04,Concluído,Site,Cartão de débito
+2364,4,2024-01-17,Concluído,Loja física,Cartão de débito
+2365,182,2024-04-12,Concluído,Marketplace,Cartão de crédito
+2366,485,2025-03-20,Cancelado,Marketplace,Pix
+2367,44,2025-12-19,Cancelado,Loja física,Cartão de débito
+2368,488,2024-01-17,Concluído,Marketplace,Cartão de crédito
+2369,434,2024-05-24,Concluído,App,Cartão de crédito
+2370,266,2024-05-11,Concluído,App,Cartão de débito
+2371,32,2024-02-09,Concluído,App,Boleto
+2372,317,2025-01-15,Concluído,App,Cartão de débito
+2373,90,2024-06-25,Concluído,App,Pix
+2374,451,2025-01-08,Concluído,App,Cartão de crédito
+2375,105,2025-05-24,Concluído,Loja física,Boleto
+2376,319,2024-09-28,Concluído,Site,Cartão de crédito
+2377,15,2024-12-05,Concluído,Site,Pix
+2378,24,2025-02-21,Concluído,Loja física,Pix
+2379,52,2024-06-10,Concluído,Marketplace,Pix
+2380,215,2024-04-04,Concluído,Site,Cartão de débito
+2381,213,2025-04-20,Concluído,Loja física,Pix
+2382,415,2025-09-09,Concluído,Site,Boleto
+2383,241,2025-05-02,Concluído,App,Boleto
+2384,277,2025-11-03,Concluído,Site,Cartão de débito
+2385,384,2025-05-19,Concluído,App,Pix
+2386,264,2024-08-12,Concluído,App,Pix
+2387,43,2025-11-06,Em andamento,Site,Cartão de débito
+2388,455,2024-10-16,Concluído,Site,Pix
+2389,129,2024-08-19,Concluído,Marketplace,Boleto
+2390,499,2025-12-28,Concluído,Marketplace,Pix
+2391,217,2024-12-01,Concluído,App,Cartão de crédito
+2392,324,2025-01-29,Concluído,App,Pix
+2393,74,2024-01-15,Concluído,Site,Pix
+2394,204,2024-06-14,Concluído,Site,Cartão de débito
+2395,440,2025-05-10,Concluído,App,Cartão de débito
+2396,110,2025-04-07,Concluído,Marketplace,Cartão de débito
+2397,382,2024-04-30,Concluído,Marketplace,Boleto
+2398,131,2024-07-09,Concluído,Loja física,Cartão de débito
+2399,50,2025-11-10,Cancelado,Marketplace,Boleto
+2400,401,2024-03-05,Concluído,Loja física,Cartão de crédito
+2401,65,2025-07-10,Concluído,App,Cartão de débito
+2402,62,2024-04-23,Concluído,Marketplace,Pix
+2403,158,2024-12-21,Concluído,Loja física,Cartão de crédito
+2404,94,2025-05-31,Concluído,App,Pix
+2405,114,2025-11-27,Em andamento,Site,Pix
+2406,270,2024-12-28,Concluído,App,Cartão de crédito
+2407,186,2025-06-29,Concluído,App,Pix
+2408,82,2025-01-18,Concluído,App,Pix
+2409,277,2024-06-04,Concluído,Loja física,Pix
+2410,26,2024-10-12,Concluído,Marketplace,Cartão de débito
+2411,498,2025-06-18,Concluído,Loja física,Cartão de débito
+2412,70,2024-11-25,Em andamento,Marketplace,Cartão de crédito
+2413,129,2024-03-17,Cancelado,Marketplace,Pix
+2414,305,2025-09-19,Concluído,Site,Cartão de débito
+2415,74,2024-05-23,Concluído,App,Pix
+2416,403,2025-02-04,Concluído,Loja física,Cartão de débito
+2417,100,2025-08-28,Concluído,Marketplace,Cartão de crédito
+2418,494,2024-08-19,Concluído,App,Cartão de débito
+2419,372,2024-05-06,Em andamento,App,Pix
+2420,73,2025-03-30,Cancelado,Marketplace,Boleto
+2421,327,2024-01-12,Concluído,Marketplace,Cartão de crédito
+2422,307,2025-10-05,Concluído,App,Cartão de débito
+2423,421,2024-11-01,Concluído,Loja física,Pix
+2424,451,2024-03-13,Em andamento,Marketplace,Boleto
+2425,196,2024-02-11,Concluído,Site,Cartão de débito
+2426,300,2025-03-12,Concluído,Loja física,Boleto
+2427,268,2024-08-18,Concluído,Site,Boleto
+2428,446,2024-09-04,Cancelado,Loja física,Cartão de débito
+2429,30,2025-03-07,Concluído,Site,Boleto
+2430,464,2024-10-09,Concluído,Marketplace,Cartão de débito
+2431,429,2025-11-13,Concluído,Marketplace,Cartão de crédito
+2432,52,2024-01-14,Cancelado,Loja física,Pix
+2433,254,2025-08-22,Concluído,Loja física,Boleto
+2434,400,2024-04-16,Cancelado,Loja física,Cartão de débito
+2435,266,2025-09-13,Cancelado,Loja física,Cartão de crédito
+2436,56,2025-09-08,Concluído,Site,Cartão de crédito
+2437,495,2024-04-30,Em andamento,App,Boleto
+2438,345,2025-08-17,Cancelado,Loja física,Cartão de débito
+2439,178,2024-02-10,Cancelado,Loja física,Cartão de débito
+2440,443,2025-08-10,Concluído,Site,Cartão de débito
+2441,382,2025-10-05,Em andamento,Loja física,Cartão de crédito
+2442,291,2024-08-09,Concluído,Site,Boleto
+2443,150,2024-04-11,Concluído,Site,Cartão de débito
+2444,184,2024-09-16,Cancelado,Marketplace,Boleto
+2445,142,2024-09-11,Concluído,Site,Boleto
+2446,358,2025-04-14,Concluído,Marketplace,Pix
+2447,286,2024-08-02,Em andamento,Marketplace,Cartão de débito
+2448,400,2024-12-22,Concluído,Loja física,Cartão de crédito
+2449,181,2024-12-07,Concluído,App,Boleto
+2450,52,2024-11-09,Em andamento,Site,Cartão de débito
+2451,319,2024-11-16,Concluído,App,Cartão de débito
+2452,136,2024-07-26,Cancelado,Loja física,Boleto
+2453,413,2024-12-11,Concluído,Marketplace,Pix
+2454,166,2024-06-21,Concluído,Site,Pix
+2455,159,2025-08-18,Concluído,Marketplace,Pix
+2456,317,2025-02-11,Cancelado,Site,Pix
+2457,47,2024-04-05,Cancelado,Loja física,Boleto
+2458,367,2024-05-29,Concluído,Marketplace,Cartão de débito
+2459,472,2024-05-16,Concluído,Site,Boleto
+2460,292,2025-09-20,Concluído,Marketplace,Pix
+2461,423,2025-03-29,Concluído,App,Pix
+2462,141,2025-11-14,Concluído,Loja física,Pix
+2463,113,2025-12-12,Concluído,App,Cartão de débito
+2464,416,2025-10-25,Concluído,App,Cartão de crédito
+2465,125,2024-10-30,Concluído,Loja física,Cartão de débito
+2466,285,2025-02-28,Concluído,App,Cartão de débito
+2467,435,2024-07-09,Concluído,Loja física,Cartão de débito
+2468,362,2024-09-24,Concluído,Marketplace,Cartão de débito
+2469,187,2025-01-14,Concluído,Marketplace,Boleto
+2470,491,2024-03-19,Cancelado,App,Boleto
+2471,127,2025-12-20,Concluído,App,Cartão de crédito
+2472,363,2025-06-03,Concluído,Marketplace,Cartão de crédito
+2473,117,2025-09-10,Em andamento,Marketplace,Pix
+2474,138,2025-04-21,Concluído,Site,Cartão de débito
+2475,225,2025-09-25,Concluído,Loja física,Cartão de crédito
+2476,12,2024-06-24,Concluído,Loja física,Cartão de crédito
+2477,245,2024-12-21,Cancelado,App,Cartão de crédito
+2478,182,2025-11-29,Concluído,Marketplace,Boleto
+2479,366,2024-01-29,Concluído,Loja física,Cartão de débito
+2480,392,2025-12-22,Concluído,Loja física,Pix
+2481,232,2025-11-08,Concluído,Marketplace,Boleto
+2482,292,2024-08-26,Concluído,Loja física,Pix
+2483,349,2025-07-06,Concluído,Marketplace,Cartão de crédito
+2484,28,2025-09-16,Cancelado,Marketplace,Cartão de crédito
+2485,315,2024-03-13,Concluído,Loja física,Pix
+2486,128,2024-07-18,Concluído,App,Pix
+2487,333,2024-01-31,Concluído,Site,Boleto
+2488,49,2024-04-01,Concluído,Loja física,Cartão de débito
+2489,357,2025-01-25,Concluído,App,Boleto
+2490,50,2024-07-06,Concluído,Marketplace,Pix
+2491,221,2025-12-25,Concluído,Loja física,Cartão de crédito
+2492,134,2024-07-07,Concluído,App,Pix
+2493,332,2024-12-25,Concluído,Site,Boleto
+2494,385,2025-04-07,Concluído,Marketplace,Cartão de crédito
+2495,32,2025-09-12,Concluído,Site,Boleto
+2496,87,2024-04-07,Concluído,Site,Cartão de crédito
+2497,197,2024-11-30,Concluído,Site,Boleto
+2498,490,2024-03-12,Concluído,App,Cartão de débito
+2499,275,2024-07-05,Concluído,Marketplace,Cartão de crédito
+2500,468,2025-11-30,Concluído,Marketplace,Pix

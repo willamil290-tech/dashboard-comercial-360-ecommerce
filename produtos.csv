@@ -1,0 +1,81 @@
+﻿id_produto,nome_produto,categoria,subcategoria,marca,preco_unitario,custo_unitario
+1,Iluminação Lume 001,Casa e Decoração,Iluminação,Lume,184.54,123.71
+2,Bolsas Pulse 002,Moda,Bolsas,Pulse,581.95,293.6
+3,Acessórios Max 003,Moda,Acessórios,Max,497.24,299.22
+4,Acessórios Bella 004,Eletrônicos,Acessórios,Bella,3490.76,2971.37
+5,Cuidados pessoais Pulse 005,Beleza,Cuidados pessoais,Pulse,425.48,254.26
+6,Roupas Vitta 006,Moda,Roupas,Vitta,416.87,277.3
+7,Calçados Max 007,Moda,Calçados,Max,408.85,213.09
+8,Fitness Pulse 008,Esporte,Fitness,Pulse,1189.17,837.36
+9,Suplementos Nexo 009,Esporte,Suplementos,Nexo,77.83,47.19
+10,Cuidados pessoais Nova 010,Beleza,Cuidados pessoais,Nova,350.65,170.28
+11,Calçados Bella 011,Moda,Calçados,Bella,64.81,29.43
+12,Outdoor Vitta 012,Esporte,Outdoor,Vitta,158.43,123.62
+13,Decoração Pulse 013,Casa e Decoração,Decoração,Pulse,355.48,233.69
+14,Maquiagem Lume 014,Beleza,Maquiagem,Lume,449.01,237.67
+15,Acessórios Nova 015,Moda,Acessórios,Nova,105.0,48.81
+16,Organização Max 016,Casa e Decoração,Organização,Max,328.47,194.83
+17,Cabelos Lume 017,Beleza,Cabelos,Lume,224.75,121.47
+18,Outdoor Nova 018,Esporte,Outdoor,Nova,384.81,245.49
+19,Smartphones Lume 019,Eletrônicos,Smartphones,Lume,2310.14,1782.64
+20,Decoração Nexo 020,Casa e Decoração,Decoração,Nexo,181.77,130.51
+21,Cabelos Pulse 021,Beleza,Cabelos,Pulse,119.7,65.68
+22,Decoração Vitta 022,Casa e Decoração,Decoração,Vitta,374.16,225.44
+23,Iluminação Bella 023,Casa e Decoração,Iluminação,Bella,403.71,302.42
+24,Decoração Max 024,Casa e Decoração,Decoração,Max,684.52,402.67
+25,Smartphones Nexo 025,Eletrônicos,Smartphones,Nexo,751.92,622.47
+26,Fitness Max 026,Esporte,Fitness,Max,816.37,573.17
+27,Acessórios Bella 027,Moda,Acessórios,Bella,259.82,174.46
+28,Acessórios Bella 028,Moda,Acessórios,Bella,136.62,72.63
+29,Roupas Prime 029,Moda,Roupas,Prime,215.38,137.92
+30,Acessórios Lume 030,Eletrônicos,Acessórios,Lume,2463.82,1966.79
+31,Bicicleta Bella 031,Esporte,Bicicleta,Bella,482.02,367.71
+32,Maquiagem Nexo 032,Beleza,Maquiagem,Nexo,91.75,53.01
+33,Organização Pulse 033,Casa e Decoração,Organização,Pulse,568.89,328.19
+34,Informática Prime 034,Eletrônicos,Informática,Prime,779.53,638.1
+35,Cabelos Vitta 035,Beleza,Cabelos,Vitta,314.42,171.7
+36,Suplementos Prime 036,Esporte,Suplementos,Prime,131.31,104.24
+37,Organização Aster 037,Casa e Decoração,Organização,Aster,269.12,172.91
+38,Iluminação Bella 038,Casa e Decoração,Iluminação,Bella,675.99,403.44
+39,Cuidados pessoais Bella 039,Beleza,Cuidados pessoais,Bella,69.11,31.53
+40,Roupas Pulse 040,Moda,Roupas,Pulse,345.96,156.57
+41,Acessórios Max 041,Eletrônicos,Acessórios,Max,3076.86,2691.77
+42,Bolsas Nova 042,Moda,Bolsas,Nova,285.88,129.08
+43,Decoração Bella 043,Casa e Decoração,Decoração,Bella,629.55,363.75
+44,Cabelos Prime 044,Beleza,Cabelos,Prime,284.95,129.3
+45,Cozinha Bella 045,Casa e Decoração,Cozinha,Bella,335.21,232.56
+46,Maquiagem Lume 046,Beleza,Maquiagem,Lume,440.97,254.37
+47,Perfumes Nexo 047,Beleza,Perfumes,Nexo,443.76,213.08
+48,Acessórios Vitta 048,Eletrônicos,Acessórios,Vitta,3225.44,2326.19
+49,Decoração Urban 049,Casa e Decoração,Decoração,Urban,157.23,107.8
+50,Iluminação Pulse 050,Casa e Decoração,Iluminação,Pulse,153.69,95.83
+51,Suplementos Pulse 051,Esporte,Suplementos,Pulse,122.98,78.84
+52,Informática Nexo 052,Eletrônicos,Informática,Nexo,2654.33,2040.78
+53,Acessórios Pulse 053,Moda,Acessórios,Pulse,223.28,156.16
+54,Informática Lume 054,Eletrônicos,Informática,Lume,2993.36,2253.08
+55,Bicicleta Vitta 055,Esporte,Bicicleta,Vitta,995.95,698.22
+56,Bolsas Lume 056,Moda,Bolsas,Lume,346.49,231.23
+57,Outdoor Aster 057,Esporte,Outdoor,Aster,88.52,59.73
+58,Fitness Nova 058,Esporte,Fitness,Nova,1117.79,858.91
+59,Fitness Vitta 059,Esporte,Fitness,Vitta,270.7,179.28
+60,Organização Prime 060,Casa e Decoração,Organização,Prime,790.75,454.43
+61,Áudio Max 061,Eletrônicos,Áudio,Max,398.58,308.37
+62,Cozinha Vitta 062,Casa e Decoração,Cozinha,Vitta,574.28,347.32
+63,Iluminação Nova 063,Casa e Decoração,Iluminação,Nova,642.22,481.52
+64,Fitness Prime 064,Esporte,Fitness,Prime,726.64,505.82
+65,Fitness Aster 065,Esporte,Fitness,Aster,845.37,538.14
+66,Bicicleta Pulse 066,Esporte,Bicicleta,Pulse,117.51,85.01
+67,Smartphones Lume 067,Eletrônicos,Smartphones,Lume,1362.36,1133.64
+68,Bicicleta Prime 068,Esporte,Bicicleta,Prime,114.7,78.84
+69,Maquiagem Pulse 069,Beleza,Maquiagem,Pulse,171.01,102.05
+70,Iluminação Bella 070,Casa e Decoração,Iluminação,Bella,627.31,362.59
+71,Smartphones Prime 071,Eletrônicos,Smartphones,Prime,2663.27,2092.44
+72,Outdoor Vitta 072,Esporte,Outdoor,Vitta,401.4,309.89
+73,Roupas Urban 073,Moda,Roupas,Urban,349.9,192.45
+74,Perfumes Aster 074,Beleza,Perfumes,Aster,384.59,186.68
+75,Calçados Nexo 075,Moda,Calçados,Nexo,379.88,248.0
+76,Outdoor Aster 076,Esporte,Outdoor,Aster,948.13,607.98
+77,Iluminação Vitta 077,Casa e Decoração,Iluminação,Vitta,128.09,83.27
+78,Cuidados pessoais Nexo 078,Beleza,Cuidados pessoais,Nexo,402.15,260.19
+79,Bolsas Prime 079,Moda,Bolsas,Prime,256.63,125.81
+80,Outdoor Nexo 080,Esporte,Outdoor,Nexo,830.63,537.79

@@ -1,0 +1,501 @@
+﻿id_cliente,nome_cliente,genero,data_nascimento,cidade,estado,regiao,data_cadastro
+1,Diego Silva,Feminino,1984-09-03,Goiânia,GO,Centro-Oeste,2023-05-17
+2,Diego Dias,Masculino,1967-10-19,Belo Horizonte,MG,Sudeste,2025-04-24
+3,Ana Oliveira,Não informado,1979-08-13,São Paulo,SP,Sudeste,2023-04-22
+4,Ana Dias,Não informado,1977-11-02,Fortaleza,CE,Nordeste,2025-08-23
+5,Otávio Almeida,Masculino,2000-04-19,Recife,PE,Nordeste,2025-04-21
+6,Ana Pereira,Masculino,1997-11-30,Cuiabá,MT,Centro-Oeste,2023-11-28
+7,Gabriela Araújo,Masculino,1969-03-03,Belo Horizonte,MG,Sudeste,2022-07-09
+8,Mateus Fernandes,Não informado,1983-09-24,Rio de Janeiro,RJ,Sudeste,2022-03-30
+9,Thiago Souza,Não informado,1993-12-16,Salvador,BA,Nordeste,2022-06-11
+10,Yuri Fernandes,Feminino,1977-04-01,Curitiba,PR,Sul,2025-12-13
+11,Henrique Lima,Feminino,1967-02-27,São Paulo,SP,Sudeste,2023-04-22
+12,Isabela Rocha,Masculino,1992-09-23,Porto Alegre,RS,Sul,2022-11-30
+13,Gabriela Nascimento,Não informado,1966-05-28,Florianópolis,SC,Sul,2025-06-01
+14,Thiago Almeida,Masculino,1974-08-29,Belo Horizonte,MG,Sudeste,2024-08-04
+15,Thiago Almeida,Feminino,1989-02-03,Curitiba,PR,Sul,2022-04-25
+16,Bruno Araújo,Feminino,1995-12-28,Manaus,AM,Norte,2023-07-03
+17,Vanessa Araújo,Masculino,1979-01-28,Vitória,ES,Sudeste,2025-09-04
+18,Patrícia Costa,Feminino,1983-10-06,Porto Alegre,RS,Sul,2022-10-13
+19,Thiago Dias,Masculino,1983-07-28,Brasília,DF,Centro-Oeste,2025-04-12
+20,Vanessa Gomes,Feminino,1992-06-22,Belém,PA,Norte,2023-03-26
+21,Rafael Oliveira,Feminino,1964-03-23,Recife,PE,Nordeste,2022-08-13
+22,Felipe Martins,Masculino,1965-09-12,Goiânia,GO,Centro-Oeste,2024-02-28
+23,Patrícia Carvalho,Feminino,1982-07-22,Fortaleza,CE,Nordeste,2025-02-07
+24,Diego Dias,Masculino,1983-12-09,Goiânia,GO,Centro-Oeste,2025-08-05
+25,João Martins,Feminino,1974-03-10,Rio de Janeiro,RJ,Sudeste,2024-07-18
+26,Isabela Carvalho,Feminino,1976-01-11,Brasília,DF,Centro-Oeste,2024-11-05
+27,João Carvalho,Masculino,1977-11-04,Manaus,AM,Norte,2022-11-10
+28,Felipe Dias,Masculino,1960-01-19,Cuiabá,MT,Centro-Oeste,2025-05-11
+29,Ana Souza,Feminino,1992-07-25,Salvador,BA,Nordeste,2023-09-22
+30,Henrique Oliveira,Feminino,1967-09-07,São Paulo,SP,Sudeste,2024-09-22
+31,Thiago Costa,Masculino,1971-07-09,Cuiabá,MT,Centro-Oeste,2025-09-13
+32,Felipe Nascimento,Não informado,1997-12-17,Recife,PE,Nordeste,2023-03-10
+33,Gabriela Lima,Não informado,1995-10-18,Cuiabá,MT,Centro-Oeste,2025-10-07
+34,Patrícia Carvalho,Feminino,2000-07-03,Florianópolis,SC,Sul,2022-09-05
+35,Carla Araújo,Não informado,1961-11-20,Vitória,ES,Sudeste,2025-04-19
+36,Vanessa Almeida,Não informado,1960-08-23,Vitória,ES,Sudeste,2022-05-26
+37,Bruno Almeida,Masculino,1966-01-17,Goiânia,GO,Centro-Oeste,2022-03-06
+38,Sofia Almeida,Masculino,1984-12-25,Rio de Janeiro,RJ,Sudeste,2025-10-02
+39,Thiago Costa,Masculino,2002-05-28,Vitória,ES,Sudeste,2023-05-13
+40,Otávio Rodrigues,Não informado,1968-06-17,Cuiabá,MT,Centro-Oeste,2022-07-18
+41,Mateus Martins,Não informado,1996-11-17,Porto Alegre,RS,Sul,2024-08-14
+42,Diego Santos,Feminino,1996-02-14,São Paulo,SP,Sudeste,2023-11-26
+43,Gabriela Rodrigues,Masculino,2000-03-31,Vitória,ES,Sudeste,2022-10-15
+44,Isabela Rocha,Masculino,1982-05-30,Belo Horizonte,MG,Sudeste,2022-06-04
+45,Thiago Souza,Não informado,1964-07-15,Cuiabá,MT,Centro-Oeste,2025-08-28
+46,Ana Oliveira,Masculino,1981-03-16,Manaus,AM,Norte,2022-12-07
+47,Rafael Rodrigues,Feminino,1995-12-24,Salvador,BA,Nordeste,2022-05-01
+48,Ana Gomes,Masculino,1983-10-17,Porto Alegre,RS,Sul,2024-07-20
+49,Thiago Ribeiro,Masculino,1973-11-20,Porto Alegre,RS,Sul,2023-01-24
+50,Bruno Dias,Feminino,1965-06-20,Vitória,ES,Sudeste,2023-10-05
+51,Vanessa Ribeiro,Feminino,2005-02-10,São Paulo,SP,Sudeste,2024-12-23
+52,Sofia Oliveira,Não informado,1976-09-02,São Paulo,SP,Sudeste,2022-05-21
+53,Henrique Gomes,Feminino,1970-10-03,Rio de Janeiro,RJ,Sudeste,2025-03-12
+54,Yuri Santos,Não informado,1967-05-10,Fortaleza,CE,Nordeste,2024-05-08
+55,Vanessa Carvalho,Feminino,1988-05-19,Fortaleza,CE,Nordeste,2023-06-19
+56,Larissa Almeida,Feminino,1983-10-30,Goiânia,GO,Centro-Oeste,2024-03-21
+57,João Rocha,Feminino,1988-05-13,Goiânia,GO,Centro-Oeste,2022-05-29
+58,Yuri Souza,Feminino,1966-07-28,Salvador,BA,Nordeste,2025-01-06
+59,Isabela Costa,Feminino,1991-04-24,Recife,PE,Nordeste,2022-05-21
+60,João Pereira,Não informado,1999-04-24,Florianópolis,SC,Sul,2025-01-17
+61,Yuri Carvalho,Não informado,1960-09-13,Curitiba,PR,Sul,2025-09-29
+62,Diego Costa,Feminino,1983-09-23,Curitiba,PR,Sul,2022-08-25
+63,Thiago Costa,Não informado,1984-06-07,Brasília,DF,Centro-Oeste,2023-08-01
+64,Larissa Rodrigues,Masculino,1983-09-07,Vitória,ES,Sudeste,2024-11-01
+65,Bruno Oliveira,Feminino,1997-12-31,Curitiba,PR,Sul,2023-07-21
+66,Larissa Costa,Não informado,1983-07-02,São Paulo,SP,Sudeste,2022-11-27
+67,Thiago Martins,Feminino,1960-11-12,Salvador,BA,Nordeste,2022-08-18
+68,Eduarda Dias,Não informado,1963-03-26,Belém,PA,Norte,2024-01-27
+69,Eduarda Martins,Masculino,1971-06-08,Recife,PE,Nordeste,2022-03-27
+70,Bruno Fernandes,Feminino,1978-11-05,Florianópolis,SC,Sul,2025-10-28
+71,Diego Fernandes,Não informado,1996-06-16,Goiânia,GO,Centro-Oeste,2025-06-25
+72,Henrique Pereira,Feminino,1975-11-19,Belo Horizonte,MG,Sudeste,2024-04-24
+73,Larissa Martins,Feminino,1982-04-06,Belo Horizonte,MG,Sudeste,2023-07-01
+74,Diego Gomes,Feminino,1963-06-22,Cuiabá,MT,Centro-Oeste,2024-08-21
+75,Patrícia Fernandes,Feminino,1987-05-19,Vitória,ES,Sudeste,2023-04-12
+76,Gabriela Gomes,Feminino,1989-06-13,São Paulo,SP,Sudeste,2023-07-25
+77,Isabela Fernandes,Não informado,2005-09-13,Cuiabá,MT,Centro-Oeste,2024-03-29
+78,Thiago Araújo,Masculino,1962-06-23,Manaus,AM,Norte,2022-08-25
+79,Vanessa Nascimento,Não informado,1963-06-07,Belo Horizonte,MG,Sudeste,2022-08-11
+80,Mateus Araújo,Não informado,1999-02-24,Porto Alegre,RS,Sul,2025-05-26
+81,Natália Rodrigues,Não informado,1982-11-07,Rio de Janeiro,RJ,Sudeste,2022-04-01
+82,Ana Carvalho,Masculino,1977-09-04,Porto Alegre,RS,Sul,2024-01-16
+83,Larissa Araújo,Não informado,1971-03-07,Rio de Janeiro,RJ,Sudeste,2023-09-08
+84,Otávio Araújo,Masculino,1996-02-06,Curitiba,PR,Sul,2025-11-28
+85,Eduarda Rodrigues,Masculino,1997-09-20,Recife,PE,Nordeste,2025-09-23
+86,Felipe Lima,Feminino,1996-06-06,Goiânia,GO,Centro-Oeste,2025-01-27
+87,João Rodrigues,Não informado,1998-07-26,Curitiba,PR,Sul,2025-04-02
+88,Larissa Rocha,Não informado,1999-08-20,Goiânia,GO,Centro-Oeste,2024-06-24
+89,Sofia Ribeiro,Feminino,1975-03-23,Vitória,ES,Sudeste,2025-09-11
+90,Sofia Araújo,Não informado,1968-05-18,Curitiba,PR,Sul,2023-04-27
+91,Henrique Rodrigues,Feminino,1973-03-21,Curitiba,PR,Sul,2022-02-20
+92,Rafael Oliveira,Não informado,2000-11-09,Vitória,ES,Sudeste,2024-04-28
+93,Gabriela Gomes,Feminino,2004-05-08,Fortaleza,CE,Nordeste,2024-03-29
+94,Ana Souza,Feminino,1998-02-21,Belo Horizonte,MG,Sudeste,2023-03-25
+95,Sofia Rocha,Feminino,1964-07-03,Cuiabá,MT,Centro-Oeste,2025-02-15
+96,Diego Rocha,Não informado,1971-12-18,Belém,PA,Norte,2024-08-09
+97,Thiago Araújo,Não informado,1999-09-15,Recife,PE,Nordeste,2025-06-08
+98,Sofia Martins,Não informado,2000-01-02,Belém,PA,Norte,2022-11-22
+99,Rafael Rocha,Não informado,1983-04-03,Manaus,AM,Norte,2023-05-22
+100,Sofia Ribeiro,Masculino,1981-06-18,Curitiba,PR,Sul,2023-07-17
+101,João Almeida,Masculino,1984-05-17,Rio de Janeiro,RJ,Sudeste,2023-11-19
+102,Thiago Oliveira,Feminino,1972-05-31,Belém,PA,Norte,2022-11-05
+103,Eduarda Rodrigues,Masculino,1965-10-05,Porto Alegre,RS,Sul,2024-04-29
+104,Thiago Rocha,Feminino,1997-04-20,Florianópolis,SC,Sul,2022-05-08
+105,Otávio Gomes,Masculino,1961-10-02,Manaus,AM,Norte,2025-03-25
+106,Ana Fernandes,Masculino,1986-10-15,Salvador,BA,Nordeste,2024-03-09
+107,Thiago Almeida,Masculino,2003-10-20,Recife,PE,Nordeste,2023-03-26
+108,Rafael Silva,Não informado,1994-11-20,Porto Alegre,RS,Sul,2023-11-20
+109,Natália Pereira,Não informado,2001-12-06,Goiânia,GO,Centro-Oeste,2022-09-19
+110,Ana Gomes,Não informado,1962-06-07,Recife,PE,Nordeste,2022-06-21
+111,Eduarda Rocha,Masculino,1976-04-20,Porto Alegre,RS,Sul,2022-04-13
+112,Larissa Rodrigues,Masculino,2000-10-16,Porto Alegre,RS,Sul,2023-11-01
+113,Natália Nascimento,Feminino,1997-10-26,Cuiabá,MT,Centro-Oeste,2023-06-01
+114,Ana Dias,Feminino,1964-09-02,Salvador,BA,Nordeste,2023-12-18
+115,Carla Santos,Feminino,1962-10-13,Goiânia,GO,Centro-Oeste,2023-05-22
+116,Ana Costa,Masculino,1981-05-26,Manaus,AM,Norte,2022-09-16
+117,Diego Rodrigues,Masculino,2001-09-20,Goiânia,GO,Centro-Oeste,2025-12-03
+118,Mateus Pereira,Masculino,1970-04-11,Cuiabá,MT,Centro-Oeste,2022-12-02
+119,Vanessa Silva,Não informado,1987-12-27,Rio de Janeiro,RJ,Sudeste,2025-03-25
+120,Natália Gomes,Não informado,1977-10-16,Belém,PA,Norte,2022-06-05
+121,Henrique Souza,Não informado,1987-01-21,Brasília,DF,Centro-Oeste,2025-11-02
+122,Diego Santos,Masculino,1991-02-24,Cuiabá,MT,Centro-Oeste,2024-12-27
+123,Mateus Oliveira,Masculino,2005-05-23,Goiânia,GO,Centro-Oeste,2025-08-19
+124,Otávio Ribeiro,Masculino,1969-06-20,São Paulo,SP,Sudeste,2024-06-06
+125,Patrícia Costa,Não informado,1999-01-26,Goiânia,GO,Centro-Oeste,2022-12-27
+126,Isabela Dias,Masculino,2003-05-18,Recife,PE,Nordeste,2024-08-10
+127,Vanessa Nascimento,Feminino,1988-11-30,Manaus,AM,Norte,2023-05-18
+128,Patrícia Almeida,Não informado,2001-09-09,Curitiba,PR,Sul,2025-03-13
+129,Natália Araújo,Masculino,1962-07-29,Goiânia,GO,Centro-Oeste,2024-10-09
+130,Rafael Rodrigues,Masculino,1991-10-31,Belo Horizonte,MG,Sudeste,2023-06-14
+131,Yuri Nascimento,Feminino,1960-11-28,Curitiba,PR,Sul,2024-11-24
+132,Henrique Martins,Feminino,2003-10-31,Rio de Janeiro,RJ,Sudeste,2025-02-11
+133,Rafael Ribeiro,Feminino,2000-03-16,Brasília,DF,Centro-Oeste,2022-02-05
+134,Henrique Gomes,Não informado,1981-10-29,Curitiba,PR,Sul,2023-09-20
+135,Mateus Ribeiro,Não informado,1990-11-03,Fortaleza,CE,Nordeste,2024-05-21
+136,Larissa Fernandes,Masculino,2000-09-15,Recife,PE,Nordeste,2023-07-09
+137,Henrique Souza,Feminino,1977-04-11,Curitiba,PR,Sul,2023-10-09
+138,Thiago Pereira,Não informado,1977-03-08,Brasília,DF,Centro-Oeste,2023-03-20
+139,Isabela Carvalho,Feminino,1985-05-22,Salvador,BA,Nordeste,2022-07-25
+140,Henrique Fernandes,Feminino,1976-02-05,Curitiba,PR,Sul,2023-09-12
+141,Thiago Costa,Feminino,1984-08-10,Brasília,DF,Centro-Oeste,2022-04-04
+142,João Costa,Feminino,2004-01-15,Recife,PE,Nordeste,2022-07-30
+143,João Ribeiro,Masculino,2002-12-12,Fortaleza,CE,Nordeste,2024-06-21
+144,Bruno Nascimento,Feminino,2002-11-10,Belo Horizonte,MG,Sudeste,2022-08-22
+145,Rafael Oliveira,Feminino,1964-10-22,Porto Alegre,RS,Sul,2022-11-07
+146,Vanessa Lima,Feminino,1967-08-23,Cuiabá,MT,Centro-Oeste,2023-05-24
+147,Otávio Almeida,Masculino,2006-11-18,Recife,PE,Nordeste,2024-02-19
+148,Patrícia Lima,Não informado,1998-06-21,Belém,PA,Norte,2023-09-18
+149,Bruno Souza,Feminino,1978-08-22,Fortaleza,CE,Nordeste,2025-07-05
+150,Carla Pereira,Não informado,1981-07-08,Curitiba,PR,Sul,2022-12-22
+151,Felipe Silva,Não informado,1996-08-25,Rio de Janeiro,RJ,Sudeste,2024-07-11
+152,Rafael Lima,Masculino,1962-12-05,Fortaleza,CE,Nordeste,2023-04-20
+153,João Rocha,Feminino,1966-05-21,Brasília,DF,Centro-Oeste,2025-11-08
+154,Isabela Rodrigues,Não informado,1998-02-20,Belém,PA,Norte,2022-08-24
+155,Eduarda Nascimento,Feminino,1972-10-04,Vitória,ES,Sudeste,2022-05-27
+156,João Lima,Masculino,1999-05-26,Belo Horizonte,MG,Sudeste,2022-09-12
+157,João Gomes,Não informado,1984-06-03,Brasília,DF,Centro-Oeste,2024-10-21
+158,Patrícia Oliveira,Não informado,1963-07-30,Salvador,BA,Nordeste,2024-06-03
+159,Yuri Nascimento,Feminino,1962-04-27,Florianópolis,SC,Sul,2022-07-07
+160,Vanessa Silva,Feminino,1984-03-06,Goiânia,GO,Centro-Oeste,2025-03-26
+161,Felipe Ribeiro,Masculino,2006-07-23,Cuiabá,MT,Centro-Oeste,2025-08-27
+162,Isabela Pereira,Masculino,1999-02-08,Belém,PA,Norte,2025-07-24
+163,Rafael Fernandes,Masculino,1996-08-19,Rio de Janeiro,RJ,Sudeste,2023-11-14
+164,Diego Pereira,Não informado,1989-08-03,Goiânia,GO,Centro-Oeste,2024-04-23
+165,João Gomes,Feminino,1963-04-17,Salvador,BA,Nordeste,2024-07-20
+166,Isabela Araújo,Não informado,1970-05-26,Florianópolis,SC,Sul,2024-04-07
+167,Ana Dias,Feminino,2001-06-12,Manaus,AM,Norte,2024-04-26
+168,Sofia Fernandes,Masculino,2004-09-20,Vitória,ES,Sudeste,2025-07-04
+169,Bruno Rodrigues,Feminino,1983-12-16,Cuiabá,MT,Centro-Oeste,2025-01-29
+170,João Rocha,Feminino,2003-06-27,Belém,PA,Norte,2022-09-06
+171,Yuri Almeida,Não informado,1974-03-17,Goiânia,GO,Centro-Oeste,2023-09-29
+172,Thiago Martins,Feminino,1968-05-12,São Paulo,SP,Sudeste,2023-04-06
+173,Diego Costa,Não informado,2004-09-16,Salvador,BA,Nordeste,2023-08-21
+174,Isabela Martins,Feminino,2003-04-15,Brasília,DF,Centro-Oeste,2024-08-25
+175,Thiago Costa,Não informado,1994-05-31,Salvador,BA,Nordeste,2023-01-26
+176,Eduarda Oliveira,Masculino,1984-10-13,Recife,PE,Nordeste,2024-04-29
+177,Sofia Nascimento,Não informado,1960-03-25,Belém,PA,Norte,2023-08-03
+178,Vanessa Ribeiro,Não informado,1973-05-01,Curitiba,PR,Sul,2024-07-03
+179,Mateus Araújo,Masculino,1993-11-03,Salvador,BA,Nordeste,2024-07-21
+180,Gabriela Almeida,Masculino,1994-05-11,Manaus,AM,Norte,2023-04-24
+181,Larissa Ribeiro,Não informado,1994-03-15,São Paulo,SP,Sudeste,2024-03-01
+182,Eduarda Ribeiro,Não informado,1963-04-28,Cuiabá,MT,Centro-Oeste,2022-09-16
+183,Larissa Souza,Não informado,1999-07-02,Fortaleza,CE,Nordeste,2022-07-24
+184,Patrícia Silva,Não informado,1972-12-06,Belém,PA,Norte,2024-04-19
+185,Carla Ribeiro,Não informado,1983-10-11,Belo Horizonte,MG,Sudeste,2023-11-25
+186,Natália Oliveira,Não informado,1989-06-23,Brasília,DF,Centro-Oeste,2025-10-13
+187,Larissa Ribeiro,Feminino,1963-03-22,Porto Alegre,RS,Sul,2025-06-18
+188,João Almeida,Feminino,1968-02-09,Vitória,ES,Sudeste,2024-06-07
+189,Diego Rocha,Masculino,1974-12-04,Cuiabá,MT,Centro-Oeste,2025-11-22
+190,Ana Santos,Masculino,1989-02-06,Belém,PA,Norte,2022-04-25
+191,Mateus Martins,Não informado,1973-01-22,Florianópolis,SC,Sul,2023-05-16
+192,Vanessa Pereira,Feminino,1975-04-02,Porto Alegre,RS,Sul,2022-12-25
+193,Natália Almeida,Feminino,2004-08-24,Fortaleza,CE,Nordeste,2025-04-09
+194,Patrícia Nascimento,Não informado,2001-03-25,Vitória,ES,Sudeste,2023-06-07
+195,Patrícia Lima,Masculino,1974-03-04,São Paulo,SP,Sudeste,2022-06-01
+196,Vanessa Lima,Masculino,1998-01-24,Florianópolis,SC,Sul,2025-11-14
+197,João Rodrigues,Feminino,1994-07-06,Salvador,BA,Nordeste,2024-09-16
+198,Natália Fernandes,Masculino,1986-07-18,Vitória,ES,Sudeste,2025-12-03
+199,Natália Nascimento,Não informado,1960-09-22,São Paulo,SP,Sudeste,2025-03-05
+200,Bruno Ribeiro,Não informado,1985-09-04,Cuiabá,MT,Centro-Oeste,2023-04-17
+201,Mateus Almeida,Masculino,1977-01-21,Cuiabá,MT,Centro-Oeste,2025-06-25
+202,Eduarda Souza,Masculino,1963-07-15,Goiânia,GO,Centro-Oeste,2023-09-25
+203,Vanessa Fernandes,Masculino,1971-10-16,São Paulo,SP,Sudeste,2022-07-04
+204,Otávio Pereira,Não informado,1978-01-05,Florianópolis,SC,Sul,2022-09-28
+205,Mateus Carvalho,Feminino,2005-01-06,Belém,PA,Norte,2023-07-13
+206,Rafael Lima,Masculino,1990-05-22,Curitiba,PR,Sul,2022-08-24
+207,Eduarda Almeida,Masculino,1995-08-27,Rio de Janeiro,RJ,Sudeste,2025-02-15
+208,Natália Silva,Feminino,1983-09-22,Rio de Janeiro,RJ,Sudeste,2025-01-03
+209,Mateus Nascimento,Masculino,1994-03-08,Salvador,BA,Nordeste,2025-07-31
+210,Henrique Ribeiro,Não informado,1962-03-31,Rio de Janeiro,RJ,Sudeste,2025-06-22
+211,Yuri Almeida,Masculino,1965-09-02,Florianópolis,SC,Sul,2025-07-25
+212,João Martins,Feminino,1970-06-20,Belém,PA,Norte,2022-10-14
+213,João Ribeiro,Feminino,1970-06-02,São Paulo,SP,Sudeste,2022-07-19
+214,Thiago Costa,Masculino,1994-11-13,Belém,PA,Norte,2024-07-18
+215,Thiago Martins,Não informado,1973-11-11,Goiânia,GO,Centro-Oeste,2024-04-29
+216,Rafael Martins,Não informado,1985-02-04,Rio de Janeiro,RJ,Sudeste,2022-03-09
+217,Gabriela Rocha,Masculino,1999-11-23,Florianópolis,SC,Sul,2023-04-29
+218,Mateus Dias,Masculino,1992-03-06,Rio de Janeiro,RJ,Sudeste,2022-05-05
+219,Gabriela Souza,Não informado,2000-10-17,Curitiba,PR,Sul,2022-07-07
+220,Yuri Silva,Feminino,1964-07-15,Vitória,ES,Sudeste,2023-11-15
+221,Vanessa Rodrigues,Feminino,1966-02-26,Belo Horizonte,MG,Sudeste,2025-02-09
+222,Gabriela Almeida,Não informado,1989-06-23,Fortaleza,CE,Nordeste,2022-10-30
+223,Isabela Costa,Masculino,1971-08-30,São Paulo,SP,Sudeste,2025-01-11
+224,Felipe Souza,Feminino,1962-04-24,Cuiabá,MT,Centro-Oeste,2022-09-27
+225,Henrique Araújo,Masculino,1961-06-01,Florianópolis,SC,Sul,2022-12-23
+226,Eduarda Martins,Masculino,1970-03-13,São Paulo,SP,Sudeste,2022-05-11
+227,Mateus Carvalho,Não informado,1969-10-13,Salvador,BA,Nordeste,2024-07-14
+228,Yuri Santos,Masculino,2006-10-12,Vitória,ES,Sudeste,2023-09-10
+229,Ana Santos,Masculino,2002-12-21,Goiânia,GO,Centro-Oeste,2024-04-02
+230,Diego Ribeiro,Feminino,1999-10-17,Goiânia,GO,Centro-Oeste,2022-05-31
+231,Yuri Costa,Masculino,1965-11-22,Florianópolis,SC,Sul,2022-09-16
+232,Vanessa Dias,Não informado,1989-03-04,Fortaleza,CE,Nordeste,2024-02-20
+233,João Rocha,Masculino,2005-05-09,Recife,PE,Nordeste,2025-05-24
+234,Diego Dias,Masculino,1979-04-16,Rio de Janeiro,RJ,Sudeste,2024-05-30
+235,Henrique Martins,Masculino,1990-05-29,Belém,PA,Norte,2024-07-17
+236,Diego Araújo,Não informado,1998-04-15,Porto Alegre,RS,Sul,2023-10-03
+237,Mateus Costa,Feminino,2002-07-19,Curitiba,PR,Sul,2022-05-18
+238,Carla Oliveira,Não informado,1998-09-29,Manaus,AM,Norte,2022-07-17
+239,Mateus Costa,Não informado,1965-05-19,Brasília,DF,Centro-Oeste,2025-04-16
+240,Larissa Souza,Não informado,1996-11-08,Recife,PE,Nordeste,2023-12-26
+241,Otávio Santos,Masculino,1985-10-21,Cuiabá,MT,Centro-Oeste,2025-05-14
+242,Diego Carvalho,Não informado,1979-02-01,Florianópolis,SC,Sul,2022-11-13
+243,Henrique Souza,Masculino,1991-05-30,Salvador,BA,Nordeste,2025-02-13
+244,Isabela Almeida,Não informado,1998-07-01,Rio de Janeiro,RJ,Sudeste,2025-02-22
+245,Thiago Silva,Feminino,1983-12-29,Fortaleza,CE,Nordeste,2022-03-01
+246,João Araújo,Feminino,1991-06-29,Curitiba,PR,Sul,2022-01-13
+247,Eduarda Gomes,Não informado,1966-03-30,Manaus,AM,Norte,2022-10-18
+248,Ana Oliveira,Masculino,1979-04-20,Goiânia,GO,Centro-Oeste,2024-02-10
+249,Larissa Pereira,Não informado,1993-03-13,Salvador,BA,Nordeste,2023-10-01
+250,Vanessa Oliveira,Feminino,1964-09-19,Florianópolis,SC,Sul,2022-11-15
+251,Yuri Santos,Masculino,1967-04-27,Cuiabá,MT,Centro-Oeste,2023-07-12
+252,Otávio Ribeiro,Masculino,1999-08-28,Goiânia,GO,Centro-Oeste,2024-04-28
+253,Sofia Souza,Feminino,1990-12-19,Vitória,ES,Sudeste,2024-05-30
+254,Vanessa Ribeiro,Feminino,1987-09-02,Curitiba,PR,Sul,2022-04-04
+255,Yuri Santos,Masculino,1960-09-08,Porto Alegre,RS,Sul,2023-02-23
+256,Eduarda Nascimento,Feminino,1985-12-19,Vitória,ES,Sudeste,2023-11-03
+257,Rafael Martins,Masculino,1975-10-06,São Paulo,SP,Sudeste,2022-09-22
+258,Henrique Carvalho,Masculino,1991-10-10,Recife,PE,Nordeste,2022-05-28
+259,Bruno Martins,Feminino,1961-09-06,Manaus,AM,Norte,2024-07-30
+260,Larissa Martins,Não informado,1996-04-13,Manaus,AM,Norte,2025-12-24
+261,João Souza,Masculino,1996-05-03,Porto Alegre,RS,Sul,2022-02-12
+262,Yuri Rocha,Masculino,1992-06-18,Belo Horizonte,MG,Sudeste,2022-06-30
+263,Diego Almeida,Masculino,1999-02-01,Manaus,AM,Norte,2025-04-21
+264,Carla Gomes,Feminino,1987-11-02,Recife,PE,Nordeste,2023-11-27
+265,Felipe Oliveira,Feminino,2005-10-18,Florianópolis,SC,Sul,2025-07-20
+266,Sofia Rodrigues,Não informado,1991-05-06,Recife,PE,Nordeste,2023-12-21
+267,Eduarda Almeida,Masculino,1969-03-22,Manaus,AM,Norte,2022-10-27
+268,Felipe Costa,Não informado,1966-10-05,Vitória,ES,Sudeste,2022-12-29
+269,Patrícia Rocha,Masculino,1988-12-29,Salvador,BA,Nordeste,2025-07-08
+270,Patrícia Oliveira,Não informado,2002-01-25,Belo Horizonte,MG,Sudeste,2024-06-24
+271,Isabela Santos,Feminino,1991-07-29,Curitiba,PR,Sul,2024-11-05
+272,Patrícia Rocha,Masculino,1963-05-17,Curitiba,PR,Sul,2022-04-27
+273,João Oliveira,Não informado,1968-02-06,Manaus,AM,Norte,2025-06-13
+274,Natália Rocha,Não informado,1963-09-06,Recife,PE,Nordeste,2024-07-10
+275,Gabriela Araújo,Feminino,2002-09-02,Goiânia,GO,Centro-Oeste,2024-10-23
+276,Patrícia Souza,Não informado,1990-10-23,São Paulo,SP,Sudeste,2022-06-22
+277,Felipe Santos,Masculino,1982-03-24,Goiânia,GO,Centro-Oeste,2025-12-20
+278,Sofia Carvalho,Masculino,1974-03-29,Salvador,BA,Nordeste,2024-01-16
+279,João Gomes,Não informado,1996-09-02,Belém,PA,Norte,2023-11-24
+280,Bruno Araújo,Feminino,1965-11-29,Fortaleza,CE,Nordeste,2023-11-07
+281,Natália Lima,Não informado,1982-08-10,Recife,PE,Nordeste,2025-09-06
+282,Eduarda Araújo,Não informado,1967-04-24,Manaus,AM,Norte,2025-04-08
+283,Mateus Lima,Não informado,1995-03-01,Belo Horizonte,MG,Sudeste,2022-09-22
+284,Carla Lima,Masculino,1993-10-17,Brasília,DF,Centro-Oeste,2025-08-10
+285,Eduarda Carvalho,Não informado,1968-05-20,Manaus,AM,Norte,2025-08-16
+286,Sofia Fernandes,Masculino,1961-08-20,Porto Alegre,RS,Sul,2024-01-13
+287,Gabriela Araújo,Feminino,2003-08-17,Belo Horizonte,MG,Sudeste,2023-01-29
+288,Eduarda Oliveira,Não informado,1986-07-15,Belo Horizonte,MG,Sudeste,2022-07-27
+289,Thiago Carvalho,Masculino,1963-05-21,Cuiabá,MT,Centro-Oeste,2025-09-17
+290,Yuri Costa,Feminino,1993-10-18,Belém,PA,Norte,2022-11-12
+291,Yuri Pereira,Masculino,1999-04-07,Belo Horizonte,MG,Sudeste,2022-03-31
+292,Henrique Rocha,Feminino,1985-07-24,Florianópolis,SC,Sul,2024-07-08
+293,Henrique Lima,Masculino,2002-01-28,Recife,PE,Nordeste,2023-02-02
+294,Vanessa Rocha,Masculino,2001-06-02,Goiânia,GO,Centro-Oeste,2023-08-01
+295,Sofia Martins,Não informado,1974-07-16,Recife,PE,Nordeste,2023-02-13
+296,Isabela Santos,Não informado,2003-02-11,Belo Horizonte,MG,Sudeste,2024-01-31
+297,Diego Carvalho,Feminino,1971-03-09,Belém,PA,Norte,2023-08-07
+298,Felipe Nascimento,Feminino,2000-04-23,Cuiabá,MT,Centro-Oeste,2024-11-17
+299,Otávio Oliveira,Masculino,1979-12-02,Manaus,AM,Norte,2024-07-12
+300,Ana Martins,Não informado,1964-10-11,Belém,PA,Norte,2024-03-22
+301,Henrique Gomes,Feminino,1967-04-28,Florianópolis,SC,Sul,2024-02-07
+302,Larissa Souza,Feminino,1990-01-29,São Paulo,SP,Sudeste,2022-10-27
+303,João Ribeiro,Masculino,1972-06-13,São Paulo,SP,Sudeste,2025-12-15
+304,Yuri Silva,Masculino,1967-02-09,Salvador,BA,Nordeste,2022-02-08
+305,Eduarda Dias,Masculino,1997-12-21,Vitória,ES,Sudeste,2022-08-16
+306,João Souza,Masculino,1964-04-13,Vitória,ES,Sudeste,2023-05-04
+307,Yuri Rocha,Masculino,1965-08-20,Goiânia,GO,Centro-Oeste,2022-08-16
+308,Thiago Silva,Feminino,2006-03-27,Fortaleza,CE,Nordeste,2025-03-23
+309,Eduarda Lima,Não informado,1998-07-05,Brasília,DF,Centro-Oeste,2022-01-04
+310,Henrique Martins,Não informado,1976-10-20,Florianópolis,SC,Sul,2025-09-22
+311,Sofia Fernandes,Não informado,1966-01-26,Rio de Janeiro,RJ,Sudeste,2024-12-13
+312,Sofia Dias,Masculino,1961-10-28,Recife,PE,Nordeste,2024-03-10
+313,Natália Fernandes,Masculino,1982-10-03,São Paulo,SP,Sudeste,2022-02-03
+314,Carla Fernandes,Não informado,1981-08-19,Cuiabá,MT,Centro-Oeste,2025-09-07
+315,Vanessa Araújo,Masculino,1971-12-20,Rio de Janeiro,RJ,Sudeste,2022-04-01
+316,Larissa Pereira,Masculino,2001-09-06,Recife,PE,Nordeste,2025-11-25
+317,Felipe Costa,Feminino,1965-08-29,Goiânia,GO,Centro-Oeste,2024-07-26
+318,Gabriela Santos,Masculino,1977-11-23,Curitiba,PR,Sul,2022-03-27
+319,João Carvalho,Masculino,1995-09-23,Belém,PA,Norte,2025-01-17
+320,Bruno Rodrigues,Feminino,1985-09-01,Curitiba,PR,Sul,2024-01-02
+321,Larissa Nascimento,Masculino,1971-03-02,Manaus,AM,Norte,2024-01-24
+322,Natália Rocha,Feminino,1994-09-08,Belém,PA,Norte,2023-11-26
+323,Rafael Fernandes,Feminino,2006-08-02,Salvador,BA,Nordeste,2023-07-01
+324,Otávio Oliveira,Feminino,1998-08-19,Brasília,DF,Centro-Oeste,2025-05-18
+325,João Araújo,Masculino,1969-03-15,Recife,PE,Nordeste,2022-06-13
+326,João Lima,Não informado,2000-01-02,Goiânia,GO,Centro-Oeste,2025-05-19
+327,Felipe Rocha,Feminino,1991-07-16,Porto Alegre,RS,Sul,2024-07-04
+328,Mateus Martins,Feminino,1984-08-18,Brasília,DF,Centro-Oeste,2025-08-02
+329,Natália Fernandes,Feminino,2006-01-11,Rio de Janeiro,RJ,Sudeste,2025-10-23
+330,Eduarda Rocha,Feminino,1963-02-14,São Paulo,SP,Sudeste,2022-09-16
+331,Mateus Fernandes,Feminino,1994-05-07,Vitória,ES,Sudeste,2025-03-07
+332,Eduarda Rocha,Masculino,1993-04-12,Fortaleza,CE,Nordeste,2024-02-01
+333,Carla Costa,Masculino,1992-12-02,Cuiabá,MT,Centro-Oeste,2024-03-26
+334,Isabela Almeida,Não informado,1970-03-06,Goiânia,GO,Centro-Oeste,2022-02-23
+335,Rafael Carvalho,Feminino,1994-09-19,Belo Horizonte,MG,Sudeste,2025-02-24
+336,Isabela Rocha,Masculino,1979-04-02,Curitiba,PR,Sul,2025-06-07
+337,Rafael Rodrigues,Feminino,1971-01-01,Brasília,DF,Centro-Oeste,2022-10-05
+338,Felipe Rocha,Masculino,1967-11-16,Salvador,BA,Nordeste,2025-10-28
+339,Mateus Oliveira,Feminino,1986-01-18,Goiânia,GO,Centro-Oeste,2023-09-07
+340,Felipe Fernandes,Feminino,2005-08-22,Brasília,DF,Centro-Oeste,2023-04-05
+341,Eduarda Almeida,Masculino,2004-04-27,Vitória,ES,Sudeste,2022-02-23
+342,Vanessa Fernandes,Feminino,2001-12-06,Recife,PE,Nordeste,2025-02-03
+343,Carla Oliveira,Não informado,1987-09-30,Fortaleza,CE,Nordeste,2024-03-26
+344,Rafael Carvalho,Não informado,1996-11-07,Brasília,DF,Centro-Oeste,2024-04-18
+345,Eduarda Araújo,Masculino,1966-08-27,Rio de Janeiro,RJ,Sudeste,2024-07-10
+346,Sofia Fernandes,Não informado,1971-07-07,Goiânia,GO,Centro-Oeste,2025-02-03
+347,Felipe Costa,Feminino,1998-10-24,Fortaleza,CE,Nordeste,2024-10-26
+348,Diego Carvalho,Feminino,1973-09-23,Manaus,AM,Norte,2023-09-15
+349,Larissa Almeida,Masculino,1991-01-16,Belo Horizonte,MG,Sudeste,2024-11-28
+350,Carla Nascimento,Não informado,1977-08-11,Manaus,AM,Norte,2025-07-24
+351,Eduarda Lima,Não informado,1968-05-19,Curitiba,PR,Sul,2024-10-26
+352,Vanessa Costa,Não informado,1975-05-11,Belo Horizonte,MG,Sudeste,2025-09-11
+353,Yuri Araújo,Feminino,1963-09-11,Brasília,DF,Centro-Oeste,2022-02-28
+354,Vanessa Nascimento,Masculino,1978-11-29,São Paulo,SP,Sudeste,2025-03-17
+355,Ana Ribeiro,Masculino,1985-12-26,Fortaleza,CE,Nordeste,2025-08-07
+356,Henrique Gomes,Feminino,1986-09-07,Salvador,BA,Nordeste,2024-07-17
+357,Bruno Pereira,Masculino,1999-06-09,Brasília,DF,Centro-Oeste,2024-05-01
+358,Gabriela Araújo,Não informado,1972-11-20,Salvador,BA,Nordeste,2023-10-03
+359,Mateus Gomes,Não informado,1971-09-24,Florianópolis,SC,Sul,2024-01-29
+360,Diego Araújo,Feminino,1981-09-08,Recife,PE,Nordeste,2024-08-13
+361,Patrícia Almeida,Feminino,1972-08-21,Curitiba,PR,Sul,2022-07-18
+362,Natália Martins,Masculino,1982-04-10,Curitiba,PR,Sul,2022-11-24
+363,Vanessa Araújo,Masculino,1977-01-11,Belém,PA,Norte,2022-11-23
+364,Patrícia Ribeiro,Feminino,1987-09-06,Recife,PE,Nordeste,2024-10-15
+365,Natália Carvalho,Feminino,2001-01-07,Rio de Janeiro,RJ,Sudeste,2023-05-09
+366,Mateus Santos,Masculino,1964-07-14,Fortaleza,CE,Nordeste,2023-07-31
+367,Rafael Lima,Masculino,1960-09-24,Fortaleza,CE,Nordeste,2022-08-09
+368,Isabela Fernandes,Feminino,1996-03-05,Belo Horizonte,MG,Sudeste,2024-01-20
+369,Bruno Dias,Não informado,1977-06-18,Porto Alegre,RS,Sul,2024-01-13
+370,Carla Gomes,Não informado,2005-03-28,Curitiba,PR,Sul,2024-07-11
+371,Yuri Souza,Masculino,1971-07-18,Curitiba,PR,Sul,2022-07-18
+372,Larissa Dias,Feminino,1992-10-19,Florianópolis,SC,Sul,2022-10-23
+373,Sofia Gomes,Feminino,2004-11-11,Fortaleza,CE,Nordeste,2022-03-24
+374,Eduarda Araújo,Masculino,2002-07-02,São Paulo,SP,Sudeste,2024-11-29
+375,Yuri Carvalho,Não informado,1972-07-16,Belo Horizonte,MG,Sudeste,2023-11-03
+376,Felipe Gomes,Masculino,1986-11-05,Florianópolis,SC,Sul,2025-04-30
+377,Sofia Dias,Não informado,2003-12-12,Recife,PE,Nordeste,2025-12-22
+378,Rafael Silva,Não informado,1993-01-17,Curitiba,PR,Sul,2023-11-10
+379,Otávio Lima,Masculino,1962-05-23,Rio de Janeiro,RJ,Sudeste,2025-05-07
+380,Vanessa Almeida,Masculino,1964-08-09,Curitiba,PR,Sul,2025-04-10
+381,Sofia Gomes,Feminino,1973-04-04,Belo Horizonte,MG,Sudeste,2025-10-26
+382,Vanessa Souza,Masculino,1977-02-11,São Paulo,SP,Sudeste,2022-02-08
+383,Otávio Costa,Feminino,1997-01-17,Florianópolis,SC,Sul,2025-11-15
+384,Sofia Ribeiro,Feminino,1965-08-02,Porto Alegre,RS,Sul,2025-12-16
+385,Gabriela Dias,Masculino,1989-02-28,Recife,PE,Nordeste,2025-09-18
+386,Natália Araújo,Não informado,1975-07-15,Recife,PE,Nordeste,2024-07-30
+387,Thiago Fernandes,Masculino,1983-09-19,Florianópolis,SC,Sul,2025-06-03
+388,Henrique Nascimento,Masculino,1986-10-12,Vitória,ES,Sudeste,2023-04-06
+389,João Rodrigues,Masculino,2003-11-14,Cuiabá,MT,Centro-Oeste,2023-10-12
+390,Thiago Nascimento,Não informado,1985-10-26,Florianópolis,SC,Sul,2022-09-07
+391,Thiago Gomes,Feminino,1995-05-25,Goiânia,GO,Centro-Oeste,2023-12-08
+392,Bruno Lima,Masculino,1967-02-02,Curitiba,PR,Sul,2023-12-11
+393,Isabela Ribeiro,Não informado,1979-03-13,Goiânia,GO,Centro-Oeste,2023-02-18
+394,Thiago Nascimento,Não informado,1972-04-25,Curitiba,PR,Sul,2022-08-12
+395,Vanessa Almeida,Não informado,1981-10-01,Brasília,DF,Centro-Oeste,2022-04-14
+396,Sofia Almeida,Feminino,1980-11-20,Belém,PA,Norte,2022-04-18
+397,Larissa Ribeiro,Feminino,1969-01-07,Porto Alegre,RS,Sul,2025-10-27
+398,Thiago Pereira,Masculino,1996-07-03,São Paulo,SP,Sudeste,2025-08-30
+399,Gabriela Lima,Não informado,1988-10-24,Salvador,BA,Nordeste,2023-08-08
+400,Carla Almeida,Masculino,1963-05-07,São Paulo,SP,Sudeste,2022-12-25
+401,Felipe Santos,Feminino,1995-08-13,Belém,PA,Norte,2024-10-11
+402,João Santos,Não informado,1960-10-30,Belém,PA,Norte,2023-09-04
+403,Diego Araújo,Não informado,1985-07-12,Fortaleza,CE,Nordeste,2024-07-19
+404,Sofia Ribeiro,Masculino,1972-01-15,Recife,PE,Nordeste,2024-10-29
+405,Gabriela Souza,Não informado,1989-08-31,Curitiba,PR,Sul,2022-11-29
+406,Isabela Pereira,Masculino,1961-04-06,Salvador,BA,Nordeste,2023-11-22
+407,Gabriela Pereira,Não informado,1996-05-18,Fortaleza,CE,Nordeste,2024-05-25
+408,Carla Gomes,Feminino,1968-07-22,Florianópolis,SC,Sul,2023-01-14
+409,Larissa Almeida,Masculino,1960-08-11,Salvador,BA,Nordeste,2023-06-19
+410,Patrícia Nascimento,Não informado,1989-07-28,Vitória,ES,Sudeste,2023-09-11
+411,Vanessa Silva,Masculino,1983-06-19,Brasília,DF,Centro-Oeste,2025-08-31
+412,Henrique Santos,Masculino,1970-08-09,Brasília,DF,Centro-Oeste,2024-08-11
+413,Natália Carvalho,Feminino,1987-11-25,Belo Horizonte,MG,Sudeste,2025-11-14
+414,João Fernandes,Feminino,1979-10-24,Goiânia,GO,Centro-Oeste,2023-03-25
+415,Eduarda Rocha,Não informado,1993-07-08,Salvador,BA,Nordeste,2024-05-01
+416,Rafael Dias,Não informado,1979-08-05,Recife,PE,Nordeste,2023-05-22
+417,Yuri Oliveira,Não informado,2000-01-30,Cuiabá,MT,Centro-Oeste,2024-12-17
+418,Carla Souza,Não informado,1965-07-16,Florianópolis,SC,Sul,2025-01-26
+419,Vanessa Dias,Masculino,1973-06-11,Vitória,ES,Sudeste,2022-12-03
+420,Sofia Rocha,Feminino,1970-06-05,Manaus,AM,Norte,2025-10-25
+421,Vanessa Ribeiro,Masculino,1968-02-27,Brasília,DF,Centro-Oeste,2024-11-11
+422,Bruno Rocha,Masculino,1971-11-02,Cuiabá,MT,Centro-Oeste,2024-11-17
+423,Vanessa Santos,Masculino,2001-06-25,Salvador,BA,Nordeste,2025-10-09
+424,Ana Gomes,Não informado,1982-10-30,Brasília,DF,Centro-Oeste,2022-01-07
+425,Vanessa Oliveira,Masculino,1964-01-24,Vitória,ES,Sudeste,2024-05-17
+426,Carla Dias,Masculino,1965-05-28,Brasília,DF,Centro-Oeste,2022-05-22
+427,João Martins,Não informado,1976-02-23,São Paulo,SP,Sudeste,2022-10-05
+428,Otávio Fernandes,Masculino,1994-04-25,Brasília,DF,Centro-Oeste,2024-07-07
+429,Carla Dias,Masculino,1971-12-06,Porto Alegre,RS,Sul,2025-08-31
+430,Felipe Dias,Feminino,1995-04-06,Rio de Janeiro,RJ,Sudeste,2024-12-19
+431,Henrique Silva,Masculino,1962-01-14,Brasília,DF,Centro-Oeste,2023-09-04
+432,Thiago Martins,Feminino,1994-01-10,Goiânia,GO,Centro-Oeste,2023-04-16
+433,Mateus Costa,Não informado,1984-09-23,Salvador,BA,Nordeste,2023-01-22
+434,Diego Santos,Feminino,1997-08-11,Cuiabá,MT,Centro-Oeste,2025-06-13
+435,Gabriela Oliveira,Feminino,1969-01-19,Vitória,ES,Sudeste,2025-05-01
+436,Yuri Santos,Masculino,1981-12-15,Salvador,BA,Nordeste,2022-04-01
+437,Henrique Dias,Feminino,1979-06-29,Salvador,BA,Nordeste,2022-04-26
+438,João Almeida,Não informado,1988-08-10,Recife,PE,Nordeste,2025-03-28
+439,Larissa Almeida,Não informado,1987-01-27,Cuiabá,MT,Centro-Oeste,2022-10-21
+440,Henrique Martins,Feminino,1986-12-16,Recife,PE,Nordeste,2023-07-18
+441,Vanessa Pereira,Masculino,1998-04-29,Recife,PE,Nordeste,2025-02-12
+442,Mateus Gomes,Masculino,1988-08-05,São Paulo,SP,Sudeste,2025-11-27
+443,Eduarda Lima,Não informado,1993-10-09,Porto Alegre,RS,Sul,2023-01-12
+444,Henrique Almeida,Feminino,1986-12-24,Salvador,BA,Nordeste,2025-12-20
+445,Patrícia Santos,Não informado,1997-01-08,Cuiabá,MT,Centro-Oeste,2024-05-03
+446,Eduarda Gomes,Feminino,1981-10-14,Recife,PE,Nordeste,2023-06-07
+447,Carla Rocha,Não informado,1993-04-16,Florianópolis,SC,Sul,2022-07-09
+448,Gabriela Santos,Não informado,1984-01-31,Brasília,DF,Centro-Oeste,2024-02-12
+449,Yuri Santos,Não informado,1966-07-12,Fortaleza,CE,Nordeste,2023-01-21
+450,Thiago Rodrigues,Masculino,2003-01-03,Brasília,DF,Centro-Oeste,2023-03-04
+451,Ana Rodrigues,Não informado,1977-01-17,Curitiba,PR,Sul,2022-08-29
+452,Rafael Almeida,Feminino,1978-05-07,Cuiabá,MT,Centro-Oeste,2024-03-23
+453,Larissa Lima,Não informado,1994-02-24,Recife,PE,Nordeste,2024-08-12
+454,Mateus Lima,Não informado,1983-06-19,Goiânia,GO,Centro-Oeste,2024-01-07
+455,Rafael Rocha,Masculino,1968-11-05,Belém,PA,Norte,2024-08-19
+456,Gabriela Fernandes,Feminino,1988-01-27,Belém,PA,Norte,2024-04-27
+457,Henrique Costa,Não informado,1961-06-15,Fortaleza,CE,Nordeste,2023-06-19
+458,Vanessa Martins,Feminino,1986-06-25,Belém,PA,Norte,2022-11-09
+459,Henrique Gomes,Não informado,1982-01-17,Florianópolis,SC,Sul,2024-10-19
+460,Larissa Nascimento,Não informado,2003-11-02,Goiânia,GO,Centro-Oeste,2025-08-07
+461,Patrícia Pereira,Feminino,1991-08-06,Salvador,BA,Nordeste,2022-12-13
+462,Thiago Ribeiro,Não informado,1976-07-05,Brasília,DF,Centro-Oeste,2025-01-15
+463,Sofia Santos,Feminino,1966-09-01,São Paulo,SP,Sudeste,2025-09-30
+464,Ana Martins,Feminino,1972-05-02,Cuiabá,MT,Centro-Oeste,2025-07-15
+465,Eduarda Silva,Masculino,1979-08-16,Rio de Janeiro,RJ,Sudeste,2024-11-01
+466,Bruno Ribeiro,Feminino,2003-10-08,Florianópolis,SC,Sul,2022-02-02
+467,Thiago Martins,Não informado,1961-01-23,Recife,PE,Nordeste,2022-02-04
+468,Isabela Dias,Não informado,1985-09-20,Brasília,DF,Centro-Oeste,2022-02-05
+469,Otávio Pereira,Não informado,1969-08-07,Manaus,AM,Norte,2022-07-17
+470,Henrique Rodrigues,Masculino,1982-08-24,Belo Horizonte,MG,Sudeste,2023-12-27
+471,Natália Oliveira,Masculino,1993-06-20,Cuiabá,MT,Centro-Oeste,2024-04-11
+472,Henrique Almeida,Feminino,1986-11-29,Fortaleza,CE,Nordeste,2025-11-01
+473,Bruno Oliveira,Masculino,1996-05-11,Goiânia,GO,Centro-Oeste,2024-02-16
+474,Rafael Santos,Feminino,1960-11-05,Recife,PE,Nordeste,2025-12-10
+475,Rafael Martins,Feminino,1989-09-20,Rio de Janeiro,RJ,Sudeste,2025-03-04
+476,Sofia Santos,Não informado,1980-08-11,Belém,PA,Norte,2023-03-09
+477,Vanessa Ribeiro,Feminino,1984-04-27,Belém,PA,Norte,2022-04-06
+478,Isabela Dias,Masculino,1962-12-14,Goiânia,GO,Centro-Oeste,2023-01-03
+479,Gabriela Costa,Masculino,1995-09-25,São Paulo,SP,Sudeste,2022-06-07
+480,Vanessa Almeida,Não informado,1994-11-29,Belo Horizonte,MG,Sudeste,2025-10-18
+481,Natália Costa,Não informado,1967-01-13,Florianópolis,SC,Sul,2024-10-22
+482,Bruno Souza,Feminino,1999-03-19,Florianópolis,SC,Sul,2023-04-21
+483,Yuri Gomes,Não informado,1989-04-12,Florianópolis,SC,Sul,2022-03-02
+484,Patrícia Ribeiro,Não informado,1980-06-19,Curitiba,PR,Sul,2023-12-30
+485,Otávio Pereira,Não informado,1994-02-05,Porto Alegre,RS,Sul,2022-06-25
+486,Henrique Oliveira,Feminino,1967-05-12,Curitiba,PR,Sul,2023-07-03
+487,Eduarda Gomes,Feminino,1988-05-29,Porto Alegre,RS,Sul,2024-01-09
+488,Ana Lima,Masculino,1999-11-25,Rio de Janeiro,RJ,Sudeste,2024-01-08
+489,Eduarda Oliveira,Masculino,1976-10-23,Rio de Janeiro,RJ,Sudeste,2024-06-01
+490,Thiago Carvalho,Feminino,1996-08-09,Recife,PE,Nordeste,2022-07-31
+491,Mateus Dias,Não informado,1968-05-07,Rio de Janeiro,RJ,Sudeste,2025-05-07
+492,Larissa Gomes,Masculino,1961-02-08,Cuiabá,MT,Centro-Oeste,2023-08-21
+493,Carla Dias,Não informado,1981-10-11,Porto Alegre,RS,Sul,2025-03-17
+494,Natália Pereira,Masculino,1972-06-15,Belo Horizonte,MG,Sudeste,2023-07-05
+495,Rafael Costa,Masculino,1965-09-04,Curitiba,PR,Sul,2022-12-09
+496,Otávio Lima,Masculino,2003-06-11,Curitiba,PR,Sul,2022-06-07
+497,Henrique Ribeiro,Feminino,1977-07-17,Curitiba,PR,Sul,2024-07-26
+498,João Silva,Não informado,1995-07-02,Belo Horizonte,MG,Sudeste,2023-11-12
+499,Larissa Rocha,Não informado,1990-01-11,Porto Alegre,RS,Sul,2024-05-31
+500,Eduarda Lima,Não informado,1988-10-07,Fortaleza,CE,Nordeste,2025-05-20
